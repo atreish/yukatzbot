@@ -1,0 +1,30 @@
+1. Train the Rasa model:
+
+-- rasa train
+This command will train the Rasa model using the configured NLU data, stories, and domain.
+
+2. Start the action server:
+
+-- rasa run actions
+This command will start the custom action server, allowing the bot to execute custom actions defined in your code.
+
+3. Start the Rasa server:
+
+-- rasa run -m models --enable-api --cors "*" --debug
+This command will start the Rasa server, loading the trained model and exposing an API endpoint for communication.
+
+4. Test the bot:
+You can now interact with the bot using various methods like the command-line interface, REST API, or a chat interface integrated with Rasa.
+
+Command-line interface:
+
+-- rasa shell
+This command will start an interactive session where you can have a conversation with the bot in the command-line interface.
+
+REST API:
+You can send HTTP requests to the Rasa server's API endpoint to chat with the bot. For example, you can use tools like cURL or Postman to send POST requests to http://localhost:5005/webhooks/rest/webhook with the appropriate payload.
+
+Chat interface:
+You can integrate Rasa with a chat interface like Facebook Messenger, Slack, or your custom UI using the provided SDKs or by configuring the appropriate channels in the credentials.yml file.
+
+That's it! You can now train your model, start the action server, and interact with the bot using the Rasa command-line interface, REST API, or a chat interface.
