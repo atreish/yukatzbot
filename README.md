@@ -1,6 +1,15 @@
 # yukatzbot
 The official repository for Katz School's Internet Bot developed for the MS in Artificial Intelligence program
 
+## Technologies
+<div align="center">   
+
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ![Rasa](https://img.shields.io/badge/Rasa-3.5.10-blue?style=for-the-badge&logo=rasa&logoColor=white)
+ ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
 ## Table of Contents
 1. [Requirements](#requirements)
 2. [Installation](#installation)
