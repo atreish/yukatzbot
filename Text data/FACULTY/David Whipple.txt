@@ -1,0 +1,7 @@
+
+
+David Whipple, Ph.D.
+EXPERTISE: Military information security and IT
+
+Dr. David Whipple has a 26-year background in military information security and IT, and 16 years working with commercial organizations in banking and finance, healthcare, e-commerce, power and critical infrastructure, and travel and hospitality. His academic research and publications center on the relationships between risk management, information security and organizational culture. He developed and deployed an Amazon Web Services cloud solution for Office365, Microsoft Teams and Windows Virtual Desktop, and enabled multifactor employee authentication for a large New York hospital that allowed remote employees to work from home. He built a secure repository for proprietary research material with strict identification and access controls and multifactor employee authentication for a New York medical research facility. He led a team of security and IT specialists in managing and remediating cyberattacks for a financial services company that was shut down due to ransomware. He holds a Ph.D. in information assurance and security from Capella University, an M.S. in logistics automation management from Florida Institute of Technology, and M.S. in information operations, IT risk and security from the United States Army Command and General Staff College.
+

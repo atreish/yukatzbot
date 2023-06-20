@@ -1,0 +1,8 @@
+
+
+Andy Catlin,:
+
+EXPERTISE: Financial Instrument Pricing and Forecasting
+
+Andy Catlin is a data scientist and data system developer, skilled at financial instrument pricing and forecasting using the weighted Black Scholes Merton model, as well as incorporating yield curve analysis into emerging markets products. He is experienced at migrating client-server systems into web and cloud-hosted solutions, and his key initiatives included incorporating artificial intelligence and neural networks in specialized applications, C++ financial libraries, security authentication bottleneck correction, patient-days forecasting model using Box Jenkins, production replication architectures, and multiphase commit and log-shipping architectures. His major clients include Fidelity Investments, Smart Money, Donaldson, Lufkin and Jenrette, Manufacturers Hanover Trust, the National Football League and The Wall Street Journal. He is the founder of the tech startup Hudson Technology Group, which was acquired by Incepta. He teaches the Capstone; Internship; and Independent Study, as well as training courses include Python, R, Java, C, C++, SQL, and NoSQL. He holds an undergraduate degree from the City University of New York.
+

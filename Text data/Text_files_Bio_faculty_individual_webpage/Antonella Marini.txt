@@ -1,0 +1,100 @@
+Antonella Marini
+PROFESSOR, DEPARTMENT OF MATHEMATICS AT YESHIVA COLLEGE
+
+EDUCATION:
+PhD in Mathematics, University of Chicago
+MS in Mathematics, University of Chicago
+Laurea in Matematica, University of Rome 1 "La Sapienza"
+BIOGRAPHY:
+Antonella Marini was born in Italy. She did her graduate studies in Mathematics at the University of Chicago, specializing in boundary value problems in gauge theories. She has worked at the Courant Institute of NYU as a Postdoctoral Fellow, at the University of Utah as a full time Instructor, at the University of L'Aquila as a tenured Researcher and as a tenured Associate Professor.
+
+TEACHING AND RESEARCH INTERESTS:
+Her research involves the areas of Geometric Analysis, Partial Differential Equations and Mathematical Physics. More specifically, it focuses on nonlinear partial differential equations and boundary value problems arising in gauge theories, such as Yang-Mills and Yang-Mills-Higgs theory, bosonic field theories and nonlinear Hodge and Hodge-Frobenius Theory. Other research interests include the Calculus of Variations, harmonic maps, Ginzburg Landau vortices, quantum field theories (related to her work on gauge theories); elliptic--hyperbolic equations and applications (related to her work on the Hodge-Frobenius equations). Her teaching interests include Ordinary and Partial Differential Equations with applications to modeling in environmental and biological sciences, Calculus and Advanced Calculus, Topology, Linear Algebra, Abstract Algebra, Real and Complex Variables, Functional Analysis, Geometric Analysis, Morse Theory, Differential Geometry and Lie Groups.
+
+HONORS AND AWARDS:
+Instructorship Award at the University of Utah.
+
+PUBLICATIONS:
+Selected publications on Boundary Value problems in Gauge Theories, Quantum Mechanics and Field Theory:
+
+[M], Moncrief V., Maitra R., A Euclidean signature semi-classical program. Commun. Analysis and Geometry, to appear. https://arxiv.org/abs/1901.02380
+
+ 
+
+Moncrief V., [M], Maitra R., Orbit space curvature as a source of mass in quantum gauge theory. Ann. Math. Sci. Appl., 4 (2019), no. 2, 313-366. 81T13 (81S10)
+
+ 
+
+[M], Maitra R., Moncrief V., Euclidean signature semi-classical methods for bosonic field theories: interacting scalar fields. Ann. Math. Sci. Appl. 1 (2016), no. 1, 3–55. 81Q20 (35J10)
+
+ 
+
+Moncrief V., [M], Maitra R., Modified semi-classical methods for nonlinear quantum oscillations problems. J. Math. Phys. 53 (2012), no. 10, 103516, 51 pp.  81Q20
+
+ 
+
+ 
+Isobe T., [M], Small coupling limit and multiple solutions to the Dirichlet problem for Yang-Mills connections in four dimensions. II. J. Math. Phys. 53 (2012), no. 6, 063707, 39 pp. 53C07 (81T13)
+ 
+Isobe T., [M], Small coupling limit and multiple solutions to the Dirichlet problem for Yang-Mills connections in four dimensions. I. J. Math. Phys. 53 (2012), no. 6, 063706, 39 pp. 53C07 (81T13)
+
+ 
+
+[M], A boundary value problem for monopoles over a 3-dimensional disk. Int. J. Geom. Methods Mod. Phys. 1 (2004), no. 4, 405–422. 58E15 (53C07 58E50)
+
+ 
+
+ 
+[M], Sadun L., Spherically symmetric solutions of a boundary value problem for monopoles. J. Math. Phys. 44 (2003), no. 3, 1071–1083. 58E15 (53C07 81T13)
+
+ 
+
+ 
+[M],  Regularity theory for the generalized Neumann problem for Yang-Mills connections—non-trivial examples in dimensions 3 and 4. Math. Ann. 317 (2000), no. 1, 173–193. 58E15 (53C07)
+
+ 
+
+ 
+[M],  The generalized Neumann problem for Yang-Mills connections. Comm. Partial Differential Equations 24 (1999), no. 3-4, 665–681. 58E15 (35Q99 53C07)
+ 
+ 
+[M],  A topological method for finding non-absolute minima for the Yang-Mills functional with Dirichlet data. Geometry, topology and physics (Campinas, 1996), 191–199, de Gruyter, Berlin, 1997. 58E15 (58E20)
+ 
+ 
+Isobe T., [M], On topologically distinct solutions of the Dirichlet problem for Yang-Mills connections. Calc. Var. Partial Differential Equations 5 (1997), no. 4, 345–358. 58E15 (53C07)
+
+ 
+
+[M], Elliptic boundary value problems for connections: a non-linear Hodge theory. Workshop on the Geometry and Topology of Gauge Fields (Campinas, 1991). Mat. Contemp. 2 (1992), 195–205. 58G20 (53C07)
+
+ 
+
+[M],  Dirichlet and Neumann boundary value problems for Yang-Mills connections. Comm. Pure Appl. Math. 45 (1992), no. 8, 1015–1050. 58E15 (35Q99)
+
+ 
+
+[M],  Boundary value problems for Yang-Mills connections. C. R. Acad. Sci. Paris Sér. I Math. 312 (1991), no. 7, 503–508. 58E15 (53C07 58G20)
+
+ 
+
+Selected publications on Nonlinear Hodge and Hodge-Frobenius Theories, and classical Partial Differential Equations:
+ 
+[M], Otway T. H., Strong solutions to a class of boundary value problems on a mixed Riemannian-Lorentzian metric. Discrete Contin. Dyn. Syst. 2015, Dynamical systems, differential equations and applications. 10th AIMS Conference. Suppl., 801–808. 35M32 (35D35 35F50 35J93 58J32)
+ 
+[M], Otway T. H., Duality methods for a class of quasilinear systems. Ann. Inst. H. Poincaré Anal. Non Linéaire 31 (2014), no. 2, 339–348.  58A14 (35J47 35J62 35R01)
+ 
+[M], Otway T. H., Constructing completely integrable fields by a generalized-streamlines method. Commun. Inf. Syst. 13 (2013), no. 3, 327–355.  35Q35 (76H05)
+ 
+[M], Otway T. H., Hodge-Frobenius equations and the Hodge-Bäcklund transformation. Proc. Roy. Soc. Edinburgh Sect. A 140 (2010), no. 4, 787–819. 58A14 (35Q35 58E30 76A02)
+ 
+Bauman P., [M], Nesi V., Univalent solutions of an elliptic system of partial differential equations arising in homogenization, Indiana Univ. Math. J. 50 (2001), no. 2, 747–757. 35J45 (31A05 35B27).
+
+EMAIL:
+marini@yu.edu
+OFFICE PHONE:
+(212) 960-5400 ext 6856
+OFFICE ADDRESS:
+Wilf campus - Belfer Hall
+Room#536
+2495 Amsterdam Avenue
+New York, NY 10033

@@ -1,0 +1,8 @@
+
+
+Sai Praveen Kadiyala, Ph.D:
+
+EXPERTISE: Microservice security, evasive malware analysis, automotive and embedded security, approximate computing and adversarial learning.
+
+Dr. Kadiyala is a postdoctoral research fellow in the M.S. in Artificial Intelligence program. From 2015 to 2016, he was a postdoctoral fellow at Nanyang Technological University in Singapore in the field of designing approximate architectures for low-power hearing aids in the School of Electrical Engineering, and from 2016 to 2019 a postdoctoral fellow in the field of cybersecurity for embedded systems in the School of Computer Science and Engineering. From 2019 to 2021, he was a research scientist at System Security Group, Institute for Infocomm Research, A-STAR Singapore. He was involved in developing anomaly detection algorithms for program behavior analysis and characterization of malware. His research work is supported by grants from the Science and Engineering Research Council (SERC) and A-STAR Core Grant. He holds a Ph.D. in computer science engineering from the Indian Institute of Technology, Kharagpur.
+

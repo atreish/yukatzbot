@@ -1,0 +1,7 @@
+
+
+David Sweet, Ph.D.
+EXPERTISE: Quantitative Trading
+
+David Sweet is a quantitative trader and former machine learning engineer at 3Red Partners, a social media company in New York. He co-founded a cryptocurrency trading company, Bedford Ave. Trading/Galaxy Digital Trading, which was acquired by the first crypto-focused investment bank. He was the principal author of KDE 2.0 Development, published by Macmillan in 2000, and was a contributing author to Special Edition: Using KDE, also published by Macmillan, both books about computer programming and experimental methods for ML engineers working in finance and technology. His book, Tuning Up: From A/B Testing to Bayesian Optimization, which is an extension of his lectures on tuning quantitative trading systems over the past three years, will be published by Manning this year. In addition, he has published research in Nature, Physical Review Letters and Physical Review D, and helped fashion the Nature research into an exhibit at the Museum of Mathematics in New York City. David holds a Ph.D. in physics from the University of Maryland, and a B.S. in physics and B.A. in mathematics from Duke University.
+

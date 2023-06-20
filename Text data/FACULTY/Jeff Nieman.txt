@@ -1,0 +1,8 @@
+
+
+Jeff Nieman, M.S.:
+
+EXPERTISE: Visualization and Predictive Modeling
+
+Jeff Nieman is a data scientist and project manager with expertise in visualization and predictive modeling for Fortune 500 companies, including Ford and Cisco. His current work involves building systems engineering and model governance and support using open source and COTS software, like Alteryx, Qlik, Tableau and DataRobot. He led an initiative to leverage data-science optimization across complex server ecosystems, increasing server performance and minimizing risk through automated system and usage monitoring. Other key projects have included automating quoting for service renewals, tracking quoting and booking against opportunity data, enabling users to embed snapshots of visualizations in email notifications, and developing a major app for all Ford drivers. He teaches Predictive Modeling; Mathematics; Statistics; Machine Learning; and Project Management. He holds and M.S. in data science from the City University of New York and a B.S. in chemical engineering from Michigan University.
+

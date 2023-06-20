@@ -1,0 +1,8 @@
+
+
+Sergey Fogelson, Ph.D.:
+
+EXPERTISE: Media and Advertising-Related Forecasting, Large-scale Anonymized Identity Models
+
+Dr. Sergey Fogelson is a data scientist and data product architect with expertise in media and advertising-related pricing, scheduling and forecasting, as well as in large-scale anonymized identity models. His major projects include building petabyte-scale data warehouses for media-asset management and consumption-analysis use cases; fault-tolerant data products utilizing human-in-the-loop, machine-learning algorithms for back-office financial applications; and risk-scoring algorithms for third-party cybersecurity vendor risk management. His doctoral research examined hierarchical-category learning mechanisms in the visual system utilizing supervised learning algorithms applied to functional magnetic resonance imaging data. He teaches Computational Statistics; Linear Algebra; and Machine Learning. He holds a Ph.D. in cognitive neuroscience from Dartmouth College, and a B.A. and M.S. in cognitive science from the University of Georgia.
+
