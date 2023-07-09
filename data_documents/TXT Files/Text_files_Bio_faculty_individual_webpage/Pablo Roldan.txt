@@ -1,0 +1,30 @@
+Pablo Roldan
+ASSISTANT PROFESSOR
+
+EDUCATION:
+Master of Science, Universitat Politecnica de Catalunya, 2013
+PhD, Universitat Politecnica de Catalunya, 2007
+Master of Science, KTH Royal Institute of Technology, 2000
+Bachelor of Science, Universitat Politecnica de Catalunya, 1998
+BIOGRAPHY:
+Pablo Roldan joined Yeshiva University in 2017. He held previous appointments at ITAM, Mexico City (tenure-track assistant professor, 2015-2017), University of Maryland, College Park (M. Brin postdoctoral research fellow, 2014-2015), and Universitat Politecnica de Catalunya, Barcelona (postdoctoral research assistant, 2005-2014).
+
+TEACHING AND RESEARCH INTERESTS:
+My research is in the area of Differential Equations and Dynamical Systems, more specifically Hamiltonian systems. The approach is both rigorous and numeric, with special attention to applications. I like writting my own software: special-purpose numerical algorithms for dynamical systems, and in some cases High-Performance Computing programs that are executed in dedicated computer clusters. Besides Mathematics I also have a strong interest in Finance. Sporadically I collaborate with software companies as external scientific consultant for problems involving HPC, Big Data, and Statistics.
+
+HONORS AND AWARDS:
+Investigador Nacional (SNI) Nivel I by CONACYT, 2017. Michael Brin Research Fellowship, University of Maryland, 2014. Pre-emptive recruitment fellowship, University of Texas, 2004.
+
+Recipient of several grants from the National Science Foundation.
+
+EMAIL:
+pablo.roldan@yu.edu
+OFFICE PHONE:
+212-960-5400 x5929
+OFFICE ADDRESS:
+Wilf campus - Belfer Hall
+Room#1108
+
+OFFICE ADDRESS (SECONDARY):
+Beren campus - 215 Lexington Ave
+Room#711

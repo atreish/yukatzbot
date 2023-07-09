@@ -1,0 +1,11 @@
+
+
+Michael Schulte, M.A.
+EXPERTISE: Health economics, healthcare quality      
+
+Michael Schulte is an instructor in both the artificial intelligence and data analytics master’s programs at the Katz School. He is a health data scientist with expertise in health economics and healthcare quality. His research is focused on incorporating social determinants of health into healthcare quality, on improving on how quality is measured and evaluated in the long run, and on the ethical aspects of data science in healthcare.   
+
+As a data analysis consultant with CareFirst Blue Cross/Blue Shield, he is currently leading a team effort to develop innovative ways for measuring and improving health care quality using predictive models and data-driven intervention and anticipation programs. Prior to that, he was a senior health data analyst for Medicare STARS at Johns Hopkins HealthCare, where he built Tableau dashboards and developed executive-level reports to support Medicare STARS initiatives.     
+
+He holds an M.A. in applied economics and a B.A. in mathematics and philosophy from Western Michigan University, and teaches courses in Computational Statistics and Probability; Bayesian Statistics; Machine Learning; and Neural Networks and Deep Learning.
+

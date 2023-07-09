@@ -1,0 +1,12 @@
+
+
+Brandon Chiazza,:
+
+Brandon Chiazza, a DAV instructor and chief technology officer in the New York City Mayor’s Office of Contract Services, leads a team of 50 independent consultants and directs employees in three units—Enterprise Data Services, Project Management Office, and Design and Quality Assurance—in the technology strategy division.
+
+As part of his job, he oversaw the technical implementation of PASSPort Release 1, the replacement for VENDEX, the city’s vendor portal for vetting and preparing to do business with the city; PASSPort Release 2, the replacement of the city's purchasing system and the centralized creation of a citywide invoicing system; and Release 3, the city’s sourcing-to-contract system. The $50 million PASSPort project, an end-to-end cloud-based procurement solution for the City of New York, supports approximately 50,000 transactions and $21 billion in spending annually.
+
+In addition, he oversaw the development of an Enterprise Data Warehouse & Business Intelligence system, a project that consolidated citywide procurement and contracting legacy systems into a centralized warehouse while leveraging a cloud-based infrastructure.
+
+Chiazza teaches the course Information Architecture, and holds an MPA in environmental and energy economics, and environmental finance, and a B.S. in communication, applied economics and management from Cornell University.
+
