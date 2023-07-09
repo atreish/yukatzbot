@@ -1,0 +1,110 @@
+Marian Gidea
+PROFESSOR, ASSOCIATE DEAN FOR STEM EDUCATION AND RESEARCH, DIRECTOR OF THE GRADUATE PROGRAM IN MATHEMATICAL SCIENCES
+
+EDUCATION:
+PhD, SUNY at Buffalo, 1997
+Master of Science, University of Bucharest, 1992
+Gidea_CV_March_2023.pdf
+BIOGRAPHY:
+Marian Gidea joined Yeshiva University in New York City in 2013. He held previous appointments at the Mathematical Sciences Research Institute in Berkeley (research professor, 2018), the Institute for Advanced Study in Princeton (member, 2011-2013), Northeastern Illinois University (tenured professor, 2000-2013), Northwestern University (visiting assistant professor, 1999-2000), Loyola University Chicago (visiting assistant professor, 1997-1999).
+
+Between 2021-2022 he served at the National Science Foundation as a program director in the Mathematical Sciences Division. This distinction is reserved only for the most accomplished researchers in their respective fields. In this annually rotating role, Dr. Gidea guided and evaluated research at the national level.
+
+TEACHING AND RESEARCH INTERESTS:
+Research interests: 
+
+Dynamical Systems and its applications - including Celestial Mechanics, Mathematical Physics, Mathematical Biology, and Financial Mathematics -, and Topological Data Analysis.
+
+Teaching experiences:
+
+Introductory and advanced undergraduate mathematics courses, as well as graduate mathematics courses.
+
+PhD Students and Postdocs:
+Samuel Akingbade (PhD student, 2020-)
+Wai-Ting Lam (PhD student, 2015-2020)
+Maxwell Musser (PhD student, 2016-2021)
+Hongyu Cheng (MSRI Postdoc, 2018)
+Jaime Burgos-Garcia (Postdoc, 2014-2015) 
+
+HONORS AND AWARDS:
+Awards:
+
+Dean Karen Bacon Faculty Award, 2019.
+
+Research Professor, Mathematical Sciences Research Institute (MSRI), Berkeley, 2018.
+
+Bernard J. Brommel Distinguished Research Award, Northeastern Illinois University, 2011.
+
+Grants: 
+
+National Science Foundation 
+
+NASA - Jet Propulsion Laboratory
+
+The Alfred P. Sloan Foundation 
+
+China's High-End Foreign Expert Program
+
+The National Institute of Health 
+
+National Cancer Institute
+
+PUBLICATIONS:
+Books:
+
+"Differential Geometry and Topology: with a view to dynamical systems" (with K. Burns), CRC Press, 2005.
+
+"Chaotic Dynamical Systems: An Introduction" (with C.P. Niculescu), Universitaria Press, Craiova, Romania, 2003.
+
+Recent publications:
+
+“Diffusion along chains of normally hyperbolic cylinders” (with J.-P. Marco), Discrete and Continuous Dynamical Systems, 2022.
+
+“Melnikov method for non-conservative perturbations of the three-body problem” (with R. de la Llave, and M. Musser), Celestial Mechanics and Dynamical Astronomy, 2021.
+
+“Surface gravity of rotating dumbbell shapes” (with Wai-Ting Lam, and Fredy R. Zypman), Astrophysics and Space Science, 2021.
+
+“Arnold Diffusion, Quantitative Estimates and Stochastic Behavior in the Three-Body Problem”, (with M. Capinski), Communications on Pure and Applied Mathematics, 2021.
+
+“Global effect of non-conservative perturbations on homoclinic orbits” (with R. de la Llave, and M. Musser), Qualitative Theory of Dynamical Systems, 2021.
+
+"A General Mechanism of Diffusion in Hamiltonian Systems: Qualitative Results", (with R. de la Llave and T. Seara),  Communications on Pure and Applied Mathematics, 2020.
+
+"Topological recognition of critical transitions in time series of cryptocurrencies'', (with Y. Katz, P. Roldan, D. Goldsmith,Yo. Shmalo), Physica A, 2020.
+
+"Llavefest: A Broad Perspective on Finite and Infinite Dimensional Dynamical Systems'', (Eds. Xavier Cabre, Amadeu Delshams, Marian Gidea and Chongchun Zeng),  Special Issue of Discrete and Continuous Dynamical Systems - A,  Vol. 38,   American Institute of Mathematical Sciences, 2018.
+
+"Global Melnikov Theory in Hamiltonian Systems with General Time-Dependent Perturbations", (with R. de la Llave),  Journal of Nonlinear Science, 2018.
+
+"Combinatorial approach to detection of fixed points, periodic orbits, and symbolic dynamics'' (with Yt. Shmalo), Discrete and Continuous Dynamical Systems - A, 2018.
+
+"Topological Data Analysis of Financial Time Series: Landscapes of  Crashes'' (with Y. Katz), Physica-A, 2018.
+
+"Perturbations of geodesic flows by recurrent dynamics'', (with R. de la Llave), Journal of the European Mathematical Society, 2017.
+
+Copies of these papers and others can be found on arXiv
+
+Video lectures:
+
+"Topological methods and Hamiltonian instability", ONEPAS Thematic Series, 2020
+
+"Hamiltonian Instability via Geometric Method", Mathematical Sciences Research Institute, Berkeley, 2018.
+
+"Diffusion along chains of normally hyperbolic cylinders", Institute for Advanced Study, Princeton, 2018.
+
+"Application of Hamiltonian Instability and Diffusion", Institute for Pure and Applied Mathematics, Los Angeles, 2017.
+
+"A geometric mechanism for Arnold diffusion in the a priori stable case", Banff International Research Station - Casa Matemática Oaxaca, Oaxaca, Mexico, 2015.
+
+Podcast:
+
+Poincaré Podcast #15 - Marian Gidea
+
+EMAIL:
+marian.gidea@yu.edu
+OFFICE PHONE:
+646-592-4031
+OFFICE ADDRESS:
+Beren campus - 215 Lexington Ave
+Room#618
+

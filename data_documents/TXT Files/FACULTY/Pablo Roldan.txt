@@ -1,0 +1,9 @@
+Pablo Roldan, Ph.D.:
+
+EXPERTISE: Dynamical systems, financial mathematics, and machine learning. 
+
+Dr. Pablo Roldan, an assistant professor of mathematics, is an accomplished researcher in mathematics, statistics and computer science, has been appointed director of the Katz School’s M.S. in artificial intelligence program. Dr. Roldan concentrates on the research and development of complex and real-world domains and applications. He has received research grants from the National Science Foundation on “Dynamical and Statistical Methods Applied to Hamiltonian Systems;” CONACYT (Consejo Nacional de Ciencia y Technologia), “Particle Dynamics in Spaces of Constant Curvature;” the Spanish Ministry of Science; and the European Regional Development Fund, “Invariant Objects in Astrodynamics.” 
+
+In addition to his work in academia, he has consulted on machine learning for companies that work in medical devices, molecular design and treasury management. Dr. Roldan has been invited as a speaker to more than 20 international conferences. At Yeshiva, he teaches Discrete Structures; Excursions in Mathematics; Mathematical Statistics; Mathematics of Finance; Numerical Methods, Probability and Statistics; and Scientific Computing. He also advises multiple honors and master’s students on their thesis research. 
+
+He holds a Ph.D. in applied mathematics and an M.S. in physics engineering from the KTH Royal Institute of Technology and a B.S. in computer science from the Universitat Politecnica de Catalunya.

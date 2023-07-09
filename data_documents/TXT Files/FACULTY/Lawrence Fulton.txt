@@ -1,0 +1,8 @@
+
+
+Lawrence Fulton, Ph.D.
+
+EXPERTISE: Healthcare Data Science, Machine Learning for Image Recognition
+
+Lawrence Fulton is a health data scientist with expertise in machine learning for image recognition, especially applied to 4D MRIs, and in healthcare simulation in Java, PySim, RSimmer and ProModel. He has published in over 70 peer-reviewed journals. His current research focuses on the use of mathematical programming for improving health system performance in the areas of cost, quality and access, and previous work focused on the application of artificial intelligence and neural networks in specialized applications, the use of Python and R applications to health data science problems, and the application of hierarchical forecasting models using both imagery and time series data simultaneously. He teaches Data Analytics; Machine Learning; and Structured Data Management. He holds a Ph.D. from the University of Texas at Austin.
+

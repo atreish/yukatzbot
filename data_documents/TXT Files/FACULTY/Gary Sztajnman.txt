@@ -1,0 +1,7 @@
+
+
+Gary Sztajnman, M.S.
+EXPERTISE: Data science, data product design
+
+Gary Sztajnman is a product data scientist at Verizon where he builds data products. In his previous work for an A.I. startup, he developed an application that learns musical taste to ensure that music composition is customized for each user. He has also won several hackathons. He teaches Data Product Design, and holds an MIB in information and communications technology from Paris Dauphine University and an M.S. in data science from Columbia University. 
+
