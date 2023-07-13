@@ -1,0 +1,46 @@
+stories:
+
+- story: greet 
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: goodbye
+  steps:
+  - intent: goodbye 
+  - action: utter_goodbye
+
+- story: affirm
+  steps:
+  - intent: affirm
+  - action: utter_affirm
+  
+- story: deny
+  steps:
+  - intent: deny
+  - action: utter_deny
+
+- story: thank
+  steps:
+  - intent: thank
+  - action: utter_youarewelcome
+
+- story: bot challenge
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- story: admission requirements
+  steps:
+  - intent: admission_requirements
+  - action: utter_admissionrequirements
+
+- story: program cost
+  steps: 
+  - intent: program_cost
+  - action: utter_programcost
+
+- story: application deadline
+  steps:
+  - intent: application_deadline
+  - action: utter_applicationdeadline

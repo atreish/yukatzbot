@@ -1,40 +1,77 @@
 version: "3.1"
 
 intents:
-  - greet
-  - goodbye
-  - affirm
-  - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
-  - degrees_offered
+- greet
+- goodbye
+- affirm
+- deny
+- thank
+- bot_challenge
+- admission_requirements 
+- program_cost
+- application_deadline
+
+entities:
+- name
+- program
+
+slots:
+  name:
+    type: text
+    mappings: []
+
+  program:
+    type: text
+    mappings: []
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
-
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
-
-  utter_did_that_help:
-  - text: "Did that help you?"
-
-  utter_happy:
-  - text: "Great, carry on!"
-
+  - text: "Hello! Welcome to katz school. How may I assist you today?"
+  
   utter_goodbye:
-  - text: "Bye"
+  - text: "Goodbye! Thank you for your interest. Have a great day."
+
+  utter_affirm:
+  - text: "Great, thank you for confirming."
+  
+  utter_deny:
+  - text: "I apologize, let me re-check that information."
+
+  utter_youarewelcome:
+  - text: "You're very welcome!"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Yes, I am an AI assistant created to be helpful, harmless, and honest."
+
+  utter_admissionrequirements:
+  - text: "Please submit the following required document in order to apply:
+              a.	Transcripts from all colleges/universities attended
+              b.	Degree Conferral (Diploma or certificate)
+              c.	English language assessment (Duolingo: 110, TOEFL: 85 (not accepting home edition), IELTS: 6.5, and PTE: 59.)
+              d.	Resume
+              e.	Statement of Purpose
+              f.	GRE/GMAT scores (Physics+ Math only)
+              g.	Letters of recommendation (Physics+ Math only)  
+              "
+
+  utter_programcost:
+  - text: "The cost varies by program. Significant tuition reduction is available through the STEM Fellows Scholarship. Please check the website for complete financial details."
+
+  utter_applicationdeadline:
+  - text: "The Fall 2023 priority deadline is June 1st. We recommend applying early to allow time for visa processing. Please see the admission page for details."  
 
   
-
 actions:
-- action_provide_degrees_offered
-- action_default_fallback
+- utter_greet
+- utter_goodbye
+- utter_affirm
+- utter_deny
+- utter_youarewelcome 
+- utter_iamabot
+- utter_admissionrequirements
+- utter_programcost
+- utter_applicationdeadline
+
 
 session_config:
   session_expiration_time: 60
