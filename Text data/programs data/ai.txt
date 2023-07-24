@@ -1,0 +1,48 @@
+Artificial Intelligence program:
+
+In this interdisciplinary master’s degree program, you’ll design and build cutting-edge artificial intelligence technologies for a variety of applications, including finance, biotech, cybersecurity, ad-tech and health care. Working with top researchers and accomplished industry experts, you’ll bridge AI and machine learning models, such as supervised and unsupervised learning, deep learning and neural networks, and reinforcement learning with engineering best practices including problem framing, requirements gathering, UI/UX and software development. In addition, you’ll gain hands-on experience with structured and unstructured data using the latest tools, such as Python, R, SQL/NoSQL, TensorFlow, Keras and pyTorch. And you’ll be doing all of this in the heart of New York City.
+The New York metropolitan area has the highest number of AI-related jobs in the country. As a graduate of Yeshiva University’s master’s degree in artificial intelligence, you’ll be prepared for a variety of artificial-intelligence and machine-learning jobs in research and development groups, product design labs, innovative startups and Ph.D. programs. In its Future of Jobs Report 2020, the World Economic Forum ranked AI and machine learning specialists second among the top 20 jobs increasing in demand in all industries. The U.S. Bureau of Labor Statistics reported on the salaries of the following jobs in 2019: AI engineer ($92,000 to $140,000); data mining and analysis ($100,000 to $220,000); machine learning engineer ($146,000); data scientist ($86,000 to $157,000); and business intelligence developer ($84,000 to $104,000).
+
+Program Highlights:
+
+Develop a grounding in artificial intelligence theory, research, technologies and ethical standards
+Design and build AI applications in natural language processing, image recognition and computer vision, chatbots, search and optimization, autonomous action, sentiment and emotion analysis, assistive agents, and more
+Learn the math, concepts, use cases and code behind AI's algorithms
+Translate AI research into products, services and startups
+Career support and professional networking opportunities
+Gain industry experience through internships and research
+STEM-OPT eligible
+, 
+
+Current Projects:
+
+Financial Impact of Tropical Cyclones on U.S. Real Estate Sector
+Medical Imaging and Artificial Intelligence
+Prediction of Total Body Water Volume in Hemodialysis Patients
+Prediction of Recurrent Complications on Covid-19 Patients
+Deep Portfolio Theory
+Portfolio Optimization with Regime Changes
+Index Tracking Using Reinforcement Learning
+
+AI Fellows:
+
+Join students and alumni from over 30 countries to work on pioneering research, citywide initiatives and new technologies that help to make the world smarter, safer and healthier.
+
+Benefits:
+
+Receive industry mentorship
+Showcase and publish your research at the Katz School's annual Symposium on Science, Technology and Health
+Receive a scholarship reducing total tuition to $25K* for your entire graduate degree, start to finish — whether you complete your degree in one or two years
+Learn more about the Fellows Program.
+
+B.A./M.S. Pathways Option:
+
+Through the B.A./M.S. option, undergraduates from Yeshiva College, Stern College for Women and the Sy Syms School of Business can take up to 12 graduate credits that will count toward both their bachelor's and master's degrees. After completing their bachelor's, students can finish their graduate degree in just one more year.
+Admissions criteria: Junior or senior standing in any Yeshiva College, Stern College for Women or Sy Syms School of Business undergraduate major with a minimum GPA of 3.2 and a minimum grade of B-plus in the prerequisite courses listed below. Students can begin taking graduate coursework in their junior or senior year.
+Prerequisites for graduate courses: Two university courses in a high-level programming language, such as Java, C++ and Python, one course in multivariate calculus, one course in linear algebra, and one course in mathematical probability or statistics, all with a grade of B-plus or better.
+For more information, visit www.yu.edu/pathways.  
+
+Internships and STEM-OPT:
+
+Our students have gained invaluable industry experience through internships at major companies, such as S&P and Dow Jones, startups and the YU Innovation Lab that counts toward their degree. The Katz School’s master’s in artificial intelligence is a STEM-approved degree. International students may be eligible for up to 36 months of Optional Practical Training (OPT). The program also offers several opportunities for Curricular Practical Training (CPT). 
+Interested in this program? Apply Now! 

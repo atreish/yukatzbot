@@ -1,0 +1,9 @@
+Physics:	
+Fredy Zypman	https://www.yu.edu/faculty/pages/zypman-fredy
+Neer Asherie	https://www.yu.edu/faculty/pages/asherie-neer
+Sergey Buldyrev	https://www.yu.edu/faculty/pages/buldyrev-sergey
+Gabriel Cwilich	https://www.yu.edu/faculty/pages/cwilich-gabriel
+Ran Drori	https://www.yu.edu/faculty/pages/drori-ran
+Mark Edelman	https://www.yu.edu/faculty/pages/edelman-mark
+Lea Ferreira dos Santos	https://www.yu.edu/faculty/pages/santos-lea
+Emil Prodan	https://www.yu.edu/faculty/pages/prodan-emil
