@@ -1,0 +1,1470 @@
+primary_entities,secondary_entities,answer,question,unique_intents,examples
+admission requirements,application process,"""Please submit the following required document in order to apply:
+Transcripts from all colleges/universities attended
+Degree Conferral (Diploma or certificate)
+English language assessment (Duolingo: 110, TOEFL: 85 (not accepting home edition), IELTS: 6.5, and PTE: 59.)
+Resume
+Statement of Purpose
+GRE/GMAT scores (Physics+ Math only)
+Letters of recommendation (Physics+ Math only)
+Admission page: https://www.yu.edu/katz/admissions/grad-admissions
+https://www.yu.edu/sites/default/files/inline-files/FINAL%20Application%20Checklist%20for%20Graduate%20STEM%20Programs%20-%20010423_0.pdf""",What are the admission requirements and how do I apply?,admissionrequirementsapplicationprocess,"1. What are the prerequisites for admission and what is the application process?
+2. What qualifications do I need to meet in order to apply, and how can I submit my application?
+3. What are the criteria for admission, and what steps do I need to take to apply?
+4. What are the necessary documents and qualifications needed for admission, and how can I apply?
+5. What are the admission requirements, and what is the procedure for submitting an application?
+6. What qualifications and documents are needed for admission, and what is the application procedure?
+7. What are the prerequisites for admission, and what is the process for applying?
+8. What are the admission criteria, and how can I go about applying?
+9. What qualifications and documents do I need to provide for admission, and how do I apply?
+10. What are the requirements for admission, and what steps do I need to follow to apply?"
+programs curriculum,research opportunities,"""Please send student program curriculum via website. (Can be found under Helpful Links under program page)
+https://www.yu.edu/katz/research
+https://www.yu.edu/katz/research-symposium-2023
+https://www.yu.edu/katz/research-symposium-2022""",What are the program's curriculum and research opportunities?,programscurriculumresearchopportunities,"1. Can you provide information about the curriculum and research opportunities offered by the program?
+2. What does the program's curriculum consist of and what research opportunities are available?
+3. Could you please elaborate on the curriculum and research options provided by the program?
+4. What kind of curriculum does the program offer and what research opportunities can students pursue?
+5. Can you give me an overview of the program's curriculum and the research opportunities it provides?
+6. What are the specific courses included in the program's curriculum and what research opportunities are available to students?
+7. How does the program's curriculum align with research opportunities for students?
+8. Are there any unique or specialized research opportunities offered within the program's curriculum?
+9. Can you explain how the program's curriculum integrates research opportunities for students?
+10. What resources or support does the program provide to students interested in research within the curriculum?"
+cost of the program,scholarships financial aid options,"""The STEM Fellows Scholarship is awarded to qualified and admitted students which reduces your tuition to $25,000 plus semesterly fees which is part of the STEM Fellows Scholarship. The additional semesterly fees that you would be responsible for can all be viewed online
+https://www.yu.edu/katz/stem-fellows""","What is the cost of the program, and are there any scholarships or financial aid options available?",costoftheprogramscholarshipsfinancialaidoptions,"1. How much does the program cost?
+2. Are there any scholarships available for the program?
+3. Are there any financial aid options for the program?
+4. What is the price of the program?
+5. Are there any grants or funding opportunities for the program?
+6. Can I apply for financial assistance for the program?
+7. Are there any tuition discounts or waivers for the program?
+8. How can I find out about the program's cost?
+9. Are there any payment plans or installment options for the program?
+10. Are there any bursaries or sponsorships available for the program?"
+application deadline,admission team,"""For the Fall 2023 semester, our priority deadline is June 1st however, we encourage you to complete your application sooner, so it allows enough time for visa processing.
+Admission page: https://www.yu.edu/katz/admissions/grad-admissions
+https://www.yu.edu/sites/default/files/inline-files/FINAL%20Application%20Checklist%20for%20Graduate%20STEM%20Programs%20-%20010423_0.pdf""","What is the application deadline, and when can I expect to hear back from the admission team?",applicationdeadlineadmissionteam,"1. When is the deadline to submit my application?
+2. What is the last date to apply for admission?
+3. Can you please provide me with the application deadline?
+4. When do I need to submit my application by?
+5. What is the final date to apply for admission?
+6. When is the cutoff for submitting applications?
+7. By when should I complete my application?
+8. What is the deadline for admission applications?
+9. When is the last day to apply for admission?
+10. Can you please let me know the application submission deadline?"
+acceptance rate,program,"""Some of our STEM programs do have pre-requisites that students are required to have completed prior to the program (DAV and AI). Typically, we ask students to have a minimum of a 3.0 GPA however, we do still encourage you to apply. If we need any additional documents to review your application, we would be sure to be in touch.""","What is the acceptance rate for the program, and how competitive is it?",acceptancerateprogram,"1. How difficult is it to get accepted into the program?
+2. What is the level of competition for admission into the program?
+3. Can you provide information on the program's acceptance rate?
+4. How many applicants are typically accepted into the program?
+5. Is the program highly competitive in terms of admissions?
+6. What percentage of applicants are admitted into the program?
+7. How selective is the program in terms of accepting students?
+8. Are there any specific criteria or requirements for admission into the program?
+9. How does the program's acceptance rate compare to other similar programs?
+10. What factors contribute to the program's competitiveness in terms of admissions?"
+programs rankings,reputation,"""https://www.yu.edu/sites/default/files/inline-files/Katz%20Viewbook%20-%202023_0.pdf""",What are the program's rankings and reputation?,programsrankingsreputation,"1. How does the program rank compared to other similar programs?
+2. What is the reputation of the program among students and professionals?
+3. Are there any rankings or ratings available for the program?
+4. How does the program's reputation compare to other programs in the same field?
+5. What are the program's rankings in terms of job placement and alumni success?
+6. Has the program received any recognition or awards for its quality?
+7. Are there any notable achievements or accolades associated with the program?
+8. How does the program's reputation impact its graduates' career prospects?
+9. Are there any industry or professional organizations that endorse or recognize the program?
+10. What do current and former students say about the program's rankings and reputation?"
+opportunities,internships co-op programs job placement graduation,"""Our graduates have a 95% employment rate within 6 months of graduation. Students can begin to apply for internships once they are legally eligible to in the U.S. however, the program does not assist with placements. If you do find an internship, then you can pursue the internship course as part of your program and earn credit.""","What are the opportunities for internships, co-op programs, and job placement after graduation?",opportunitiesinternshipscoopprogramsjobplacementgraduation,"1. Are there any internship opportunities available for students?
+2. Can you provide information about co-op programs offered by the university?
+3. What kind of job placement assistance is provided to graduates?
+4. Are there any specific industries or companies that the university has partnerships with for internships and job placements?
+5. How successful are graduates in finding employment after graduation?
+6. Are there any specific requirements or qualifications for internships and co-op programs?
+7. Can you provide examples of companies where previous graduates have been placed?
+8. Are there any networking events or career fairs organized by the university to connect students with potential employers?
+9. What resources or support does the university offer to help students secure internships and job placements?
+10. Are there any alumni networks or mentorship programs available to assist students in their career development?"
+student-faculty ratio,professors students,"""We prefer to keep our class sizes small so students can have a more personal experience with our faculty and other students on their program.""",What is the student-faculty ratio and how accessible are professors to students?,studentfacultyratioprofessorsstudents,"1. How does the student-faculty ratio at this institution compare to others?
+2. Are professors readily available to meet with students outside of class?
+3. What is the average class size and how does it impact student-faculty interaction?
+4. Can students easily schedule appointments with professors for academic support?
+5. How often do professors hold office hours for students to seek assistance?
+6. Is there a mentoring program in place to foster relationships between students and faculty?
+7. Are professors approachable and open to answering questions during lectures?
+8. What measures does the university take to ensure professors are accessible to students?
+9. Are there any limitations or restrictions on the amount of time students can spend with professors?
+10. How does the accessibility of professors contribute to the overall learning experience for students?"
+campus life,extracurricular activities,"""Please see our student life page below:  https://www.yu.edu/katz/students""","What is the campus life like, and what extracurricular activities are available?",campuslifeextracurricularactivities,"1. How would you describe the campus life at your university?
+2. Can you tell me about the extracurricular activities offered on campus?
+3. What is the social scene like on campus?
+4. Are there any clubs or organizations that students can join?
+5. What kind of sports teams are available for students to participate in?
+6. Are there any cultural or arts-related activities on campus?
+7. Can you provide some examples of the extracurricular activities that students are involved in?
+8. How active and engaged are students in extracurricular activities?
+9. Are there any leadership opportunities available through extracurricular activities?
+10. What kind of events or programs are organized by the university outside of academics?"
+deposit,spot,"""Students are required to submit the $500 non-refundable deposit. For international students, once we receive your deposit our Office of International Services will then be in touch about accessing your I-20 application and the international portal.""",Do I have to pay a deposit to secure my spot?,depositspot,"1. Is a deposit required to reserve my spot?
+2. Do I need to make a deposit to secure my place?
+3. Is there a deposit fee to guarantee my spot?
+4. Do I have to pay a deposit in order to hold my reservation?
+5. Is a deposit necessary to confirm my spot?
+6. Will I be asked to provide a deposit to secure my place?
+7. Do I need to put down a deposit to ensure my spot is reserved?
+8. Is a deposit payment required to guarantee my reservation?
+9. Will I have to pay a deposit to secure my spot in the program?
+10. Do I need to make a deposit in order to hold my spot?"
+program,time,"""Depending on the program, it can take students 1.5-2 years (15-21 months). Please confirm on program page on the website.""",How long does the program take?,programtime,"1. What is the duration of the program?
+2. How much time does the program require?
+3. Can you tell me the time frame for the program?
+4. How long is the program expected to last?
+5. What is the estimated duration of the program?
+6. Do you have any idea about the program's time duration?
+7. Can you provide information on the program's time requirement?
+8. How much time should I allocate for the program?
+9. What is the expected time commitment for the program?
+10. Can you give me an estimate of how long the program will take?"
+process for obtaining i- ,time,"""Our Office of International Services will be in touch soon about your I-20, please note that this will be sent to your YU email account. Please note students will only receive their I-20 application once we receive your $500 deposit. 
+Kindly note student must show proof of fund for the I-20. Based on the International Estimated Cost of Attendance online, it states that students must show financial support for no less than the annual amount estimated for their program of study.
+Here is the information for how to apply I-20: tps://www.yu.edu/international/prospective-students""",What is the process for obtaining I-20? How long will it take?,processforobtainingitime,"1. How can I obtain an I-20?
+2. What steps do I need to follow to get an I-20?
+3. Is there a specific procedure for obtaining an I-20?
+4. How much time does it usually take to obtain an I-20?
+5. Can you provide information on the process of obtaining an I-20?
+6. What documents are required to obtain an I-20?
+7. Are there any specific requirements or criteria for obtaining an I-20?
+8. How long does it typically take to receive an I-20 after applying?
+9. Can you give an estimate of the time it takes to complete the I-20 application process?
+10. Are there any specific forms or applications that need to be filled out to obtain an I-20?"
+resources or support,international students cultural adjustment,"""At Katz School of Science and Health, we take pride in fostering a vibrant and inclusive student community. To this end, we have established multiple student associations that cater to the diverse cultural backgrounds of our students. As part of our commitment to cultural diversity, we also celebrate various festivals throughout the academic year.
+For instance, we joyfully observe Diwali, the Hindu festival of lights, and Chinese New Year, an auspicious occasion in Chinese culture. We believe that celebrating such festivals not only adds to the richness of our student experience but also promotes cultural awareness and understanding among our community.
+For further information on our student associations and festival celebrations, we invite you to visit our official social media platforms. You can explore our Instagram page @YUKATZSCHOOL or our LinkedIn page @Katz School of Science and Health. You can also find in our student life page below: 
+https://www.yu.edu/katz/students""",Are there any resources or support available to international students for cultural adjustment?,resourcesorsupportinternationalstudentsculturaladjustment,"1. What kind of resources are available to international students for cultural adjustment?
+2. Are there any support services specifically designed for international students to help them with cultural adjustment?
+3. How can international students access resources or support for cultural adjustment?
+4. Are there any organizations or clubs on campus that provide assistance to international students for cultural adjustment?
+5. What steps does the university take to ensure international students have a smooth cultural adjustment process?
+6. Are there any workshops or programs offered to international students to help them with cultural adjustment?
+7. Are there any counseling services available to international students who are struggling with cultural adjustment?
+8. Are there any online resources or forums where international students can seek advice or support for cultural adjustment?
+9. Are there any mentors or peer support programs available to international students for cultural adjustment?
+10. Are there any financial resources or scholarships available to international students to help with their cultural adjustment process?"
+housing options,international students,"""We do offer some on-campus housing for graduate students; however, they do have limited availability. I would recommend reviewing the on-campus housing options available online, as well as resources to assist with finding off-campus housing.""","What are the housing options for international students, and how do I secure housing?",housingoptionsinternationalstudents,"1. What types of housing are available for international students?
+2. How can international students find housing options?
+3. Are there specific housing options tailored for international students?
+4. What steps should I take to secure housing as an international student?
+5. Are there any resources or websites that can help me find housing as an international student?
+6. Can you provide information on the process of securing housing for international students?
+7. Are there any specific requirements or documents needed to secure housing as an international student?
+8. What are the typical costs associated with housing for international students?
+9. Are there any specific deadlines or timelines to consider when securing housing as an international student?
+10. Can you provide any tips or advice for international students looking for housing options?"
+programs or resources,international students english language skills,"""At Katz, we are committed to providing our students with a supportive and enriching academic environment. As part of this commitment, we have established an Academic Center that is dedicated to helping students enhance their academic performance.
+Our Academic Center offers a wide range of resources and support services, including assistance with English language skills. We recognize that English proficiency is crucial for success in academia, and our experienced staff members are equipped to provide individualized support to students who may need help improving their English language skills.""",Are there any programs or resources available to help international students improve their English language skills?,programsorresourcesinternationalstudentsenglishlanguageskills,"1. Are there any specific programs designed to assist international students in enhancing their English language proficiency?
+2. What resources are available to support international students in improving their English language skills?
+3. Are there any language programs offered specifically for international students to enhance their English proficiency?
+4. Are there any initiatives or services aimed at helping international students develop their English language abilities?
+5. What options are there for international students seeking assistance in improving their English language skills?
+6. Are there any specific resources or tools available to aid international students in enhancing their English proficiency?
+7. Are there any programs or services dedicated to supporting international students in their English language development?
+8. What kind of assistance is provided to international students who want to improve their English language skills?
+9. Are there any language courses or workshops available for international students to improve their English proficiency?
+10. Are there any organizations or institutions that offer support to international students in their English language learning journey?"
+international students,restrictions working on-campus working off-campus studies,"""Please contact OISS@YU.EDU for most updated information""",Are there any restrictions on international students working on or off-campus during their studies?,internationalstudentsrestrictionsworkingoncampusworkingoffcampusstudies,"1. What are the limitations for international students when it comes to working on or off-campus during their studies?
+2. Are there any specific rules or regulations that international students need to follow regarding employment while studying?
+3. Can international students work both on and off-campus during their studies?
+4. Are there any restrictions on the number of hours international students can work while studying?
+5. What are the guidelines for international students who want to work off-campus during their studies?
+6. Are there any limitations on the type of jobs international students can have while studying?
+7. Do international students need to obtain any special permits or visas to work on or off-campus during their studies?
+8. Are there any restrictions on the duration of employment for international students during their studies?
+9. Are there any specific requirements or qualifications that international students need to meet in order to work on or off-campus?
+10. Can international students work full-time or part-time while studying?"
+faculty,program research interests publications,"""We highly encourage students and interested parties to visit our website for detailed information on our faculty and their publications, you can find information below: 
+Faculty | Yeshiva University (yu.edu)
+Faculty Research Initiative | Yeshiva University (yu.edu)""","Can you provide information about the faculty in my program, their research interests, and their publications?",facultyprogramresearchinterestspublications,"1. Could you give me details about the faculty members in my program?
+2. What are the research interests of the faculty in my program?
+3. Can you provide information about the publications of the faculty in my program?
+4. Who are the professors in my program and what are their areas of expertise?
+5. Could you tell me about the research projects the faculty in my program are currently working on?
+6. What are the academic qualifications of the faculty members in my program?
+7. Can you provide a list of the publications authored by the faculty in my program?
+8. Who are the notable researchers in my program and what are their notable contributions?
+9. Could you give me an overview of the faculty members' backgrounds and experiences in my program?
+10. What are the recent achievements or awards received by the faculty in my program?"
+current students or alumni,program,"""As a Katz admission team member, it is pleasure to offer you the opportunity to connect with our current students or alumni and learn about their experiences at our esteemed institution.""",Can you connect me with current students or alumni in my program who I can talk to and learn from?,currentstudentsoralumniprogram,"1. Is there a way for me to get in touch with current students or alumni in my program?
+2. Are there any opportunities for me to connect with current students or alumni in my field of study?
+3. Can you provide me with contacts of current students or alumni who can share their experiences with me?
+4. Is there a mentorship program that connects students with alumni in my program?
+5. How can I find and connect with current students or alumni who can offer insights and guidance?
+6. Are there any networking events or platforms where I can connect with current students or alumni in my program?
+7. Can you recommend any specific individuals who would be willing to talk to me and share their knowledge?
+8. Is there a directory or database available that lists current students or alumni in my program?
+9. Are there any online communities or forums where I can interact with current students or alumni in my field?
+10. Can you facilitate introductions between me and current students or alumni who can provide valuable insights?"
+job opportunities,on-campus off-campus students find,"""Please contact katzstudentservices@yu.edu for more information.""","What kind of on-campus or off-campus job opportunities are available to students, and how can I find them?",jobopportunitiesoncampusoffcampusstudentsfind,"1. Are there any job opportunities available for students on campus?
+2. What are the job opportunities available for students off campus?
+3. How can I find on-campus job opportunities for students?
+4. Where can I find off-campus job opportunities for students?
+5. Are there any part-time job opportunities available for students?
+6. What are the different types of job opportunities available for students?
+7. How can I search for job opportunities specifically for students?
+8. Are there any internships available for students?
+9. Can you provide information on job fairs or career events for students?
+10. Are there any resources or websites that can help me find job opportunities for students?"
+entity specific requirements,entities international students health insurance,"""At Katz, we are committed to ensuring the health and well-being of our students. As such, we have established a Health Service Center to provide students with a range of health-related services, including access to health insurance information and resources.
+For information about health insurance, contact the Student Health Insurance Plan team at YUSHIP@yu.edu.""","Are there any specific requirements for international students, such as health insurance?",entityspecificrequirementsentitiesinternationalstudentshealthinsurance,"1. Do international students have to meet any specific requirements, like having health insurance?
+2. Are there any special requirements that international students need to fulfill, such as having health insurance?
+3. What are the specific requirements for international students, particularly in terms of health insurance?
+4. Are international students required to have health insurance as part of their specific requirements?
+5. Do international students need to meet any specific criteria, like having health insurance?
+6. Are there any specific prerequisites for international students, such as having health insurance?
+7. What are the specific obligations for international students, particularly regarding health insurance?
+8. Are international students expected to have health insurance as a specific requirement?
+9. Do international students have any specific mandates, like having health insurance?
+10. What are the specific conditions for international students, especially in relation to health insurance?"
+campus,community area housing transportation local attractions,"""We believe that a well-rounded academic experience encompasses more than just coursework, and that a supportive and engaging community can greatly enhance the overall student experience. Therefore, we encourage all interested parties to visit our e webpage at Campuses | Yeshiva University (yu.edu) or https://www.yu.edu/katz/grad-housing to learn more about what Katz and our surrounding community has to offer.""","Can you provide information about the community and the area surrounding the campus, such as housing, transportation, and local attractions?",campuscommunityareahousingtransportationlocalattractions,"1. What kind of housing options are available near the campus?
+2. Are there any public transportation options available in the area?
+3. Can you tell me about the local attractions near the campus?
+4. What are the transportation facilities like in the community surrounding the campus?
+5. Are there any specific neighborhoods or areas recommended for students to live in?
+6. Can you provide details about the housing costs in the community surrounding the campus?
+7. What are some popular local attractions that students often visit?
+8. Are there any specific transportation discounts or passes available for students?
+9. Can you recommend any affordable housing options near the campus?
+10. Are there any notable landmarks or tourist spots near the campus?"
+academic and career support services,tutoring writing centers career counseling,"""At Katz, as part of this commitment, we offer access to both an Academic Center and a Career Center. Our Academic Center is designed to support students in their academic pursuits, providing resources and guidance to help them achieve their academic goals. Our experienced staff members are available to assist students with a range of academic needs, including tutoring, study skills development, and time management strategies.
+Similarly, our Career Center is dedicated to helping students achieve their professional goals. Our staff members work with students to develop career plans, explore job opportunities, and develop job search strategies. We also offer workshops, networking events, and other resources designed to enhance students' career prospects.""","What kind of academic and career support services are available to students, such as tutoring, writing centers, or career counseling?",academicandcareersupportservicestutoringwritingcenterscareercounseling,"1. Are there any tutoring services available for students?
+2. Is there a writing center on campus?
+3. What kind of career support services are provided to students?
+4. Are there any counseling services available for career guidance?
+5. Are there any academic support services available for students?
+6. Can students receive help with writing assignments?
+7. Is there any tutoring available for specific subjects?
+8. Are there any resources available for students seeking career advice?
+9. Are there any workshops or programs available for career development?
+10. Can students receive assistance with resume writing and job search strategies?"
+research facilities labs equipment,students program,"""We encourage you to visit our Graduate Schools and Programs webpage at https://www.yu.edu/academics/graduate to learn more about our programs and the resources available to our graduate students.""","What kind of research facilities, labs, or equipment are available to students in my program?",researchfacilitieslabsequipmentstudentsprogram,"1. Are there any research facilities specifically dedicated to students in my program?
+2. What types of labs are accessible to students in my program?
+3. Are there any specialized equipment available for students in my program?
+4. Can you provide information about the research facilities and labs that students in my program can utilize?
+5. What kind of research equipment is provided to students in my program?
+6. Are there any restrictions on accessing research facilities or labs for students in my program?
+7. Can you elaborate on the available research facilities and labs for students in my program?
+8. Are there any limitations on the usage of equipment by students in my program?
+9. What resources are available for students in my program to conduct research?
+10. Can you provide a comprehensive list of research facilities, labs, and equipment accessible to students in my program?"
+research projects,program related fields,"""Please review the following webpages about our recent or ongoing research projects in your program:
+Symposium on Science, Technology and Health | Yeshiva University (yu.edu)
+Faculty Research Initiative | Yeshiva University (yu.edu)""",Can you tell me about any recent or ongoing research projects in my program or related fields?,researchprojectsprogramrelatedfields,"1. Are there any current research projects happening in my program or related fields?
+2. Can you provide information on any ongoing research projects in my program or related fields?
+3. What are some recent research projects that have been conducted in my program or related fields?
+4. Are there any notable research projects happening right now in my program or related fields?
+5. Can you give me an update on the latest research projects in my program or related fields?
+6. Are there any research projects that have recently been completed in my program or related fields?
+7. Can you share any information on the most recent research projects in my program or related fields?
+8. What are some current research initiatives in my program or related fields?
+9. Can you provide details on any ongoing research studies in my program or related fields?
+10. Are there any notable research endeavors taking place in my program or related fields?"
+networking events or opportunities,students in my program,"""At Katz, we are dedicated to fostering a vibrant academic community that extends beyond the classroom. To that end, we host symposium-2022 and symposium-2023 every year that is open to all of our programs and students. This event provides an opportunity for students to showcase their research and engage with other members of the academic community.
+In addition, we also offer a range of alumni events and cultural festivals to foster networking and community building among our students. These events are designed to celebrate the diversity of our student body and provide opportunities for our students to connect with each other and with alumni who have gone on to successful careers in their fields.""",What kind of networking events or opportunities are available to students in my program?,networkingeventsoropportunitiesstudentsinmyprogram,"1. Are there any networking events specifically designed for students in my program?
+2. What are some networking opportunities that students in my program can take advantage of?
+3. Are there any industry-specific networking events for students in my program?
+4. Can you provide information on networking events or organizations that cater to students in my program?
+5. Are there any mentorship programs or networking initiatives available for students in my program?
+6. What are some ways for students in my program to connect with professionals in the industry?
+7. Are there any online networking platforms or communities for students in my program?
+8. Are there any alumni networking events or programs for students in my program?
+9. Can you recommend any networking strategies or tips for students in my program?
+10. Are there any networking workshops or seminars offered to students in my program?"
+campus safety and security measures,information,"""Please review information about the campus safety and security measures at the following webpage:
+Security Department | Yeshiva University (yu.edu)""",Can you provide information about the campus safety and security measures?,campussafetyandsecuritymeasuresinformation,"1. What safety measures are in place on campus?
+2. How does the university ensure the safety of its students and staff?
+3. Are there security personnel present on campus?
+4. Can you tell me about the campus security systems?
+5. What steps does the university take to prevent crime on campus?
+6. Are there emergency response protocols in place on campus?
+7. How does the university handle incidents of theft or vandalism?
+8. Are there any safety training programs available for students?
+9. Can you provide information about the campus surveillance systems?
+10. What resources are available to students for reporting safety concerns?"
+prerequisites or recommended courses,program,"""Please review the following webpages for the perquisites in your program:
+M.S. in Artificial Intelligence | Yeshiva University (yu.edu)
+M.S. in Biotechnology Management and Entrepreneurship | Yeshiva University (yu.edu)
+M.S. in Cybersecurity | Yeshiva University (yu.edu)
+Online Master's Degree in Cybersecurity | YU Katz
+M.S. in Data Analytics and Visualization | Yeshiva University (yu.edu)
+M.S. in Digital Marketing and Media | Yeshiva University (yu.edu)
+M.A. in Mathematics | Yeshiva University (yu.edu)
+Ph.D. in Mathematics | Yeshiva University (yu.edu)
+M.A. in Physics | Yeshiva University (yu.edu)""","Are there any prerequisites or recommended courses for my program, and how can I fulfill them if necessary?",prerequisitesorrecommendedcoursesprogram,"1. What are the prerequisites for my program?
+2. Are there any recommended courses for my program?
+3. How can I fulfill the prerequisites for my program?
+4. What steps do I need to take to meet the recommended course requirements?
+5. Are there any specific courses I should take before starting my program?
+6. Can I fulfill the prerequisites through online courses?
+7. Are there any alternative ways to fulfill the prerequisites for my program?
+8. Are there any specific grades or GPA requirements for the prerequisites?
+9. Can I take the recommended courses concurrently with my program?
+10. Are there any specific deadlines for completing the prerequisites?"
+opportunities,students teaching experience teaching assistantships,"""At Katz, we offer a range of opportunities for students to gain valuable teaching experience and support our faculty members in their academic pursuits. If you are interested in exploring these opportunities, we encourage you to visit our Human Resources webpage at https://www.yu.edu/hr/opportunities.""",Are there any opportunities for students to gain teaching experience or participate in teaching assistantships?,opportunitiesstudentsteachingexperienceteachingassistantships,"1. Are there any teaching assistantship programs available for students?
+2. Can students gain teaching experience through any opportunities offered by the university?
+3. Are there any teaching assistant positions open for students?
+4. Are there any programs or initiatives for students to gain teaching experience?
+5. Are there any teaching assistantship opportunities specifically for undergraduate students?
+6. Can students participate in teaching assistantships to enhance their teaching skills?
+7. Are there any teaching assistant positions available in specific departments or disciplines?
+8. Are there any requirements or qualifications for students to participate in teaching assistantships?
+9. Are there any benefits or rewards for students who participate in teaching assistantships?
+10. Are there any specific courses or subjects where students can gain teaching experience through assistantships?"
+recent graduates,career paths,"""At Katz, we are proud of our graduates and the contributions they make to their fields and communities. We encourage you to explore our Katz Blog and read the inspiring stories of our graduates, please review more information below:
+Alumni | Katz School of Science and Health (yu.edu)""",Can you tell me about any recent graduates from my program and their career paths after graduation?,recentgraduatescareerpaths,"1. Are there any recent graduates from my program who have found success in their careers?
+2. Can you provide information on the career paths of graduates from my program?
+3. Do you have any examples of recent graduates from my program and where they are currently working?
+4. Are there any success stories of graduates from my program and the jobs they have landed?
+5. Can you share any recent success stories of graduates from my program and their professional journeys?
+6. Are there any notable alumni from my program who have achieved significant career success?
+7. Can you provide details on the career trajectories of recent graduates from my program?
+8. Do you have any information on the employment outcomes of graduates from my program?
+9. Are there any recent graduates from my program who have gone on to work in prestigious companies or industries?
+10. Can you tell me about the job placements and career paths of graduates from my program?"
+steinberg library,phone number,"""The phone number for the Steinberg Library is (212) 340-7720.""",What is the phone number for the Steinberg Library?,steinberglibraryphonenumber,"1. Can you provide me with the phone number for the Steinberg Library?
+2. How can I contact the Steinberg Library by phone?
+3. Do you happen to know the phone number for the Steinberg Library?
+4. Could you please give me the phone number for the Steinberg Library?
+5. What is the contact number for the Steinberg Library?
+6. Is there a specific phone number I can use to reach the Steinberg Library?
+7. Where can I find the phone number for the Steinberg Library?
+8. Can you help me locate the phone number for the Steinberg Library?
+9. I need to get in touch with the Steinberg Library, do you have their phone number?
+10. Is there a direct line I can call to reach the Steinberg Library?"
+counseling center,services,"""The Counseling Center offers free, confidential services to all Yeshiva University students.""",What services does the Counseling Center offer?,counselingcenterservices,"1. What are the services provided by the Counseling Center?
+2. Can you list the services offered by the Counseling Center?
+3. What kind of support does the Counseling Center provide?
+4. What types of counseling services are available at the Counseling Center?
+5. Could you give me an overview of the services offered by the Counseling Center?
+6. What assistance can I expect from the Counseling Center?
+7. What resources does the Counseling Center provide?
+8. What help can I receive from the Counseling Center?
+9. What specific services does the Counseling Center offer?
+10. Can you provide a breakdown of the services available at the Counseling Center?"
+wilf campus libraries,address,"""The Wilf Campus libraries are located at 2520 Amsterdam Ave, NY, NY 10033.""",What is the address of the Wilf Campus libraries?,wilfcampuslibrariesaddress,"1. Where can I find the Wilf Campus libraries?
+2. What is the location of the libraries on the Wilf Campus?
+3. Can you provide me with the address of the libraries on the Wilf Campus?
+4. Where are the Wilf Campus libraries situated?
+5. What is the physical address of the libraries on the Wilf Campus?
+6. Could you tell me where the Wilf Campus libraries are located?
+7. What are the addresses of the libraries on the Wilf Campus?
+8. Can you give me directions to the Wilf Campus libraries?
+9. Where exactly are the Wilf Campus libraries?
+10. I'm looking for the Wilf Campus libraries, can you tell me where they are?"
+mendel gottesman & pollack libraries,phone number,"""The phone number for the Mendel Gottesman & Pollack Libraries is (646) 592-4045.""",What is the phone number for the Mendel Gottesman & Pollack Libraries?,mendelgottesman&pollacklibrariesphonenumber,"1. Can you provide me with the phone number for the Mendel Gottesman & Pollack Libraries?
+2. How can I contact the Mendel Gottesman & Pollack Libraries by phone?
+3. What is the telephone number for the Mendel Gottesman & Pollack Libraries?
+4. Could you please give me the phone number for the Mendel Gottesman & Pollack Libraries?
+5. I need to reach the Mendel Gottesman & Pollack Libraries, can you provide their phone number?
+6. What is the contact number for the Mendel Gottesman & Pollack Libraries?
+7. Can you share the phone number of the Mendel Gottesman & Pollack Libraries with me?
+8. How do I get in touch with the Mendel Gottesman & Pollack Libraries via phone?
+9. Is there a specific phone number I can use to reach the Mendel Gottesman & Pollack Libraries?
+10. What phone number should I dial to reach the Mendel Gottesman & Pollack Libraries?"
+resnick campus library,address,"""The Resnick Campus library is located at 1300 Morris Park Ave, Bronx, NY 10461.""",What is the address of the Resnick Campus library?,resnickcampuslibraryaddress,"1. Where can I find the Resnick Campus library?
+2. What is the location of the Resnick Campus library?
+3. Can you provide me with the address of the library on Resnick Campus?
+4. Where is the Resnick Campus library situated?
+5. What is the street address of the library at Resnick Campus?
+6. Could you tell me the exact address of the Resnick Campus library?
+7. I'm looking for the Resnick Campus library, do you know where it is?
+8. Can you give me directions to the library on Resnick Campus?
+9. What is the physical address of the Resnick Campus library?
+10. Where can I find the library at Resnick Campus?"
+website,online library access,"""Online library access can be found at www.yu.edu/libraries.""",What is the website for online library access?,websiteonlinelibraryaccess,"1. How can I access the online library?
+2. Where can I find the website for the online library?
+3. What is the URL for the online library?
+4. How do I get to the online library's website?
+5. Can you provide me with the website address for the online library?
+6. Where can I go online to access the library's resources?
+7. What is the online library's website called?
+8. Is there a specific website I need to visit to access the library online?
+9. How can I access the library's collection online?
+10. What is the web address for the library's online resources?"
+samuel gottesman library,phone number,"""The phone number for the Samuel Gottesman Library is (718) 430-3108.""",What is the phone number for the Samuel Gottesman Library?,samuelgottesmanlibraryphonenumber,"1. Can you provide me with the phone number for the Samuel Gottesman Library?
+2. What is the contact number for the Samuel Gottesman Library?
+3. Do you have the phone number for the Samuel Gottesman Library?
+4. Could you please share the telephone number for the Samuel Gottesman Library?
+5. I need the phone number for the Samuel Gottesman Library, can you help?
+6. Can you give me the contact information for the Samuel Gottesman Library?
+7. What is the telephone number for the Samuel Gottesman Library?
+8. Where can I find the phone number for the Samuel Gottesman Library?
+9. Is there a specific phone number I can call for the Samuel Gottesman Library?
+10. How can I reach the Samuel Gottesman Library by phone?"
+office of disability services,purpose,"""The Office of Disability Services provides reasonable accommodation and services to students who self-identify as having a disability.""",What is the purpose of the Office of Disability Services?,officeofdisabilityservicespurpose,"1. What is the role of the Office of Disability Services?
+2. What does the Office of Disability Services aim to achieve?
+3. How does the Office of Disability Services support individuals with disabilities?
+4. What services does the Office of Disability Services provide?
+5. Why was the Office of Disability Services established?
+6. What is the significance of the Office of Disability Services?
+7. How does the Office of Disability Services promote inclusivity?
+8. What are the goals of the Office of Disability Services?
+9. How does the Office of Disability Services assist students with disabilities?
+10. What resources are available through the Office of Disability Services?"
+counseling center,website,"""The website for the Counseling Center is yu.edu/student-life/counseling.""",What is the website for the Counseling Center?,counselingcenterwebsite,"1. What is the official webpage for the Counseling Center?
+2. Where can I find the website of the Counseling Center?
+3. Can you provide me with the URL for the Counseling Center's website?
+4. What is the web address for the Counseling Center?
+5. How can I access the Counseling Center's website?
+6. Do you know the website link for the Counseling Center?
+7. Where can I go online to visit the Counseling Center's website?
+8. What is the online platform for the Counseling Center?
+9. Is there a specific website I should visit for the Counseling Center?
+10. Could you please direct me to the Counseling Center's website?"
+counseling center,phone number,"""The phone number for the Counseling Center is not explicitly stated in the text, but it can likely be found on their website or by contacting Yeshiva University's main phone line.""",What is the phone number for the Counseling Center?,counselingcenterphonenumber,"1. Can you provide me with the phone number for the Counseling Center?
+2. How can I contact the Counseling Center by phone?
+3. What is the contact number for the Counseling Center?
+4. Do you have the phone number for the Counseling Center?
+5. Could you please give me the phone number for the Counseling Center?
+6. What is the telephone number for the Counseling Center?
+7. Can you share the contact details for the Counseling Center, specifically the phone number?
+8. How do I reach the Counseling Center via phone?
+9. Is there a specific phone number I can call for the Counseling Center?
+10. Where can I find the phone number for the Counseling Center?"
+registration,katz school,"""Registration begins a few months before the start of the semester.""",When does registration begin at the Katz School?,registrationkatzschool,"1. What is the start date for registration at the Katz School?
+2. When can I start registering for classes at the Katz School?
+3. At what time does registration open at the Katz School?
+4. When does the registration period begin at the Katz School?
+5. What is the registration start date for the Katz School?
+6. When can I sign up for courses at the Katz School?
+7. At what point in the year does registration begin at the Katz School?
+8. When does the registration process start at the Katz School?
+9. What is the opening date for registration at the Katz School?
+10. When should I expect to be able to register for classes at the Katz School?"
+students registration,contact,"""The Katz School’s Academic Operations team will contact students about registration.""",Who will contact students about registration?,studentsregistrationcontact,"1. Who is responsible for reaching out to students regarding registration?
+2. Which department or office will be in charge of contacting students about registration?
+3. Whom should students expect to hear from regarding registration?
+4. Who will be the point of contact for students regarding registration?
+5. Who will be reaching out to students to discuss registration?
+6. Who will be contacting students to provide information about registration?
+7. Who will be responsible for communicating with students about registration?
+8. Who will students receive communication from regarding registration?
+9. Who will be in touch with students regarding registration?
+10. Who will be contacting students to guide them through the registration process?"
+students classes,registering,"""Students should speak with their academic advisor or program director to ensure they are taking the correct sequence of courses.""",What should students do before registering for classes?,studentsclassesregistering,"1. What steps are necessary for students to take before enrolling in classes?
+2. What preparations should students make prior to registering for their courses?
+3. What are the recommended actions for students before signing up for classes?
+4. What are the important things students need to consider before registering for their courses?
+5. What are the prerequisites students should fulfill before enrolling in classes?
+6. What are the necessary requirements for students before they can register for their courses?
+7. What are the essential tasks students need to complete before signing up for classes?
+8. What are the recommended preparations students should undertake before registering for their courses?
+9. What are the important factors students should take into account before enrolling in classes?
+10. What are the key considerations students need to make before signing up for their courses?"
+crn,,"""A CRN is a course registration number, which is unique to each course.""",What is a CRN?,crn,"1. What does CRN stand for?
+2. Can you explain the meaning of CRN?
+3. What is the definition of CRN?
+4. Could you provide a brief overview of CRN?
+5. Can you give me some information about CRN?
+6. What are the characteristics of a CRN?
+7. How is a CRN different from other acronyms?
+8. What is the purpose of a CRN?
+9. Are there any specific industries or fields where CRNs are commonly used?
+10. Can you give me an example of how a CRN is used in practice?"
+time date crn,importance attention,"""It is important to pay attention to the time and date associated with a CRN so that you take the correct course recommended by your academic advisor or program director.""",Why is it important to pay attention to the time and date associated with a CRN?,timedatecrnimportanceattention,"1. What is the significance of the time and date linked to a CRN?
+2. How does paying attention to the time and date of a CRN benefit us?
+3. Why should we consider the time and date when dealing with a CRN?
+4. What role does the time and date play in the context of a CRN?
+5. In what ways can the time and date associated with a CRN impact its outcome?
+6. What are the consequences of disregarding the time and date of a CRN?
+7. How does the time and date of a CRN affect its validity?
+8. What factors make the time and date of a CRN important?
+9. How can the time and date of a CRN influence decision-making processes?
+10. What are the potential risks of ignoring the time and date associated with a CRN?"
+students course schedules descriptions class times,contact questions,"""Students should email katz@yu.edu or call (646) 592-4753.""","Who should students contact if they have questions about course schedules, descriptions, and class times?",studentscourseschedulesdescriptionsclasstimescontactquestions,"1. Where can students find information about course schedules, descriptions, and class times?
+2. Who is the best person to contact for questions about course schedules, descriptions, and class times?
+3. If students have questions about course schedules, descriptions, and class times, who should they reach out to?
+4. Who can provide students with information about course schedules, descriptions, and class times?
+5. If students need clarification on course schedules, descriptions, and class times, who should they contact?
+6. Where should students go if they have questions about course schedules, descriptions, and class times?
+7. Who is responsible for answering questions about course schedules, descriptions, and class times?
+8. If students are unsure about course schedules, descriptions, and class times, who should they ask for help?
+9. Who should students turn to if they have inquiries about course schedules, descriptions, and class times?
+10. Where can students seek assistance regarding course schedules, descriptions, and class times?"
+katz school,new student orientation,"""The Katz School’s New Student Orientation is scheduled close to the start of the semester.""",When is the Katz School’s New Student Orientation scheduled?,katzschoolnewstudentorientation,"1. What is the date and time of the Katz School's New Student Orientation?
+2. When will the Katz School be holding its New Student Orientation?
+3. Can you provide me with the schedule for the Katz School's New Student Orientation?
+4. What day and time should I mark on my calendar for the Katz School's New Student Orientation?
+5. When can I expect the Katz School's New Student Orientation to take place?
+6. Do you have any information on the date and time of the Katz School's New Student Orientation?
+7. Could you please let me know when the Katz School's New Student Orientation is scheduled?
+8. I'm interested in attending the Katz School's New Student Orientation. Can you tell me when it will be held?
+9. Is there a specific date and time set for the Katz School's New Student Orientation?
+10. When should I plan to attend the Katz School's New Student Orientation?"
+students,contact orientation-related questions,"""Students should contact katz@yu.edu with any orientation-related questions.""",Who should students contact with orientation-related questions?,studentscontactorientationrelatedquestions,"1. Whom should students reach out to for orientation-related queries?
+2. Who is the appropriate person for students to contact regarding orientation-related concerns?
+3. To whom should students direct their questions about orientation?
+4. Who can students contact if they have questions about orientation?
+5. Which individual should students get in touch with for orientation-related inquiries?
+6. Who is the designated contact person for students with orientation-related questions?
+7. Whom should students approach if they need assistance with orientation-related matters?
+8. Who should students seek guidance from for orientation-related issues?
+9. Who is responsible for answering students' questions about orientation?
+10. Whom should students consult for any orientation-related doubts?"
+social media platforms students katz school,follow,"""Students can follow the Katz School on LinkedIn, Instagram, Facebook, and their blog.""",What social media platforms can students follow the Katz School on?,socialmediaplatformsstudentskatzschoolfollow,"1. Which social media platforms does the Katz School have a presence on?
+2. What are the social media accounts that students can follow to stay updated with the Katz School?
+3. On which social media platforms can students find the Katz School?
+4. What are the social media channels where students can connect with the Katz School?
+5. Which social media platforms does the Katz School use to engage with students?
+6. What are the social media accounts that students should follow to get updates from the Katz School?
+7. Where can students find the Katz School on social media?
+8. What are the social media handles that students can follow to stay connected with the Katz School?
+9. On which social media platforms can students find the Katz School's official accounts?
+10. Which social media channels should students follow to receive updates from the Katz School?"
+- katz school- students, helpful contacts,"""Some helpful contacts for students at the Katz School include the Director of Graduate Student Life and Community Engagement, the Office of International Services, the Office of Student Finance, the Office of the Registrar, program advisors, and the Graduate Admissions team.""",Who are some helpful contacts for students at the Katz School?,katzschoolstudentshelpfulcontacts,"1. Can you provide a list of contacts that students at the Katz School can reach out to for assistance?
+2. Are there any specific individuals or departments that students at the Katz School can contact for help?
+3. Who can students at the Katz School turn to for support and guidance?
+4. Are there any resources available for students at the Katz School to connect with helpful contacts?
+5. Can you recommend any specific people or offices that students at the Katz School should reach out to for assistance?
+6. What are some recommended contacts for students at the Katz School who need help or advice?
+7. Are there any designated individuals or offices that students at the Katz School can contact for academic or personal support?
+8. Who should students at the Katz School contact if they have questions or concerns?
+9. Can you provide a list of helpful contacts that students at the Katz School can rely on for various needs?
+10. Are there any specific individuals or resources available to students at the Katz School that can provide guidance or assistance?"
+ms artificial intelligence,applications,""" Students in the program can work on applications in finance, biotech, cybersecurity, ad-tech, and health care, among others.""",What are some of the applications that students in the master's degree program in artificial intelligence at Yeshiva University can work on?,msartificialintelligenceapplications,"1. What are the potential projects that students in the artificial intelligence master's degree program at Yeshiva University can undertake?
+2. Can you provide examples of the applications that students pursuing a master's degree in artificial intelligence at Yeshiva University can develop?
+3. What kind of projects can students in the artificial intelligence master's program at Yeshiva University engage in?
+4. Are there any specific areas or industries where students in the artificial intelligence master's program at Yeshiva University can apply their skills?
+5. What are some of the practical applications that students in the artificial intelligence master's program at Yeshiva University can explore?
+6. Can you give some examples of the real-world projects that students in the artificial intelligence master's program at Yeshiva University can participate in?
+7. What are the potential research areas that students in the artificial intelligence master's program at Yeshiva University can focus on?
+8. Are there any specific domains or sectors where students in the artificial intelligence master's program at Yeshiva University can contribute their expertise?
+9. What are some of the industry collaborations or partnerships that students in the artificial intelligence master's program at Yeshiva University can be involved in?
+10. Can you provide some insights into the practical applications that students pursuing a master's degree in artificial intelligence at Yeshiva University can explore?"
+ms artificial intelligence,skills knowledge,""" Students will gain skills and knowledge in AI theory, research, technologies, ethical standards, as well as designing and building AI applications in various domains.""",What are some of the skills and knowledge that students will gain in the master's degree program in artificial intelligence at Yeshiva University?,msartificialintelligenceskillsknowledge,"1. What skills and knowledge can students expect to acquire in the artificial intelligence master's degree program at Yeshiva University?
+2. What specific abilities and understanding will students develop during their studies in the artificial intelligence master's program at Yeshiva University?
+3. What are the key skills and knowledge areas covered in the artificial intelligence master's degree program offered by Yeshiva University?
+4. What can students expect to learn and master in the artificial intelligence master's program at Yeshiva University?
+5. What are some of the specific competencies and expertise that students will gain through the artificial intelligence master's degree program at Yeshiva University?
+6. What skills and knowledge will be emphasized and cultivated in the artificial intelligence master's program at Yeshiva University?
+7. What are the main areas of focus in the artificial intelligence master's degree program at Yeshiva University?
+8. What are the core skills and knowledge that students will acquire in the artificial intelligence master's program at Yeshiva University?
+9. What specific proficiencies and understanding will students develop as part of the artificial intelligence master's degree program at Yeshiva University?
+10. What are some of the key learning outcomes and areas of expertise that students can expect to achieve in the artificial intelligence master's program at Yeshiva University?"
+ms artificial intelligence,job opportunities,""" Graduates can pursue careers in research and development groups, product design labs, innovative startups, and Ph.D. programs, with job titles such as AI engineer, data scientist, machine learning engineer, and business intelligence developer.""",What are some of the job opportunities available for graduates of the master's degree program in artificial intelligence at Yeshiva University?,msartificialintelligencejobopportunities,"1. What job prospects are there for graduates of the artificial intelligence master's degree program at Yeshiva University?
+2. What career options are available to those who complete the master's degree program in artificial intelligence at Yeshiva University?
+3. What kind of employment opportunities can graduates of the artificial intelligence master's degree program at Yeshiva University expect?
+4. What are the potential job roles for individuals who complete the master's degree program in artificial intelligence at Yeshiva University?
+5. What are some of the potential career paths for graduates of the artificial intelligence master's degree program at Yeshiva University?
+6. What job opportunities await those who successfully complete the master's degree program in artificial intelligence at Yeshiva University?
+7. What are the employment prospects like for graduates of the artificial intelligence master's degree program at Yeshiva University?
+8. What are some of the possible job options for individuals who graduate from the master's degree program in artificial intelligence at Yeshiva University?
+9. What are the potential career opportunities for those who complete the artificial intelligence master's degree program at Yeshiva University?
+10. What are some of the job prospects for graduates of the master's degree program in artificial intelligence at Yeshiva University?"
+yeshiva university,ms artificial intelligence,""" Yes, through the B.A./M.S. Pathways option, undergraduate students from Yeshiva College, Stern College for Women, and the Sy Syms School of Business can take up to 12 graduate credits that count toward both their bachelor's and master's degrees.""",Can undergraduate students at Yeshiva University also pursue a master's degree in artificial intelligence?,yeshivauniversitymsartificialintelligence,"1. Is it possible for undergraduate students at Yeshiva University to pursue a master's degree in artificial intelligence?
+2. Can Yeshiva University undergraduate students enroll in a master's program specializing in artificial intelligence?
+3. Are undergraduate students at Yeshiva University eligible to apply for a master's degree in artificial intelligence?
+4. Is there a pathway for Yeshiva University undergraduate students to pursue a master's degree in artificial intelligence?
+5. Do undergraduate students at Yeshiva University have the opportunity to study artificial intelligence at a master's level?
+6. Can Yeshiva University undergraduate students transition into a master's program focused on artificial intelligence?
+7. Are there any master's programs in artificial intelligence available for Yeshiva University undergraduate students?
+8. Is it feasible for undergraduate students at Yeshiva University to pursue a master's degree specifically in artificial intelligence?
+9. Are Yeshiva University undergraduate students allowed to pursue a master's degree in the field of artificial intelligence?
+10. Can undergraduate students at Yeshiva University pursue a master's degree with a specialization in artificial intelligence?"
+ms artificial intelligence,internships practical training opportunities,""" Yes, students have the opportunity to gain industry experience through internships at major companies, startups, and the YU Innovation Lab, and the program is STEM-approved, allowing international students to be eligible for up to 36 months of Optional Practical Training (OPT).""",Are there opportunities for internships and practical training in the master's degree program in artificial intelligence at Yeshiva University?,msartificialintelligenceinternshipspracticaltrainingopportunities,"1. Are there any internship opportunities available for students pursuing a master's degree in artificial intelligence at Yeshiva University?
+2. Does the master's degree program in artificial intelligence at Yeshiva University offer practical training opportunities?
+3. Are there any chances for internships or practical training in the artificial intelligence master's program at Yeshiva University?
+4. Can students in the master's degree program in artificial intelligence at Yeshiva University participate in internships or practical training?
+5. Are there any industry placements or internships offered as part of the artificial intelligence master's program at Yeshiva University?
+6. Do students in the artificial intelligence master's program at Yeshiva University have the opportunity to gain practical experience through internships?
+7. Are there any hands-on training opportunities available for students pursuing a master's degree in artificial intelligence at Yeshiva University?
+8. Can students in the artificial intelligence master's program at Yeshiva University engage in practical training or internships?
+9. Are there any practical learning experiences, such as internships, offered in the master's degree program in artificial intelligence at Yeshiva University?
+10. Do students in the artificial intelligence master's program at Yeshiva University have the chance to participate in internships or practical training?"
+ms biotechnology management entrepreneurship,goal,""" The goal of the M.S. in Biotechnology Management and Entrepreneurship program is to provide students with the scientific, technical, and business knowledge needed to launch, manage, scale, and commercialize biotechnology innovations and delivery systems.""",What is the goal of the M.S. in Biotechnology Management and Entrepreneurship program?,msbiotechnologymanagemententrepreneurshipgoal,"1. What is the objective of the M.S. in Biotechnology Management and Entrepreneurship program?
+2. What is the purpose of the M.S. in Biotechnology Management and Entrepreneurship program?
+3. What are the aims of the M.S. in Biotechnology Management and Entrepreneurship program?
+4. What does the M.S. in Biotechnology Management and Entrepreneurship program aim to achieve?
+5. What is the target outcome of the M.S. in Biotechnology Management and Entrepreneurship program?
+6. What is the intended result of the M.S. in Biotechnology Management and Entrepreneurship program?
+7. What is the desired end goal of the M.S. in Biotechnology Management and Entrepreneurship program?
+8. What is the ultimate objective of the M.S. in Biotechnology Management and Entrepreneurship program?
+9. What is the main focus of the M.S. in Biotechnology Management and Entrepreneurship program?
+10. What is the primary purpose of the M.S. in Biotechnology Management and Entrepreneurship program?"
+biotech fellows,students,""" The Biotech Fellows program provides students with industry mentorship, the opportunity to showcase and publish their research at the Katz School's annual Symposium on Science, Technology and Health, and a scholarship reducing total tuition to $25K for the entire graduate degree.""",How does the Biotech Fellows program benefit students?,biotechfellowsstudents,"1. What are the advantages of participating in the Biotech Fellows program for students?
+2. In what ways can students benefit from the Biotech Fellows program?
+3. How does the Biotech Fellows program contribute to the growth and development of students?
+4. What are the positive outcomes that students can expect from the Biotech Fellows program?
+5. How does the Biotech Fellows program enhance the educational experience of students?
+6. What specific opportunities does the Biotech Fellows program offer to students?
+7. What are the long-term benefits that students can gain from participating in the Biotech Fellows program?
+8. How does the Biotech Fellows program support the career aspirations of students?
+9. What resources and support does the Biotech Fellows program provide to students?
+10. How does the Biotech Fellows program help students build a strong foundation in the field of biotechnology?"
+bams pathways option,yeshiva college stern college for women,""" Yes, undergraduate students from Yeshiva College and Stern College for Women can pursue the B.A./M.S. Pathways option, which allows them to take up to nine graduate credits that count toward both their bachelor's and master's degrees.""",Can undergraduate students from Yeshiva College and Stern College for Women pursue the B.A./M.S. Pathways option?,bamspathwaysoptionyeshivacollegesterncollegeforwomen,"1. Are Yeshiva College undergraduate students eligible for the B.A./M.S. Pathways option?
+2. Can Stern College for Women undergraduate students pursue the B.A./M.S. Pathways option?
+3. Is the B.A./M.S. Pathways option available to undergraduate students from Yeshiva College and Stern College for Women?
+4. Do Yeshiva College and Stern College for Women offer the B.A./M.S. Pathways option to their undergraduate students?
+5. Are Yeshiva College and Stern College for Women undergraduate students allowed to pursue the B.A./M.S. Pathways option?
+6. Can undergraduate students from Yeshiva College and Stern College for Women enroll in the B.A./M.S. Pathways option?
+7. Is the B.A./M.S. Pathways option open to undergraduate students at Yeshiva College and Stern College for Women?
+8. Are Yeshiva College and Stern College for Women undergraduate students eligible for the B.A./M.S. Pathways program?
+9. Can undergraduate students from Yeshiva College and Stern College for Women participate in the B.A./M.S. Pathways option?
+10. Is the B.A./M.S. Pathways option available to Yeshiva College and Stern College for Women undergraduate students?"
+ms biotechnology management entrepreneurship,internships,""" Yes, students in the Master's in Biotechnology Management and Entrepreneurship program have the opportunity to gain industry experience through internships in major companies, startups, and the YU Innovation Lab. These internships count toward their degree.""",Are internships available for students in the Master's in Biotechnology Management and Entrepreneurship program?,msbiotechnologymanagemententrepreneurshipinternships,"1. Are there any internships offered specifically for students in the Master's in Biotechnology Management and Entrepreneurship program?
+2. Are internships available for students enrolled in the Biotechnology Management and Entrepreneurship program?
+3. Can students in the Master's in Biotechnology Management and Entrepreneurship program participate in internships?
+4. Are there any internship opportunities for students pursuing the Biotechnology Management and Entrepreneurship program?
+5. Do students in the Master's in Biotechnology Management and Entrepreneurship program have access to internships?
+6. Are internships a part of the curriculum for the Biotechnology Management and Entrepreneurship program?
+7. Are there any industry internships available for students in the Master's in Biotechnology Management and Entrepreneurship program?
+8. Can students in the Biotechnology Management and Entrepreneurship program gain practical experience through internships?
+9. Are there any internship placements specifically for students studying Biotechnology Management and Entrepreneurship?
+10. Are internships offered as part of the Master's program in Biotechnology Management and Entrepreneurship?"
+ms biotechnology management entrepreneurship,stem-approved,""" Yes, the Master's in Biotechnology Management and Entrepreneurship program is STEM-approved, which means that international students may be eligible for up to 36 months of Optional Practical Training (OPT) after completing their degree. The program also offers opportunities for Curricular Practical Training (CPT).""",Is the Master's in Biotechnology Management and Entrepreneurship program STEM-approved?,msbiotechnologymanagemententrepreneurshipstemapproved,"1. Does the Master's in Biotechnology Management and Entrepreneurship program have STEM approval?
+2. Is the Master's in Biotechnology Management and Entrepreneurship program recognized as a STEM program?
+3. Can the Master's in Biotechnology Management and Entrepreneurship program be considered a STEM-approved course?
+4. Is the Master's in Biotechnology Management and Entrepreneurship program accredited as a STEM program?
+5. Does the Master's in Biotechnology Management and Entrepreneurship program meet the criteria for STEM approval?
+6. Is the Master's in Biotechnology Management and Entrepreneurship program eligible for STEM designation?
+7. Has the Master's in Biotechnology Management and Entrepreneurship program received STEM approval?
+8. Is the Master's in Biotechnology Management and Entrepreneurship program classified as a STEM course?
+9. Can the Master's in Biotechnology Management and Entrepreneurship program be categorized as a STEM-approved degree?
+10. Does the Master's in Biotechnology Management and Entrepreneurship program fulfill the requirements for STEM accreditation?"
+ms cybersecurity,skills,"""In the master's in cybersecurity program at the Katz School, you will develop the technological and managerial expertise to plan, implement, upgrade, monitor, and audit cybersecurity protocols and procedures.""",What skills will I develop in the master's in cybersecurity program at the Katz School?,mscybersecurityskills,"1. What specific skills can I expect to gain from the master's in cybersecurity program at the Katz School?
+2. How will the master's in cybersecurity program at the Katz School enhance my skillset?
+3. What are the key skills that graduates of the master's in cybersecurity program at the Katz School possess?
+4. In what areas will the master's in cybersecurity program at the Katz School help me develop my skills?
+5. Can you provide examples of the skills that students typically acquire during the master's in cybersecurity program at the Katz School?
+6. How will the master's in cybersecurity program at the Katz School prepare me for a career in the field?
+7. What practical skills will I gain from the master's in cybersecurity program at the Katz School?
+8. Are there any specific technical skills that I will learn in the master's in cybersecurity program at the Katz School?
+9. How will the master's in cybersecurity program at the Katz School help me develop my problem-solving abilities?
+10. What unique skills or knowledge will I acquire through the master's in cybersecurity program at the Katz School?"
+ms cybersecurity,real-world challenges,"""The master's in cybersecurity program at the Katz School provides hands-on experience with threat mitigation, detection, and defense, allowing students to gain practical skills and knowledge to tackle real-world cybersecurity challenges.""",How does the master's in cybersecurity program at the Katz School prepare students for real-world challenges?,mscybersecurityrealworldchallenges,"1. What skills do students gain from the master's in cybersecurity program at the Katz School?
+2. In what ways does the master's in cybersecurity program at the Katz School simulate real-world challenges?
+3. How does the Katz School's master's in cybersecurity program ensure students are prepared for real-world scenarios?
+4. What practical experiences are included in the master's in cybersecurity program at the Katz School?
+5. How does the Katz School's master's in cybersecurity program bridge the gap between theory and real-world application?
+6. What resources are available to students in the master's in cybersecurity program at the Katz School to help them tackle real-world challenges?
+7. Can you provide examples of how the master's in cybersecurity program at the Katz School prepares students for real-world scenarios?
+8. What unique opportunities does the master's in cybersecurity program at the Katz School offer to enhance students' real-world problem-solving abilities?
+9. How does the curriculum of the master's in cybersecurity program at the Katz School align with the demands of the real-world cybersecurity industry?
+10. What support systems are in place within the master's in cybersecurity program at the Katz School to guide students through real-world challenges?"
+ms cybersecurity,research industry projects,"""Yes, as a student in the master's in cybersecurity program at the Katz School, you can join the Tech Fellows program, where you will have the opportunity to work on pioneering research, citywide initiatives, and new technologies that contribute to making the world smarter, safer, and healthier.""",Can I participate in research and industry projects while pursuing the master's in cybersecurity program at the Katz School?,mscybersecurityresearchindustryprojects,"1. Is it possible to engage in research and industry projects while enrolled in the master's in cybersecurity program at the Katz School?
+2. Are students allowed to take part in both research and industry projects during their studies in the cybersecurity master's program at the Katz School?
+3. Can I actively participate in research and industry projects while pursuing my master's degree in cybersecurity at the Katz School?
+4. Is it feasible to be involved in research and industry projects while completing the master's in cybersecurity program at the Katz School?
+5. Are students encouraged to engage in research and industry projects alongside their studies in the cybersecurity master's program at the Katz School?
+6. Is it permissible to take part in both research and industry projects while enrolled in the master's in cybersecurity program at the Katz School?
+7. Can I simultaneously participate in research and industry projects while pursuing my master's degree in cybersecurity at the Katz School?
+8. Are there opportunities for students to be involved in research and industry projects while studying in the cybersecurity master's program at the Katz School?
+9. Is it allowed to actively engage in research and industry projects while completing the master's in cybersecurity program at the Katz School?
+10. Can I be part of research and industry projects while pursuing my master's degree in cybersecurity at the Katz School?"
+ms cybersecurity,katz school,"""Yes, through the B.A./M.S. Pathways option, undergraduate students from Yeshiva College and Stern College for Women can take up to nine graduate credits that count toward both their bachelor's and master's degrees, allowing them to complete their graduate degree in just one more year.""",Are there any opportunities for undergraduate students to pursue the master's in cybersecurity program at the Katz School?,mscybersecuritykatzschool,"1. Can undergraduate students apply for the master's in cybersecurity program at the Katz School?
+2. Are there any pathways for undergraduates to transition into the master's in cybersecurity program at the Katz School?
+3. Is it possible for undergraduate students to continue their studies in cybersecurity at the Katz School?
+4. Are there any options for undergraduates to pursue a master's degree in cybersecurity at the Katz School?
+5. Can undergraduate students enroll in the master's in cybersecurity program at the Katz School?
+6. Are there any provisions for undergraduates to join the master's in cybersecurity program at the Katz School?
+7. Is the master's in cybersecurity program at the Katz School open to undergraduate students?
+8. Are there any opportunities for undergraduates to further their education in cybersecurity at the Katz School?
+9. Can undergraduate students apply for admission to the master's in cybersecurity program at the Katz School?
+10. Is there a possibility for undergraduates to pursue a master's degree in cybersecurity at the Katz School?"
+ms cybersecurity,internships,"""Yes, international students in the master's in cybersecurity program at the Katz School can participate in internships that count toward their degree, providing them with valuable industry experience. Additionally, the program is STEM-approved, allowing eligible international students to potentially qualify for up to 36 months of Optional Practical Training (OPT).""",Can international students gain industry experience through internships while studying in the master's in cybersecurity program at the Katz School?,mscybersecurityinternships,"1. Are internships available for international students in the master's in cybersecurity program at the Katz School?
+2. Can international students in the master's in cybersecurity program at the Katz School participate in industry internships?
+3. Is it possible for international students to gain industry experience through internships while studying in the master's in cybersecurity program at the Katz School?
+4. Do international students have the opportunity to do internships in the cybersecurity industry while enrolled in the master's program at the Katz School?
+5. Are there internships specifically designed for international students in the master's in cybersecurity program at the Katz School?
+6. Can international students in the master's in cybersecurity program at the Katz School engage in internships to gain practical experience?
+7. Are there any restrictions for international students regarding internships in the master's in cybersecurity program at the Katz School?
+8. Are internships a mandatory part of the master's in cybersecurity program for international students at the Katz School?
+9. Are there any limitations or requirements for international students to participate in internships while studying in the master's in cybersecurity program at the Katz School?
+10. Are there any specific guidelines or procedures for international students to follow in order to secure internships in the master's in cybersecurity program at the Katz School?"
+ms data analytics visualization,skills,"""In the M.S. in Data Analytics and Visualization program, you will learn skills such as transforming raw data into insightful output, mastering predictive and exploratory analyses, creating visualizations and data narratives, and using tools like Python, SQL/NoSQL, Tableau, AWS, and AutoML.""",What skills will I learn in the M.S. in Data Analytics and Visualization program?,msdataanalyticsvisualizationskills,"1. What are the specific skills taught in the M.S. in Data Analytics and Visualization program?
+2. Can you provide a list of the skills that students will acquire in the M.S. in Data Analytics and Visualization program?
+3. What are the main areas of focus in terms of skill development in the M.S. in Data Analytics and Visualization program?
+4. Are there any specific technical skills that students will gain from the M.S. in Data Analytics and Visualization program?
+5. How will the M.S. in Data Analytics and Visualization program enhance my data analysis and visualization skills?
+6. What are the practical skills that students will acquire through the M.S. in Data Analytics and Visualization program?
+7. Can you give examples of the skills that graduates of the M.S. in Data Analytics and Visualization program possess?
+8. What are the key competencies that students will develop in the M.S. in Data Analytics and Visualization program?
+9. How will the M.S. in Data Analytics and Visualization program help me improve my data interpretation and visualization abilities?
+10. What specific tools and technologies will be taught in the M.S. in Data Analytics and Visualization program to enhance students' skills?"
+ms data analytics visualization,students,"""The M.S. in Data Analytics and Visualization program offers industry mentorship, opportunities to showcase and publish research, generous scholarships and financial aid, and the chance to gain real-world predictive and analytical skills in the heart of New York City.""",How does the M.S. in Data Analytics and Visualization program benefit students?,msdataanalyticsvisualizationstudents,"1. What are the advantages of enrolling in the M.S. in Data Analytics and Visualization program?
+2. How can students benefit from the M.S. in Data Analytics and Visualization program?
+3. In what ways does the M.S. in Data Analytics and Visualization program help students?
+4. What are the positive outcomes for students who complete the M.S. in Data Analytics and Visualization program?
+5. How does the M.S. in Data Analytics and Visualization program contribute to students' career development?
+6. What specific skills and knowledge do students gain from the M.S. in Data Analytics and Visualization program?
+7. How does the M.S. in Data Analytics and Visualization program enhance students' understanding of data analysis and visualization?
+8. What opportunities does the M.S. in Data Analytics and Visualization program provide for students to apply their learning in real-world scenarios?
+9. How does the M.S. in Data Analytics and Visualization program prepare students for the challenges of the data-driven industry?
+10. What sets the M.S. in Data Analytics and Visualization program apart from other similar programs in terms of student benefits?"
+bams pathways option the ms data analytics visualization,yeshiva college stern college for women,"""Yes, undergraduate students from Yeshiva College and Stern College for Women can take up to nine graduate credits that count toward both their bachelor's and master's degrees in the M.S. in Data Analytics and Visualization program.""",Can undergraduate students at Yeshiva College and Stern College for Women take advantage of the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?,bamspathwaysoptionthemsdataanalyticsvisualizationyeshivacollegesterncollegeforwomen,"1. Is the B.A./M.S. Pathways option available for undergraduate students at Yeshiva College and Stern College for Women?
+2. Can undergraduate students at Yeshiva College and Stern College for Women pursue the M.S. in Data Analytics and Visualization program?
+3. Are undergraduate students at Yeshiva College and Stern College for Women eligible for the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?
+4. Is the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program open to undergraduate students from Yeshiva College and Stern College for Women?
+5. Do Yeshiva College and Stern College for Women offer the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?
+6. Are undergraduate students from Yeshiva College and Stern College for Women allowed to participate in the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?
+7. Can undergraduate students at Yeshiva College and Stern College for Women enroll in the M.S. in Data Analytics and Visualization program through the B.A./M.S. Pathways option?
+8. Is the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program specifically designed for undergraduate students at Yeshiva College and Stern College for Women?
+9. Are Yeshiva College and Stern College for Women included in the B.A./M.S. Pathways option for the M.S. in Data Analytics and Visualization program?
+10. Are undergraduate students at Yeshiva College and Stern College for Women given the opportunity to pursue the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?"
+ms data analytics visualization,internships,"""Yes, students in the M.S. in Data Analytics and Visualization program have the opportunity to gain industry experience through internships that count toward their degree. Recent internships have been offered at companies such as Standard & Poor's, American Eagle Outfitters, and IBM.""",Are internships available for students in the M.S. in Data Analytics and Visualization program?,msdataanalyticsvisualizationinternships,"1. Are there any internships offered specifically for students in the M.S. in Data Analytics and Visualization program?
+2. Do students in the M.S. in Data Analytics and Visualization program have the opportunity to participate in internships?
+3. Are internships a part of the curriculum for students in the M.S. in Data Analytics and Visualization program?
+4. Are there any internship placements available for students enrolled in the M.S. in Data Analytics and Visualization program?
+5. Can students in the M.S. in Data Analytics and Visualization program apply for internships?
+6. Are there any industry partnerships or connections that provide internships for students in the M.S. in Data Analytics and Visualization program?
+7. Are internships a common practice for students pursuing the M.S. in Data Analytics and Visualization program?
+8. Are there any specific requirements or qualifications for students to be eligible for internships in the M.S. in Data Analytics and Visualization program?
+9. Are internships considered valuable experiences for students in the M.S. in Data Analytics and Visualization program?
+10. Are there any success stories or testimonials from students who have completed internships during their M.S. in Data Analytics and Visualization program?"
+ms data analytics visualization,stem-approved degree,"""Yes, the M.S. in Data Analytics and Visualization program at Yeshiva University is a STEM-approved degree. This means that international students may be eligible for up to 36 months of Optional Practical Training (OPT) and there are opportunities for Curricular Practical Training (CPT) as well.""",Is the M.S. in Data Analytics and Visualization program a STEM-approved degree?,msdataanalyticsvisualizationstemapproveddegree,"1. Does the M.S. in Data Analytics and Visualization program have STEM approval?
+2. Is the M.S. in Data Analytics and Visualization program recognized as a STEM degree?
+3. Can the M.S. in Data Analytics and Visualization program be classified as a STEM-approved degree?
+4. Is the M.S. in Data Analytics and Visualization program considered a STEM degree by accrediting bodies?
+5. Does the M.S. in Data Analytics and Visualization program meet the criteria for a STEM-approved degree?
+6. Is the M.S. in Data Analytics and Visualization program included in the list of STEM degrees?
+7. Is the M.S. in Data Analytics and Visualization program eligible for STEM-related scholarships or grants?
+8. Are graduates of the M.S. in Data Analytics and Visualization program eligible for STEM-related employment opportunities?
+9. Does the M.S. in Data Analytics and Visualization program align with the STEM curriculum guidelines?
+10. Is the M.S. in Data Analytics and Visualization program recognized as a STEM field of study?"
+ms digital marketing media,skills,"""The M.S. in Digital Marketing and Media program will equip you with essential media, design, communication, behavioral, analytical, technical, and research skills.""",What skills will I gain from the M.S. in Digital Marketing and Media program?,msdigitalmarketingmediaskills,"1. What are the specific skills that I can expect to acquire through the M.S. in Digital Marketing and Media program?
+2. How will the M.S. in Digital Marketing and Media program enhance my skill set?
+3. What practical skills will I develop during the M.S. in Digital Marketing and Media program?
+4. Can you provide examples of the skills that graduates of the M.S. in Digital Marketing and Media program possess?
+5. What are the key competencies that the M.S. in Digital Marketing and Media program aims to develop?
+6. How will the M.S. in Digital Marketing and Media program prepare me for a career in the digital marketing industry?
+7. Are there any specific technical skills that I will gain from the M.S. in Digital Marketing and Media program?
+8. What are the unique skills that differentiate graduates of the M.S. in Digital Marketing and Media program from other professionals in the field?
+9. Can you provide a comprehensive list of the skills that students typically acquire through the M.S. in Digital Marketing and Media program?
+10. How will the M.S. in Digital Marketing and Media program help me stay up-to-date with the latest trends and advancements in the industry?"
+ms digital marketing media,completion time,"""The M.S. in Digital Marketing and Media program can be completed in either one year or 15 months, depending on your preferred schedule (full-time, part-time, or weekends).""",How long does it take to complete the M.S. in Digital Marketing and Media program?,msdigitalmarketingmediacompletiontime,"1. What is the duration of the M.S. in Digital Marketing and Media program?
+2. How much time does it typically take to finish the M.S. in Digital Marketing and Media program?
+3. What is the average length of the M.S. in Digital Marketing and Media program?
+4. Can you provide an estimate of the time required to complete the M.S. in Digital Marketing and Media program?
+5. How many semesters or years does it take to complete the M.S. in Digital Marketing and Media program?
+6. Is there a specific timeline for completing the M.S. in Digital Marketing and Media program?
+7. What is the expected time commitment for the M.S. in Digital Marketing and Media program?
+8. Are there any options for accelerating the completion of the M.S. in Digital Marketing and Media program?
+9. Can the M.S. in Digital Marketing and Media program be completed on a part-time basis?
+10. Are there any prerequisites or requirements that may affect the duration of the M.S. in Digital Marketing and Media program?"
+ms digital marketing media,strategies,"""The M.S. in Digital Marketing and Media program covers strategies for social media, SEM, SEO, mobile, email, content, and video marketing.""",What are some of the strategies covered in the M.S. in Digital Marketing and Media program?,msdigitalmarketingmediastrategies,"1. What strategies are taught in the M.S. in Digital Marketing and Media program?
+2. Can you provide examples of strategies covered in the M.S. in Digital Marketing and Media program?
+3. What specific strategies are included in the curriculum of the M.S. in Digital Marketing and Media program?
+4. Are there any innovative strategies discussed in the M.S. in Digital Marketing and Media program?
+5. How comprehensive is the coverage of strategies in the M.S. in Digital Marketing and Media program?
+6. Are the strategies covered in the M.S. in Digital Marketing and Media program applicable to various industries?
+7. Do the strategies taught in the M.S. in Digital Marketing and Media program focus on specific digital platforms?
+8. Are there any case studies or real-world examples used to illustrate the strategies in the M.S. in Digital Marketing and Media program?
+9. Are the strategies covered in the M.S. in Digital Marketing and Media program up-to-date with current industry trends?
+10. Can you provide a brief overview of the strategies covered in the M.S. in Digital Marketing and Media program?"
+ms digital marketing media,internships,"""Yes, the M.S. in Digital Marketing and Media program offers internships in major companies, startups, and the YU Innovation Lab, providing valuable industry experience.""",Are there any opportunities for internships in the M.S. in Digital Marketing and Media program?,msdigitalmarketingmediainternships,"1. Are internships available for students in the M.S. in Digital Marketing and Media program?
+2. Are there any internship options for students enrolled in the M.S. in Digital Marketing and Media program?
+3. Can students in the M.S. in Digital Marketing and Media program participate in internships?
+4. Are there any internship opportunities specifically for students in the M.S. in Digital Marketing and Media program?
+5. Is there a chance to gain practical experience through internships in the M.S. in Digital Marketing and Media program?
+6. Are internships a part of the curriculum for the M.S. in Digital Marketing and Media program?
+7. Are there any industry partnerships or connections that provide internship opportunities for students in the M.S. in Digital Marketing and Media program?
+8. Do students in the M.S. in Digital Marketing and Media program have the option to pursue internships?
+9. Are there any specific companies or organizations that offer internships to students in the M.S. in Digital Marketing and Media program?
+10. Are internships encouraged or recommended for students in the M.S. in Digital Marketing and Media program?"
+ms digital marketing media,international students,"""Yes, international students can enroll in the M.S. in Digital Marketing and Media program and may be eligible for up to 36 months of Optional Practical Training (OPT) and Curricular Practical Training (CPT) opportunities.""",Can international students participate in the M.S. in Digital Marketing and Media program?,msdigitalmarketingmediainternationalstudents,"1. Are international students eligible to enroll in the M.S. in Digital Marketing and Media program?
+2. Is the M.S. in Digital Marketing and Media program open to international students?
+3. Can students from other countries apply for the M.S. in Digital Marketing and Media program?
+4. Are non-U.S. citizens allowed to participate in the M.S. in Digital Marketing and Media program?
+5. Is the M.S. in Digital Marketing and Media program available for international applicants?
+6. Do international students have the opportunity to join the M.S. in Digital Marketing and Media program?
+7. Are there any restrictions for international students applying to the M.S. in Digital Marketing and Media program?
+8. Can students with non-U.S. educational backgrounds apply for the M.S. in Digital Marketing and Media program?
+9. Is the M.S. in Digital Marketing and Media program open to students from around the world?
+10. Are international applicants considered for the M.S. in Digital Marketing and Media program?"
+ma mathematics,career prospects for graduates,""" Graduates of the M.A. in Mathematics program at Yeshiva University can pursue careers in finance, technology, biomedicine, data analysis, and academia, among others.""",What are the career prospects for graduates of the M.A. in Mathematics program at Yeshiva University?,mamathematicscareerprospectsforgraduates,"1. What job opportunities are available for graduates of the M.A. in Mathematics program at Yeshiva University?
+2. How successful are graduates of the M.A. in Mathematics program at Yeshiva University in finding employment?
+3. What industries typically hire graduates of the M.A. in Mathematics program at Yeshiva University?
+4. Are there any specific companies or organizations that actively recruit graduates of the M.A. in Mathematics program at Yeshiva University?
+5. What is the average salary range for graduates of the M.A. in Mathematics program at Yeshiva University?
+6. Are there any additional certifications or qualifications that can enhance the career prospects of graduates from the M.A. in Mathematics program at Yeshiva University?
+7. Can graduates of the M.A. in Mathematics program at Yeshiva University pursue careers in academia or research?
+8. Are there any alumni networks or career services available to support graduates of the M.A. in Mathematics program at Yeshiva University?
+9. What are some notable career paths that previous graduates of the M.A. in Mathematics program at Yeshiva University have pursued?
+10. How does the M.A. in Mathematics program at Yeshiva University prepare students for their future careers?"
+ma mathematics,admission requirements application process,""" The program provides students with a solid foundation in advanced mathematics, as well as skills in mathematical modeling, numerical applications, and data analysis, making them competitive in an ever-shifting job market.""",How does the M.A. in Mathematics program at Yeshiva University prepare students for the job market?,mamathematicsadmissionrequirementsapplicationprocess,"1. What skills do students gain from the M.A. in Mathematics program at Yeshiva University that are valuable in the job market?
+2. How does the M.A. in Mathematics program at Yeshiva University help students develop their professional network for job opportunities?
+3. What specific courses or curriculum components in the M.A. in Mathematics program at Yeshiva University are designed to enhance students' job market readiness?
+4. Are there any internships or practical experiences included in the M.A. in Mathematics program at Yeshiva University to prepare students for the job market?
+5. How does the M.A. in Mathematics program at Yeshiva University assist students in translating their mathematical knowledge into practical applications for potential employers?
+6. What resources or career services are available to M.A. in Mathematics students at Yeshiva University to support their job search and career development?
+7. Can you provide examples of successful career paths that graduates of the M.A. in Mathematics program at Yeshiva University have pursued?
+8. How does the M.A. in Mathematics program at Yeshiva University stay updated with current industry trends and demands to ensure students are well-prepared for the job market?
+9. Are there any partnerships or collaborations between the M.A. in Mathematics program at Yeshiva University and industry professionals or companies to enhance students' job prospects?
+10. What percentage of M.A. in Mathematics graduates from Yeshiva University secure employment in their field of study within a year of completing the program?"
+ma mathematics,research opportunities,""" Yes, students in the program have the opportunity to engage in research in various areas such as dynamics, applied noncommutative geometry, differential geometry, and quantum algorithms for quantum computers.""",Are there research opportunities available in the M.A. in Mathematics program at Yeshiva University?,mamathematicsresearchopportunities,"1. Are there any research opportunities offered in the M.A. in Mathematics program at Yeshiva University?
+2. Can students in the M.A. in Mathematics program at Yeshiva University engage in research?
+3. Are research opportunities available for students pursuing the M.A. in Mathematics at Yeshiva University?
+4. Is there a chance for research involvement in the M.A. in Mathematics program at Yeshiva University?
+5. Do students in the M.A. in Mathematics program at Yeshiva University have the opportunity to conduct research?
+6. Are there any research projects or initiatives in the M.A. in Mathematics program at Yeshiva University?
+7. Are research experiences offered to students enrolled in the M.A. in Mathematics program at Yeshiva University?
+8. Can students in the M.A. in Mathematics program at Yeshiva University participate in research activities?
+9. Are there any research-focused courses or modules in the M.A. in Mathematics program at Yeshiva University?
+10. Are there any research grants or funding opportunities available for students in the M.A. in Mathematics program at Yeshiva University?"
+yeshiva university mathematics,bama pathway,""" Yes, YU undergraduates can take up to 12 graduate credits that count toward both their bachelor's and master's degrees, allowing them to complete the M.A. in Mathematics in just one more year after completing their bachelor's.""",Can Yeshiva University undergraduates pursue a B.A./M.A. pathway in the Mathematics program?,yeshivauniversitymathematicsbamapathway,"1. Is it possible for Yeshiva University undergraduates to pursue a B.A./M.A. pathway in the Mathematics program?
+2. Can Yeshiva University undergraduates combine their B.A. and M.A. degrees in the Mathematics program?
+3. Is there an option for Yeshiva University undergraduates to pursue a B.A./M.A. pathway specifically in Mathematics?
+4. Are Yeshiva University undergraduates allowed to pursue a combined B.A./M.A. degree in the Mathematics program?
+5. Does Yeshiva University offer a B.A./M.A. pathway for undergraduates interested in Mathematics?
+6. Can Yeshiva University undergraduates enroll in a program that allows them to earn both a B.A. and M.A. in Mathematics?
+7. Is there a program at Yeshiva University that allows undergraduates to pursue a B.A./M.A. pathway in Mathematics?
+8. Are Yeshiva University undergraduates eligible to pursue a combined B.A./M.A. degree specifically in the Mathematics program?
+9. Does Yeshiva University have a pathway for undergraduates to earn both a B.A. and M.A. in Mathematics?
+10. Can Yeshiva University undergraduates follow a B.A./M.A. track in the Mathematics program?"
+ma mathematics,scholarships,""" Yes, generous scholarships and financial aid are available for a limited time, reducing the total tuition to $25K for the entire graduate degree.""",Is financial aid available for the M.A. in Mathematics program at Yeshiva University?,mamathematicsscholarships,"1. Does Yeshiva University offer financial aid for the M.A. in Mathematics program?
+2. What types of financial aid are available for the M.A. in Mathematics program at Yeshiva University?
+3. Are scholarships available for the M.A. in Mathematics program at Yeshiva University?
+4. Can I apply for grants to fund my M.A. in Mathematics at Yeshiva University?
+5. Are there any fellowships or assistantships available for the M.A. in Mathematics program at Yeshiva University?
+6. How can I apply for financial aid for the M.A. in Mathematics program at Yeshiva University?
+7. Are there any specific requirements or criteria to be eligible for financial aid for the M.A. in Mathematics program at Yeshiva University?
+8. Are there any deadlines for applying for financial aid for the M.A. in Mathematics program at Yeshiva University?
+9. Can international students apply for financial aid for the M.A. in Mathematics program at Yeshiva University?
+10. Are there any specific GPA or academic performance requirements to be considered for financial aid for the M.A. in Mathematics program at Yeshiva University?"
+phd mathematical sciences,yeshiva university,""" The program emphasizes complex systems, including financial markets, biological systems, quantum materials, and more.""",What are the areas of focus in the Ph.D. in Mathematical Sciences program at Yeshiva University?,phdmathematicalsciencesyeshivauniversity,"1. What specific subjects are covered in the Ph.D. in Mathematical Sciences program at Yeshiva University?
+2. Can you provide an overview of the curriculum in the Ph.D. in Mathematical Sciences program at Yeshiva University?
+3. What are the main research areas within the Ph.D. in Mathematical Sciences program at Yeshiva University?
+4. Are there any specialized tracks or concentrations available within the Ph.D. in Mathematical Sciences program at Yeshiva University?
+5. How does the Ph.D. in Mathematical Sciences program at Yeshiva University prepare students for careers in academia or industry?
+6. Are there any unique opportunities or resources available to students in the Ph.D. in Mathematical Sciences program at Yeshiva University?
+7. Can you provide information on the faculty members and their areas of expertise within the Ph.D. in Mathematical Sciences program at Yeshiva University?
+8. What is the average duration of the Ph.D. in Mathematical Sciences program at Yeshiva University?
+9. Are there any prerequisites or specific requirements for admission into the Ph.D. in Mathematical Sciences program at Yeshiva University?
+10. Can you share any recent achievements or notable research projects from students in the Ph.D. in Mathematical Sciences program at Yeshiva University?"
+phd mathematics,application deadline admission team,""" The program offers three tracks: three years for students with 60 credits, four years for students with 30 credits, and five years for students with no previous graduate coursework.""",How long does it take to complete the Ph.D. in Mathematics program at Yeshiva University?,phdmathematicsapplicationdeadlineadmissionteam,"1. What is the duration of the Ph.D. in Mathematics program at Yeshiva University?
+2. How much time is required to finish the Ph.D. in Mathematics program at Yeshiva University?
+3. What is the average length of the Ph.D. in Mathematics program at Yeshiva University?
+4. How many years does it take to complete the Ph.D. in Mathematics program at Yeshiva University?
+5. What is the time commitment for the Ph.D. in Mathematics program at Yeshiva University?
+6. Can you provide an estimate of the completion time for the Ph.D. in Mathematics program at Yeshiva University?
+7. How long is the Ph.D. in Mathematics program at Yeshiva University expected to take?
+8. What is the typical timeline for completing the Ph.D. in Mathematics program at Yeshiva University?
+9. Is there a specific timeframe for completing the Ph.D. in Mathematics program at Yeshiva University?
+10. Are there any factors that may affect the duration of the Ph.D. in Mathematics program at Yeshiva University?"
+phd mathematics,career opportunities,""" Graduates are prepared for careers as research mathematicians, university professors, or applied mathematicians in business, industry, or government.""",What career opportunities are available for graduates of the Ph.D. in Mathematics program at Yeshiva University?,phdmathematicscareeropportunities,"1. What job prospects are there for Ph.D. in Mathematics graduates from Yeshiva University?
+2. What are the employment options for individuals who complete the Ph.D. in Mathematics program at Yeshiva University?
+3. What kind of careers can be pursued by graduates of the Ph.D. in Mathematics program at Yeshiva University?
+4. What are the potential career paths for those who earn a Ph.D. in Mathematics from Yeshiva University?
+5. What job opportunities await graduates of the Ph.D. in Mathematics program at Yeshiva University?
+6. What fields or industries typically hire Ph.D. in Mathematics graduates from Yeshiva University?
+7. What are the chances of finding employment after completing the Ph.D. in Mathematics program at Yeshiva University?
+8. What are the typical job roles for individuals who complete the Ph.D. in Mathematics program at Yeshiva University?
+9. What are the employment prospects like for Ph.D. in Mathematics graduates from Yeshiva University?
+10. What are the potential career advancements for those who complete the Ph.D. in Mathematics program at Yeshiva University?"
+mathematics,internship opportunities for phd students,""" Yes, students have the opportunity to gain industry experience through internships in major companies, startups, and the YU Innovation Lab in New York City.""",Are there internship opportunities for Ph.D. students in the Mathematics program at Yeshiva University?,mathematicsinternshipopportunitiesforphdstudents,"1. Are there any internship opportunities available for Ph.D. students in the Mathematics program at Yeshiva University?
+2. Do Ph.D. students in the Mathematics program at Yeshiva University have the chance to participate in internships?
+3. Are internships offered to Ph.D. students studying Mathematics at Yeshiva University?
+4. Are there any internship programs specifically designed for Ph.D. students in the Mathematics program at Yeshiva University?
+5. Can Ph.D. students in the Mathematics program at Yeshiva University apply for internships?
+6. Are there any opportunities for Ph.D. students in the Mathematics program at Yeshiva University to gain practical experience through internships?
+7. Are internships available for Ph.D. students specializing in Mathematics at Yeshiva University?
+8. Are there any industry internships offered to Ph.D. students in the Mathematics program at Yeshiva University?
+9. Do Ph.D. students in the Mathematics program at Yeshiva University have the option to pursue internships?
+10. Are there any internship placements available for Ph.D. students studying Mathematics at Yeshiva University?"
+phd mathematics,acceptance rate competitiveness,""" Yes, the program is STEM-approved, and international students may be eligible for up to 36 months of Optional Practical Training (OPT).""",Is the Ph.D. in Mathematics program at Yeshiva University STEM-approved?,phdmathematicsacceptanceratecompetitiveness,"1. Is the Ph.D. program in Mathematics at Yeshiva University recognized as a STEM program?
+2. Does Yeshiva University's Ph.D. in Mathematics fall under the STEM category?
+3. Is the Mathematics Ph.D. program at Yeshiva University accredited as a STEM program?
+4. Can the Ph.D. in Mathematics at Yeshiva University be considered a STEM degree?
+5. Is Yeshiva University's Mathematics Ph.D. program STEM-certified?
+6. Does the Ph.D. program in Mathematics at Yeshiva University meet the criteria for STEM approval?
+7. Is the Mathematics Ph.D. program at Yeshiva University recognized as a STEM field of study?
+8. Can the Ph.D. in Mathematics at Yeshiva University be classified as a STEM degree program?
+9. Is Yeshiva University's Ph.D. in Mathematics included in the list of STEM-approved programs?
+10. Does Yeshiva University's Mathematics Ph.D. program meet the requirements for STEM accreditation?"
+occupational therapy doctorate,katz school,""" The program focuses on occupation-based practice, community health, resilience, and well-being.""",What is the focus of the Occupational Therapy Doctorate program at the Katz School?,occupationaltherapydoctoratekatzschool,"1. What does the Occupational Therapy Doctorate program at the Katz School emphasize?
+2. What is the main area of concentration in the Occupational Therapy Doctorate program at the Katz School?
+3. What specific aspects does the Occupational Therapy Doctorate program at the Katz School prioritize?
+4. What is the primary focus of the Occupational Therapy Doctorate program at the Katz School?
+5. In what area does the Occupational Therapy Doctorate program at the Katz School specialize?
+6. What is the central theme of the Occupational Therapy Doctorate program at the Katz School?
+7. What does the Occupational Therapy Doctorate program at the Katz School primarily aim to teach?
+8. What is the main objective of the Occupational Therapy Doctorate program at the Katz School?
+9. What is the core focus of the Occupational Therapy Doctorate program at the Katz School?
+10. What specific skills or knowledge does the Occupational Therapy Doctorate program at the Katz School emphasize?"
+occupational therapy doctorate,future careers,""" The program provides hands-on experience in fully functional OT labs, where students can gain practical skills and work with specialized equipment.""",How does the Occupational Therapy Doctorate program prepare students for their future careers?,occupationaltherapydoctoratefuturecareers,"1. What is the purpose of the Occupational Therapy Doctorate program in preparing students for their future careers?
+2. What specific skills and knowledge do students gain from the Occupational Therapy Doctorate program that are relevant to their future careers?
+3. In what ways does the Occupational Therapy Doctorate program equip students with the necessary tools for success in their future careers?
+4. How does the Occupational Therapy Doctorate program help students transition from academia to the professional world?
+5. What kind of practical experiences or internships are included in the Occupational Therapy Doctorate program to prepare students for their future careers?
+6. Are there any specialized courses or workshops in the Occupational Therapy Doctorate program that focus on career development?
+7. How does the Occupational Therapy Doctorate program support students in building professional networks and connections for their future careers?
+8. What resources or support services are available to students in the Occupational Therapy Doctorate program to assist with career planning and job placement?
+9. Can you provide examples of successful career paths that graduates of the Occupational Therapy Doctorate program have pursued?
+10. How does the Occupational Therapy Doctorate program stay updated with current industry trends and demands to ensure students are well-prepared for their future careers?"
+occupational therapy doctorate,other s the new york metropolitan area,""" The program is the first fully accredited entry-level OT doctoral program in the New York metropolitan area, offering comprehensive training for scholar-practitioners.""",What sets the Occupational Therapy Doctorate program at the Katz School apart from other programs in the New York metropolitan area?,occupationaltherapydoctorateothersthenewyorkmetropolitanarea,"1. How does the Occupational Therapy Doctorate program at the Katz School differ from other programs in the New York metropolitan area?
+2. What makes the Occupational Therapy Doctorate program at the Katz School unique compared to other programs in the New York metropolitan area?
+3. In what ways does the Occupational Therapy Doctorate program at the Katz School stand out from other programs in the New York metropolitan area?
+4. What distinguishes the Occupational Therapy Doctorate program at the Katz School from other programs in the New York metropolitan area?
+5. What are the key features that differentiate the Occupational Therapy Doctorate program at the Katz School from other programs in the New York metropolitan area?
+6. How does the Occupational Therapy Doctorate program at the Katz School compare to other programs in the New York metropolitan area?
+7. What specific aspects make the Occupational Therapy Doctorate program at the Katz School different from other programs in the New York metropolitan area?
+8. What sets the Occupational Therapy Doctorate program at the Katz School apart from similar programs in the New York metropolitan area?
+9. What factors make the Occupational Therapy Doctorate program at the Katz School stand out among other programs in the New York metropolitan area?
+10. How does the Occupational Therapy Doctorate program at the Katz School excel in comparison to other programs in the New York metropolitan area?"
+occupational therapy doctorate,inter-professional learning,""" Students have the opportunity to collaborate with students and faculty from multiple departments within the YU community, fostering inter-professional learning experiences.""",How does the Occupational Therapy Doctorate program promote inter-professional learning?,occupationaltherapydoctorateinterprofessionallearning,"1. What are the methods used by the Occupational Therapy Doctorate program to encourage inter-professional learning?
+2. Can you explain how the Occupational Therapy Doctorate program fosters collaboration among different healthcare professionals?
+3. In what ways does the Occupational Therapy Doctorate program facilitate inter-professional learning?
+4. What initiatives does the Occupational Therapy Doctorate program take to promote inter-professional collaboration?
+5. How does the Occupational Therapy Doctorate program encourage students to work with professionals from other healthcare disciplines?
+6. Can you provide examples of inter-professional learning experiences offered by the Occupational Therapy Doctorate program?
+7. What strategies does the Occupational Therapy Doctorate program employ to enhance inter-professional communication and teamwork?
+8. How does the Occupational Therapy Doctorate program ensure that students gain a comprehensive understanding of other healthcare professions?
+9. What role does inter-professional learning play in the curriculum of the Occupational Therapy Doctorate program?
+10. How does the Occupational Therapy Doctorate program prepare students to effectively collaborate with professionals from diverse healthcare backgrounds?"
+occupational therapy doctorate,career prospects,""" Graduates of the program are in high demand, as occupational therapy is ranked in the top 20 in U.S. News & World Report's Top Health Care Jobs.""",What are the career prospects for graduates of the Occupational Therapy Doctorate program?,occupationaltherapydoctoratecareerprospects,"1. What job opportunities are available for graduates of the Occupational Therapy Doctorate program?
+2. What are the employment prospects for individuals with a degree in Occupational Therapy Doctorate?
+3. What kind of careers can graduates pursue after completing the Occupational Therapy Doctorate program?
+4. Are there any specific industries that actively hire graduates from the Occupational Therapy Doctorate program?
+5. What is the demand for professionals with a degree in Occupational Therapy Doctorate?
+6. Can you provide information on the job market for Occupational Therapy Doctorate graduates?
+7. What are the chances of finding a job in the field after completing the Occupational Therapy Doctorate program?
+8. Are there any specific regions or countries where Occupational Therapy Doctorate graduates are in high demand?
+9. What salary range can Occupational Therapy Doctorate graduates expect in their careers?
+10. Are there any specialized roles or positions that Occupational Therapy Doctorate graduates can aim for in their careers?"
+physician assistants,healthcare field,"""Physician Assistants (PAs) are medical professionals who diagnose disease, develop and implement treatment plans, perform surgical procedures, prescribe medications and often serve as a patient’s principal health care provider.""",What is the role of Physician Assistants in the healthcare field?,physicianassistantshealthcarefield,"1. How do Physician Assistants contribute to the healthcare field?
+2. What are the responsibilities of Physician Assistants in healthcare?
+3. In what ways do Physician Assistants support healthcare professionals?
+4. What is the significance of Physician Assistants in the healthcare industry?
+5. How do Physician Assistants assist in patient care?
+6. What are the duties of Physician Assistants in the healthcare sector?
+7. What role do Physician Assistants play in the overall healthcare system?
+8. How do Physician Assistants collaborate with other healthcare professionals?
+9. What are the qualifications required to become a Physician Assistant in the healthcare field?
+10. What are the benefits of having Physician Assistants in healthcare settings?"
+physician assistants,medical training,"""PAs complete thousands of hours of medical training to become versatile and collaborative clinicians.""",How much medical training do Physician Assistants undergo?,physicianassistantsmedicaltraining,"1. What is the extent of medical training that Physician Assistants receive?
+2. How long is the medical training program for Physician Assistants?
+3. What is the duration of the medical training that Physician Assistants undergo?
+4. How many years of medical training do Physician Assistants complete?
+5. What is the level of medical education that Physician Assistants receive?
+6. How much medical knowledge do Physician Assistants acquire during their training?
+7. What is the depth of medical training that Physician Assistants go through?
+8. How comprehensive is the medical training program for Physician Assistants?
+9. What is the extent of clinical training that Physician Assistants receive?
+10. How much medical expertise do Physician Assistants gain through their training?"
+physician assistants,practice locations,"""PAs practice nationwide, improving patient access to high-quality health care in medical and surgical settings.""",Where do Physician Assistants practice?,physicianassistantspracticelocations,"1. In which settings do Physician Assistants work?
+2. What are the common practice locations for Physician Assistants?
+3. Where can you find Physician Assistants practicing?
+4. What are the typical work environments for Physician Assistants?
+5. In what locations do Physician Assistants typically practice?
+6. Where do Physician Assistants usually work?
+7. What are the primary practice settings for Physician Assistants?
+8. Where are Physician Assistants commonly employed?
+9. What are the main places where Physician Assistants practice?
+10. In which healthcare facilities can you find Physician Assistants?"
+physician assistants,responsibilities,"""Physician Assistants diagnose disease, develop and implement treatment plans, perform surgical procedures, and prescribe medications.""",What are some of the responsibilities of Physician Assistants?,physicianassistantsresponsibilities,"1. What are the duties and tasks performed by Physician Assistants?
+2. Can you list some of the roles and responsibilities of Physician Assistants?
+3. What are the main job responsibilities of Physician Assistants?
+4. What are the typical duties of a Physician Assistant?
+5. What are some of the key responsibilities of Physician Assistants in healthcare settings?
+6. Can you provide an overview of the responsibilities of Physician Assistants?
+7. What are the primary functions and obligations of Physician Assistants?
+8. What are the day-to-day tasks and duties of Physician Assistants?
+9. What are some of the core responsibilities of Physician Assistants in patient care?
+10. Can you outline the main responsibilities and obligations of Physician Assistants?"
+physician assistants,primary healthcare provider,"""Yes, Physician Assistants often serve as a patient's principal health care provider.""",Can Physician Assistants serve as a patient's primary healthcare provider?,physicianassistantsprimaryhealthcareprovider,"1. Are Physician Assistants qualified to be a patient's primary healthcare provider?
+2. Is it possible for a patient to have a Physician Assistant as their primary healthcare provider?
+3. Can a patient rely on a Physician Assistant for all their healthcare needs?
+4. Are Physician Assistants capable of serving as the main healthcare provider for a patient?
+5. Is it common for patients to choose a Physician Assistant as their primary healthcare provider?
+6. Do Physician Assistants have the necessary skills and knowledge to be a patient's primary healthcare provider?
+7. Can a patient receive comprehensive healthcare from a Physician Assistant as their primary provider?
+8. Are there any limitations to the role of a Physician Assistant as a primary healthcare provider?
+9. Is it recommended for patients to have a Physician Assistant as their primary healthcare provider?
+10. Can a patient establish a long-term relationship with a Physician Assistant as their primary healthcare provider?"
+ma physics,areas of specialization,""" YU's M.A. in Physics specializes in classical and quantum information, mechanical, optical, and electronic materials behavior, propagation of waves, biological matter, dynamics, statistical thermodynamics, and hardware and software development.""",What are the areas of specialization in YU's M.A. in Physics program?,maphysicsareasofspecialization,"1. What specific fields of study are covered in YU's M.A. in Physics program?
+2. Can you provide a list of the different areas of specialization offered in YU's M.A. in Physics program?
+3. In which specific areas can students specialize within YU's M.A. in Physics program?
+4. What are the different focus areas available for students pursuing the M.A. in Physics at YU?
+5. Are there any specific concentrations or specializations within YU's M.A. in Physics program?
+6. What are the main areas of study that students can choose from in YU's M.A. in Physics program?
+7. Could you please outline the various specialization options within YU's M.A. in Physics program?
+8. What are the specific research areas that students can specialize in within YU's M.A. in Physics program?
+9. Are there any particular subfields or disciplines that students can focus on within YU's M.A. in Physics program?
+10. Can you provide an overview of the different areas of expertise that students can develop through YU's M.A. in Physics program?"
+ma physics,career opportunities,""" Graduates of YU's M.A. in Physics program can pursue careers in academia, industry, teaching, finance, entrepreneurship, engineering, business, finance, and medicine.""",What career opportunities can graduates of YU's M.A. in Physics program pursue?,maphysicscareeropportunities,"1. What job prospects are available for graduates of YU's M.A. in Physics program?
+2. What are the potential career paths for individuals who complete YU's M.A. in Physics program?
+3. What employment options are open to those who graduate from YU's M.A. in Physics program?
+4. What are the possible professional opportunities for graduates of YU's M.A. in Physics program?
+5. What kind of jobs can be pursued by individuals who complete YU's M.A. in Physics program?
+6. What are the career possibilities for those who obtain a degree from YU's M.A. in Physics program?
+7. What fields can graduates of YU's M.A. in Physics program enter into?
+8. What are the potential job prospects for individuals with a degree from YU's M.A. in Physics program?
+9. What are the employment prospects for graduates of YU's M.A. in Physics program?
+10. What career paths can be pursued by those who complete YU's M.A. in Physics program?"
+yus ma physics,high-technology field,""" YU's M.A. in Physics program provides students with robust knowledge of computer software and hardware development, which helps them secure rewarding jobs in the high-technology field, including developing their own high-tech startups.""",How does YU's M.A. in Physics program prepare students for the high-technology field?,yusmaphysicshightechnologyfield,"1. What is the curriculum of YU's M.A. in Physics program?
+2. Are there any specialized courses in YU's M.A. in Physics program that focus on high-technology?
+3. How do the professors in YU's M.A. in Physics program incorporate real-world applications of physics in their teaching?
+4. Are there any research opportunities in YU's M.A. in Physics program that are specifically related to the high-technology field?
+5. What kind of internships or industry partnerships does YU's M.A. in Physics program offer to students interested in the high-technology field?
+6. Are there any alumni from YU's M.A. in Physics program who have successfully transitioned into high-technology careers?
+7. How does YU's M.A. in Physics program stay updated with the latest advancements in the high-technology field?
+8. Are there any guest lectures or industry experts who visit YU's M.A. in Physics program to share their knowledge and experiences in the high-technology field?
+9. What kind of practical skills do students gain from YU's M.A. in Physics program that are applicable to the high-technology field?
+10. Are there any specific elective courses in YU's M.A. in Physics program that allow students to specialize in a particular area of high-technology?"
+accelerated pathway,ms physics,""" Yes, through the B.A./M.A. option, YU undergraduates can take up to 12 graduate credits that count toward both their bachelor's and master's degrees, allowing them to complete their master's in just one more year after their bachelor's.""",Can YU undergraduates take advantage of an accelerated pathway to complete their master's degree in physics?,acceleratedpathwaymsphysics,"1. Is there an accelerated pathway for YU undergraduates to complete their master's degree in physics?
+2. Are YU undergraduates eligible for an accelerated program to earn a master's degree in physics?
+3. Can YU undergraduates fast-track their master's degree in physics?
+4. Is there a way for YU undergraduates to expedite their master's degree in physics?
+5. Do YU undergraduates have the option to complete their master's degree in physics at an accelerated pace?
+6. Are there any opportunities for YU undergraduates to complete their master's degree in physics more quickly?
+7. Is there a fast-track program available for YU undergraduates pursuing a master's degree in physics?
+8. Can YU undergraduates complete their master's degree in physics in a shorter timeframe?
+9. Are there any accelerated pathways for YU undergraduates interested in a master's degree in physics?
+10. Is there a program at YU that allows undergraduates to earn their master's degree in physics at an accelerated rate?"
+yus ma physics,internships practical training,""" Yes, YU's M.A. in Physics program offers internships in major companies, startups, and the YU Innovation Lab in New York and elsewhere, which count toward the degree. International students may also be eligible for up to 36 months of Optional Practical Training (OPT) and several opportunities for Curricular Practical Training (CPT).""",Are there opportunities for internships and practical training in YU's M.A. in Physics program?,yusmaphysicsinternshipspracticaltraining,"1. Does YU's M.A. in Physics program offer internships and practical training opportunities?
+2. Are there any chances for internships and practical training in YU's M.A. in Physics program?
+3. Can students in YU's M.A. in Physics program participate in internships and practical training?
+4. Are internships and practical training included in the curriculum of YU's M.A. in Physics program?
+5. Are there any hands-on experiences available for students in YU's M.A. in Physics program?
+6. Do students in YU's M.A. in Physics program have the opportunity to gain practical experience through internships?
+7. Are there any industry partnerships or collaborations for internships and practical training in YU's M.A. in Physics program?
+8. Are internships and practical training a mandatory part of YU's M.A. in Physics program?
+9. Are there any specific requirements or qualifications for internships and practical training in YU's M.A. in Physics program?
+10. Can students in YU's M.A. in Physics program apply their theoretical knowledge in real-world settings through internships and practical training?"
+ms speech-language pathology,rankings and reputation,""" The M.S. in Speech-Language Pathology program at Yeshiva University stands out due to its specialization in the medical aspects of speech-language pathology, offering a multidisciplinary approach to diagnosing and treating speech, language, swallowing, and communication cases across the lifespan.""",What sets the M.S. in Speech-Language Pathology program at Yeshiva University apart from other programs?,msspeech-languagepathologyrankingsandreputation,"1. How does the M.S. in Speech-Language Pathology program at Yeshiva University differ from other programs?
+2. What makes the M.S. in Speech-Language Pathology program at Yeshiva University unique compared to other programs?
+3. In what ways does the M.S. in Speech-Language Pathology program at Yeshiva University stand out from other programs?
+4. What distinguishes the M.S. in Speech-Language Pathology program at Yeshiva University from other programs?
+5. What are the key features that make the M.S. in Speech-Language Pathology program at Yeshiva University different from other programs?
+6. How does the M.S. in Speech-Language Pathology program at Yeshiva University set itself apart from other programs?
+7. What specific aspects of the M.S. in Speech-Language Pathology program at Yeshiva University make it stand out among other programs?
+8. What factors make the M.S. in Speech-Language Pathology program at Yeshiva University exceptional compared to other programs?
+9. What unique qualities does the M.S. in Speech-Language Pathology program at Yeshiva University possess that other programs lack?
+10. How does the M.S. in Speech-Language Pathology program at Yeshiva University excel in comparison to other programs?"
+program,speech-language pathology,""" The program provides students with four clinical externships, training in conducting telehealth sessions, and clinical experience under the guidance of faculty, supervisors, and mentors. Students also gain proficiency in utilizing technology, such as endoscopy, electrical stimulation, and ultrasound, for diagnosing voice, speech, and swallowing disorders. Additionally, they develop counseling skills to support families facing challenging diagnoses.""",How does the program prepare students for their future careers in speech-language pathology?,programspeechlanguagepathology,"1. What steps does the program take to equip students for their future careers in speech-language pathology?
+2. In what ways does the program help students in their preparation for future careers in speech-language pathology?
+3. What specific skills and knowledge does the program focus on to prepare students for their future careers in speech-language pathology?
+4. Can you provide examples of how the program prepares students for their future careers in speech-language pathology?
+5. What resources does the program offer to enhance students' readiness for their future careers in speech-language pathology?
+6. How does the program ensure that students are well-prepared for their future careers in speech-language pathology?
+7. What kind of practical experiences or internships does the program provide to prepare students for their future careers in speech-language pathology?
+8. Are there any specific courses or modules within the program that are designed to prepare students for their future careers in speech-language pathology?
+9. How does the program stay updated with the latest advancements and practices in speech-language pathology to better prepare students for their future careers?
+10. Can you share any success stories or testimonials from past students who have benefited from the program in their pursuit of a career in speech-language pathology?"
+speech-language pathology,professional development opportunities,""" Students have the opportunity to attend professional conferences, contribute to scholarly publications, and integrate evidence-based practice into their clinical work. This allows them to stay updated with the latest research and advancements in the field.""",What opportunities are available for students to enhance their professional development in the field of speech-language pathology?,speechlanguagepathologyprofessionaldevelopmentopportunities,"1. How can students in the field of speech-language pathology improve their professional development?
+2. Are there any specific programs or workshops available for students to enhance their skills in speech-language pathology?
+3. What resources are provided to students to help them grow professionally in the field of speech-language pathology?
+4. Are there any internships or practical experiences available for students in speech-language pathology?
+5. How can students network with professionals in the field of speech-language pathology to enhance their professional development?
+6. Are there any scholarships or grants available for students pursuing professional development in speech-language pathology?
+7. What organizations or associations can students join to further their professional development in speech-language pathology?
+8. Are there any mentorship programs available for students in speech-language pathology to guide them in their professional growth?
+9. How can students stay updated with the latest research and advancements in speech-language pathology to enhance their professional development?
+10. Are there any conferences or events specifically tailored for students in speech-language pathology to enhance their professional development?"
+ms speech-language pathology,career prospects earning potential,""" Graduates of the program can pursue careers as healthcare practitioners dedicated to improving the quality of life, health, and wellness for individuals of all ages. According to a 2019 ASHA annual salary report, speech-language pathology salaries range from $66,000 to $100,000 based on experience. Additionally, job opportunities in the field are expected to grow 25 percent until 2029, which is much faster than the average for all occupations, according to the U.S. Bureau of Labor Statistics.""",What are the potential career prospects and earning potential for graduates of the M.S. in Speech-Language Pathology program?,msspeechlanguagepathologycareerprospectsearningpotential,"1. What are the job opportunities available for graduates of the M.S. in Speech-Language Pathology program?
+2. How much can graduates of the M.S. in Speech-Language Pathology program expect to earn?
+3. What are the career prospects for individuals with a master's degree in Speech-Language Pathology?
+4. What are the potential earnings for professionals in the field of Speech-Language Pathology?
+5. What kind of jobs can graduates of the M.S. in Speech-Language Pathology program pursue?
+6. How does the job market look for individuals with a master's degree in Speech-Language Pathology?
+7. What is the earning potential for Speech-Language Pathology graduates in different industries?
+8. Are there any specific industries or sectors that offer higher earning potential for M.S. in Speech-Language Pathology graduates?
+9. What are the long-term career growth opportunities for individuals with a master's degree in Speech-Language Pathology?
+10. Can you provide information on the average salaries of professionals in the Speech-Language Pathology field?"
+ms speech-language pathology,opportunities job placement,""" Yes, the Master of Science (M.S.) education program in speech-language pathology at Yeshiva University is accredited by the Council on Academic Accreditation in Audiology and Speech-Language Pathology of the American Speech-Language-Hearing Association. This accreditation ensures that the program meets the highest standards of quality and prepares students for licensure and certification in the field.""",Is the M.S. in Speech-Language Pathology program at Yeshiva University accredited?,msspeech-languagepathologyopportunitiesjobplacement,"1. Is the M.S. in Speech-Language Pathology program at Yeshiva University recognized by any accrediting bodies?
+2. Does Yeshiva University have accreditation for their M.S. in Speech-Language Pathology program?
+3. Is the Speech-Language Pathology program at Yeshiva University accredited by any professional organizations?
+4. Can you confirm if the M.S. in Speech-Language Pathology program at Yeshiva University is accredited?
+5. Is the accreditation of the M.S. in Speech-Language Pathology program at Yeshiva University up to date?
+6. Are graduates from the M.S. in Speech-Language Pathology program at Yeshiva University eligible for licensure in the field?
+7. Has the M.S. in Speech-Language Pathology program at Yeshiva University ever lost its accreditation?
+8. Are there any specific requirements or standards that the M.S. in Speech-Language Pathology program at Yeshiva University must meet to maintain its accreditation?
+9. Can you provide information on the accrediting agency for the M.S. in Speech-Language Pathology program at Yeshiva University?
+10. Is the accreditation for the M.S. in Speech-Language Pathology program at Yeshiva University recognized nationally or internationally?"
+artificial intelligence,faculty,"""The faculty of the artificial intelligence program are Pablo Roldan, Marian Gidea, Peter Nandori, and Youshan Zhang.""",Who are the faculty of the artificial intelligence program?,artificialintelligencefaculty,"1. Can you provide a list of the faculty members in the artificial intelligence program?
+2. Who teaches the courses in the artificial intelligence program?
+3. What are the names of the professors in the artificial intelligence program?
+4. Could you tell me the faculty members involved in the artificial intelligence program?
+5. Who are the instructors for the artificial intelligence program?
+6. Can you give me some information about the faculty in the artificial intelligence program?
+7. Which professors are part of the artificial intelligence program?
+8. Who are the experts teaching the artificial intelligence program?
+9. Can you provide details about the faculty members in the artificial intelligence program?
+10. What is the composition of the faculty in the artificial intelligence program?"
+pablo roldan,,"""Pablo Roldan is a faculty member of the Artificial Intelligence program in Katz school. For more details, refer to the website 'https://www.yu.edu/faculty/pages/roldan-pablo'.""",Who is Pablo Roldan?,pabloroldan,"1. What is the identity of Pablo Roldan?
+2. Can you provide information about Pablo Roldan?
+3. Who is the person named Pablo Roldan?
+4. Do you know anything about Pablo Roldan?
+5. Can you tell me about Pablo Roldan?
+6. What can you tell me about Pablo Roldan?
+7. Have you heard of someone named Pablo Roldan?
+8. Do you have any knowledge about Pablo Roldan?
+9. Can you give me details about Pablo Roldan?
+10. Who exactly is Pablo Roldan?"
+marian gidea,,"""Marian Gidea is a faculty member of the Artificial Intelligence program in Katz school. For more details, refer to the website 'https://www.yu.edu/faculty/pages/gidea-marian'.""",Who is Marian Gidea?,mariangidea,"1. What is the identity of Marian Gidea?
+2. Can you provide information about Marian Gidea?
+3. Who is the person named Marian Gidea?
+4. Do you know anything about Marian Gidea?
+5. Could you tell me about Marian Gidea?
+6. What can you tell me about Marian Gidea?
+7. Is Marian Gidea a well-known figure?
+8. Have you heard of Marian Gidea before?
+9. Can you give me any details about Marian Gidea?
+10. Where can I find more information about Marian Gidea?"
+peter nandori,,"""Peter Nandori is a faculty member of the Artificial Intelligence program in Katz school. For more details, refer to the website 'https://www.yu.edu/faculty/pages/nandori-peter'.""",Who is Peter Nandori?,peternandori,"1. What is the identity of Peter Nandori?
+2. Can you provide information about Peter Nandori?
+3. Who is the person named Peter Nandori?
+4. Do you know anything about Peter Nandori?
+5. Can you tell me about Peter Nandori?
+6. What can you tell me about Peter Nandori?
+7. Have you heard of Peter Nandori?
+8. Do you have any knowledge about Peter Nandori?
+9. Can you give me details about Peter Nandori?
+10. Who exactly is Peter Nandori?"
+youshan zhang,,"""Youshan Zhang is a faculty member of the Artificial Intelligence program in Katz school. For more details, refer to the website 'https://youshanzhang.github.io/'.""",Who is Youshan Zhang?,youshanzhang,"1. What is the identity of Youshan Zhang?
+2. Can you provide information about Youshan Zhang?
+3. Who is the person named Youshan Zhang?
+4. Do you know anything about Youshan Zhang?
+5. Could you tell me about Youshan Zhang?
+6. What can you tell me about Youshan Zhang?
+7. Is Youshan Zhang a well-known individual?
+8. Have you heard of Youshan Zhang before?
+9. Can you give me any details about Youshan Zhang?
+10. Where can I find more information about Youshan Zhang?"
+biotechnology management entrepreneurship,faculty,"""The faculty of biotechnology management and entrepreneurship program are Rana Khan, Robert Frdiman, and J.D Brian Malkin.""",Who are the faculty of the biotechnology management and entrepreneurship program?,biotechnologymanagemententrepreneurshipfaculty,"1. Can you provide a list of the faculty members in the biotechnology management and entrepreneurship program?
+2. Who teaches the courses in the biotechnology management and entrepreneurship program?
+3. Are there any specific professors or experts who specialize in biotechnology management and entrepreneurship?
+4. What are the names of the faculty members involved in the biotechnology management and entrepreneurship program?
+5. Could you give me some information about the professors who teach in the biotechnology management and entrepreneurship program?
+6. Who are the instructors for the biotechnology management and entrepreneurship courses?
+7. Can you tell me about the academic staff in the biotechnology management and entrepreneurship program?
+8. Are there any renowned industry professionals who teach in the biotechnology management and entrepreneurship program?
+9. What is the background and expertise of the faculty members in the biotechnology management and entrepreneurship program?
+10. Who are the experts that students can learn from in the biotechnology management and entrepreneurship program?"
+rana khan,,"""Rana Khan is the faculty of Biotechnology Management and Entrepreneurship program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/khan-rana'""",Who is Rana Khan?,ranakhan,"1. What is the identity of Rana Khan?
+2. Can you provide information about Rana Khan?
+3. Who is the person known as Rana Khan?
+4. Do you know anything about Rana Khan?
+5. Could you tell me about Rana Khan?
+6. What can you tell me about Rana Khan?
+7. Have you heard of Rana Khan?
+8. Can you give me details about Rana Khan?
+9. Who exactly is Rana Khan?
+10. What do you know about Rana Khan?"
+robert frdiman,,"""Robert Frdiman is the faculty of Biotechnology Management and Entrepreneurship program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/friedman-robert'""",Who is Robert Frdiman?,robertfrdiman,"1. What is the identity of Robert Frdiman?
+2. Can you provide information about Robert Frdiman?
+3. Who is the person named Robert Frdiman?
+4. Do you know anything about Robert Frdiman?
+5. Could you tell me about Robert Frdiman?
+6. What can you tell me about Robert Frdiman?
+7. Is Robert Frdiman a well-known figure?
+8. Have you heard of Robert Frdiman before?
+9. Can you give me any details about Robert Frdiman?
+10. What is the background of Robert Frdiman?"
+jd brian malkin,,"""J.D Brian Malkin is the faculty of Biotechnology Management and Entrepreneurship program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/malkin-brian'""",Who is J.D Brian Malkin?,jdbrianmalkin,"1. What is the full name of J.D Brian Malkin?
+2. Can you provide some information about J.D Brian Malkin?
+3. Who is J.D Malkin?
+4. What is the background of J.D Brian Malkin?
+5. Can you tell me more about J.D Brian Malkin?
+6. Where is J.D Brian Malkin from?
+7. What is J.D Brian Malkin known for?
+8. Is J.D Brian Malkin a public figure?
+9. Can you provide any notable achievements of J.D Brian Malkin?
+10. Are there any controversies surrounding J.D Brian Malkin?"
+mathematics,faculty,"""The faculty of the mathematics program are Edward Belbruno, Wenxiong Chen, Michael Dalezman, Avi Gilon, and Antonella Marini.""",Who are the faculty of the mathematics program?,mathematicsfaculty,"1. Can you provide a list of the faculty members in the mathematics program?
+2. Who teaches the mathematics courses at this institution?
+3. Are there any specific professors or instructors in the mathematics program?
+4. Could you tell me the names of the faculty members in the mathematics department?
+5. Who are the professors that specialize in mathematics?
+6. Can you give me some information about the faculty in the mathematics program?
+7. Which professors are responsible for teaching the mathematics courses?
+8. Who are the instructors that teach mathematics at this school?
+9. Can you provide me with the names of the mathematics program faculty members?
+10. Are there any notable professors in the mathematics department?"
+edward belbruno,,"""Edward Belbruno is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/belbruno-edward'""",Who is Edward Belbruno?,edwardbelbruno,"1. What is the name of the person known as Edward Belbruno?
+2. Can you provide some information about Edward Belbruno?
+3. Who is the individual referred to as Edward Belbruno?
+4. What is the background of Edward Belbruno?
+5. Could you tell me more about Edward Belbruno?
+6. Do you have any details about Edward Belbruno?
+7. Can you give me a brief overview of Edward Belbruno?
+8. Who is the person named Edward Belbruno?
+9. What can you tell me about Edward Belbruno?
+10. Could you provide some insights into Edward Belbruno's identity?"
+wenxiong chen,,"""Wenxiong Chen is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/chen-wenxiong'""",Who is Wenxiong Chen?,wenxiongchen,"1. What is the identity of Wenxiong Chen?
+2. Can you provide some information about Wenxiong Chen?
+3. Who is the person named Wenxiong Chen?
+4. Do you know anything about Wenxiong Chen?
+5. Could you tell me about Wenxiong Chen?
+6. What can you tell me about Wenxiong Chen?
+7. Have you heard of Wenxiong Chen before?
+8. Can you give me a brief introduction to Wenxiong Chen?
+9. Do you have any knowledge about Wenxiong Chen?
+10. Who exactly is Wenxiong Chen?"
+michael dalezman,,"""Michael Dalezman is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/dalezman-michael'""",Who is Michael Dalezman?,michaeldalezman,"1. What is the identity of Michael Dalezman?
+2. Can you provide information about Michael Dalezman?
+3. Who is the person known as Michael Dalezman?
+4. Do you know anything about Michael Dalezman?
+5. Could you tell me about Michael Dalezman?
+6. What can you tell me about Michael Dalezman?
+7. Is Michael Dalezman a well-known figure?
+8. Have you heard of Michael Dalezman before?
+9. Can you give me any details about Michael Dalezman?
+10. What is the background of Michael Dalezman?"
+avi gilon,,"""Avi Gilon is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/giloni-avi'""",Who is Avi Gilon?,avigilon,"1. What is Avi Gilon known for?
+2. Where is Avi Gilon from?
+3. Can you provide some background information on Avi Gilon?
+4. What are Avi Gilon's notable achievements?
+5. Is Avi Gilon a public figure?
+6. How can I contact Avi Gilon?
+7. Are there any controversies surrounding Avi Gilon?
+8. What is Avi Gilon's profession?
+9. Has Avi Gilon received any awards or recognition?
+10. Can you provide a brief biography of Avi Gilon?"
+antonella marini,,"""Antonella Marini is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/marini-antonella'""",Who is Antonella Marini?,antonellamarini,"1. What is Antonella Marini known for?
+2. Can you provide some information about Antonella Marini?
+3. Where is Antonella Marini from?
+4. Is Antonella Marini a public figure?
+5. What are Antonella Marini's accomplishments?
+6. How can I contact Antonella Marini?
+7. Is Antonella Marini involved in any specific industry or field?
+8. Are there any notable achievements or awards associated with Antonella Marini?
+9. Can you provide a brief biography of Antonella Marini?
+10. Is Antonella Marini active on social media platforms?"
+occupational therapy,faculty,"""The faculty of occupational therapy program are Mindy Garfinkel, Amiya Waldman-Levi, Zesarae Bodie, and Alexandra Wagner.""",Who are the faculty of the occupational therapy program?,occupationaltherapyfaculty,"1. Can you provide a list of the faculty members in the occupational therapy program?
+2. Who teaches the courses in the occupational therapy program?
+3. What are the names of the professors in the occupational therapy program?
+4. Could you tell me the faculty members involved in the occupational therapy program?
+5. Who are the instructors for the occupational therapy program?
+6. Can you give me information about the faculty in the occupational therapy program?
+7. Which professors are part of the occupational therapy program?
+8. Who are the academic staff members in the occupational therapy program?
+9. Can you provide details about the faculty members who teach occupational therapy?
+10. What is the composition of the faculty in the occupational therapy program?"
+mindy garfinkel,,"""Mindy Garfinkel is the faculty of Occupational Therapy program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/garfinkel-mindy'""",Who is Mindy Garfinkel?,mindygarfinkel,"1. What is the identity of Mindy Garfinkel?
+2. Can you provide information about Mindy Garfinkel?
+3. Who is the person named Mindy Garfinkel?
+4. Do you know anything about Mindy Garfinkel?
+5. Could you tell me about Mindy Garfinkel?
+6. What can you tell me about Mindy Garfinkel?
+7. Is Mindy Garfinkel a well-known individual?
+8. Have you heard of Mindy Garfinkel before?
+9. Can you give me any details about Mindy Garfinkel?
+10. Where can I find more information about Mindy Garfinkel?"
+amiya waldman-levi,,"""Amiya Waldman-Levi is the faculty of Occupational Therapy program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/waldman-levi-amiya'""",Amiya Waldman-Levi?,amiyawaldmanlevi,"1. Who is Amiya Waldman-Levi?
+2. What is the full name of Amiya Waldman-Levi?
+3. Can you provide information about Amiya Waldman-Levi?
+4. Do you know anything about Amiya Waldman-Levi?
+5. Have you heard of Amiya Waldman-Levi?
+6. Is Amiya Waldman-Levi a famous person?
+7. Where can I find more information about Amiya Waldman-Levi?
+8. What is the background of Amiya Waldman-Levi?
+9. Is Amiya Waldman-Levi a public figure?
+10. Can you tell me anything interesting about Amiya Waldman-Levi?"
+zesarae bodie,,"""Zesarae Bodie is the faculty of Occupational Therapy program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/bodie-zesarae'""",Who is Zesarae Bodie?,zesaraebodie,"1. What is the identity of Zesarae Bodie?
+2. Can you provide information about Zesarae Bodie?
+3. Who is the person known as Zesarae Bodie?
+4. What can you tell me about Zesarae Bodie?
+5. Do you have any details on Zesarae Bodie?
+6. Could you give me a brief background on Zesarae Bodie?
+7. What is the story behind Zesarae Bodie?
+8. Can you share any insights about Zesarae Bodie?
+9. Where can I find more information about Zesarae Bodie?
+10. Is there anything notable or significant about Zesarae Bodie?"
+alexandra wagner,,"""Alexandra Wagner is the faculty of Occupational Therapy program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/wagner-alexandra'""",Who is Alexandra Wagner?,alexandrawagner,"1. What is the identity of Alexandra Wagner?
+2. Can you provide information about Alexandra Wagner?
+3. Who is the person known as Alexandra Wagner?
+4. Do you know anything about Alexandra Wagner?
+5. Could you tell me about Alexandra Wagner?
+6. What can you tell me about Alexandra Wagner?
+7. Is Alexandra Wagner a well-known figure?
+8. Have you heard of Alexandra Wagner before?
+9. Can you give me a brief background on Alexandra Wagner?
+10. What is the significance of Alexandra Wagner?"
+physical assistant studies,faculty,"""The faculty of physical assistant studies program are Sharon Verity, Fayrose Abodeshisha, and Dwayne Williams.""",Who are the faculty of the physical assistant studies program?,physicalassistantstudiesfaculty,"1. Can you provide a list of the faculty members in the physical assistant studies program?
+2. Who teaches in the physical assistant studies program?
+3. What are the names of the faculty members in the physical assistant studies program?
+4. Could you tell me the faculty members involved in the physical assistant studies program?
+5. Who are the professors in the physical assistant studies program?
+6. Can you give me information about the faculty in the physical assistant studies program?
+7. Which individuals make up the faculty of the physical assistant studies program?
+8. Who are the instructors in the physical assistant studies program?
+9. Can you provide details about the faculty members in the physical assistant studies program?
+10. What is the composition of the faculty in the physical assistant studies program?"
+sharon verity,,"""Sharon Verity is a faculty member of the Physical Assistant Studies program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/verity-sharon'""",Who is Sharon Verity?,sharonverity,"1. What is the identity of Sharon Verity?
+2. Can you provide information about Sharon Verity?
+3. Who is the person named Sharon Verity?
+4. Do you know anything about Sharon Verity?
+5. Can you tell me about Sharon Verity?
+6. What can you tell me about Sharon Verity?
+7. Have you heard of Sharon Verity before?
+8. Is Sharon Verity a well-known person?
+9. Can you give me any details about Sharon Verity?
+10. Are you familiar with Sharon Verity?"
+fayrose abodeshisha,,"""Fayrose Abodeshisha is a faculty member of the Physical Assistant Studies program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/abodeshisha-fayrose'""",Who is Fayrose Abodeshisha?,fayroseabodeshisha,"1. What is the identity of Fayrose Abodeshisha?
+2. Can you provide information about Fayrose Abodeshisha?
+3. Who is the person named Fayrose Abodeshisha?
+4. Do you know anything about Fayrose Abodeshisha?
+5. Could you tell me about Fayrose Abodeshisha?
+6. What can you tell me about Fayrose Abodeshisha?
+7. Is Fayrose Abodeshisha a well-known figure?
+8. Have you heard of Fayrose Abodeshisha before?
+9. Can you give me any details about Fayrose Abodeshisha?
+10. Where can I find more information about Fayrose Abodeshisha?"
+dwayne williams,,"""Dwayne Williams is a faculty member of the Physical Assistant Studies program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/williams-dwayne'""",Who is Dwayne Williams?,dwaynewilliams,"1. What is the identity of Dwayne Williams?
+2. Can you provide information about Dwayne Williams?
+3. Who is the person named Dwayne Williams?
+4. Do you know anything about Dwayne Williams?
+5. Could you tell me about Dwayne Williams?
+6. What can you tell me about Dwayne Williams?
+7. Have you heard of someone named Dwayne Williams?
+8. Can you give me details about Dwayne Williams?
+9. Do you have any knowledge about Dwayne Williams?
+10. Who exactly is Dwayne Williams?"
+physics,faculty,"""The faculty of the physics program are Fredy Zypman, Neer Asherie, Sergey Buldyrev, Gabriel Cwilich, Ran Drori, Mark Edelman, Lea Ferreira dos Santos, and Emil Prodan.""",Who are the faculty of the physics program?,physicsfaculty,"1. Can you provide a list of the faculty members in the physics program?
+2. Who teaches the physics courses at this university?
+3. What are the names of the professors in the physics department?
+4. Could you tell me the names of the faculty members in the physics program?
+5. Who are the instructors for the physics program?
+6. Can you give me some information about the faculty in the physics program?
+7. Which professors are involved in teaching the physics courses?
+8. Who are the academic staff members in the physics department?
+9. Can you provide a roster of the physics program faculty?
+10. What is the composition of the faculty in the physics program?"
+fredy zypman,,"""Fredy Zypman is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/zypman-fredy'""",Who is Fredy Zypman?,fredyzypman,"1. What is the identity of Fredy Zypman?
+2. Can you provide information about Fredy Zypman?
+3. Who is the person known as Fredy Zypman?
+4. What can you tell me about Fredy Zypman?
+5. Do you have any details on Fredy Zypman?
+6. Could you give me a brief overview of Fredy Zypman?
+7. What is the background of Fredy Zypman?
+8. Can you share any insights about Fredy Zypman?
+9. Who is Fredy Zypman and what is his significance?
+10. Where can I find more information about Fredy Zypman?"
+neer asherie,,"""Neer Asherie is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/asherie-neer'""",Who is Neer Asherie?,neerasherie,"1. What is Neer Asherie known for?
+2. Where is Neer Asherie from?
+3. What are Neer Asherie's notable achievements?
+4. Can you provide some background information on Neer Asherie?
+5. Is Neer Asherie a public figure?
+6. What field does Neer Asherie work in?
+7. Has Neer Asherie received any awards or recognition?
+8. Are there any books or publications by Neer Asherie?
+9. Can you provide a brief biography of Neer Asherie?
+10. What is Neer Asherie's current occupation?"
+sergey buldyrev,,"""Sergey Buldyrev is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/buldyrev-sergey'""",Who is Sergey Buldyrev?,sergeybuldyrev,"1. What is Sergey Buldyrev known for?
+2. Can you provide some information about Sergey Buldyrev?
+3. Where is Sergey Buldyrev from?
+4. What are Sergey Buldyrev's notable achievements?
+5. Is Sergey Buldyrev a public figure?
+6. What is Sergey Buldyrev's profession?
+7. Has Sergey Buldyrev made any significant contributions in his field?
+8. Are there any controversies surrounding Sergey Buldyrev?
+9. Can you provide a brief biography of Sergey Buldyrev?
+10. Is Sergey Buldyrev well-known in his industry?"
+gabriel cwilich,,"""Gabriel Cwilich is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/cwilich-gabriel'""",Who is Gabriel Cwilich?,gabrielcwilich,"1. What is the identity of Gabriel Cwilich?
+2. Can you provide information about Gabriel Cwilich?
+3. Who is the person named Gabriel Cwilich?
+4. Do you know anything about Gabriel Cwilich?
+5. Can you tell me about Gabriel Cwilich?
+6. What can you tell me about Gabriel Cwilich?
+7. Have you heard of Gabriel Cwilich?
+8. Who is Gabriel Cwilich and what is their background?
+9. Can you give me a brief overview of Gabriel Cwilich?
+10. What is known about Gabriel Cwilich?"
+ran drori,,"""Ran Drori is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/drori-ran'""",Who is Ran Drori?,randrori,"1. What is the identity of Ran Drori?
+2. Can you provide information about Ran Drori?
+3. Who is the person named Ran Drori?
+4. Do you know anything about Ran Drori?
+5. Could you tell me about Ran Drori?
+6. What can you tell me about Ran Drori?
+7. Is Ran Drori a well-known figure?
+8. Have you heard of Ran Drori before?
+9. Can you give me some details about Ran Drori?
+10. What is the background of Ran Drori?"
+mark edelman,,"""Mark Edelman is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/edelman-mark'""",Who is Mark Edelman?,markedelman,"1. What is the identity of Mark Edelman?
+2. Can you provide information about Mark Edelman?
+3. Who is the person named Mark Edelman?
+4. Do you know anything about Mark Edelman?
+5. Could you tell me about Mark Edelman?
+6. What can you tell me about Mark Edelman?
+7. Is Mark Edelman a well-known figure?
+8. Can you give me a brief background on Mark Edelman?
+9. Have you heard of someone named Mark Edelman?
+10. What is the significance of Mark Edelman?"
+lea ferreira dos santos,,"""Lea Ferreira dos Santos is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/santos-lea'""",Who is Lea Ferreira dos Santos?,leaferreiradossantos,"1. What is the identity of Lea Ferreira dos Santos?
+2. Can you provide information about Lea Ferreira dos Santos?
+3. Who is the person named Lea Ferreira dos Santos?
+4. What can you tell me about Lea Ferreira dos Santos?
+5. Do you know anything about Lea Ferreira dos Santos?
+6. Can you give me details about Lea Ferreira dos Santos?
+7. Who is Lea Ferreira dos Santos and what is their background?
+8. Could you provide a brief biography of Lea Ferreira dos Santos?
+9. What is known about Lea Ferreira dos Santos?
+10. Can you tell me more about Lea Ferreira dos Santos?"
+emil prodan,,"""Emil Prodan is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/prodan-emil'""",Who is Emil Prodan?,emilprodan,"1. What is the identity of Emil Prodan?
+2. Can you provide information about Emil Prodan?
+3. Who is the person named Emil Prodan?
+4. Do you know anything about Emil Prodan?
+5. Could you tell me about Emil Prodan?
+6. What can you tell me about Emil Prodan?
+7. Is Emil Prodan a well-known figure?
+8. Have you heard of Emil Prodan before?
+9. Can you give me a brief background on Emil Prodan?
+10. Where can I find more information about Emil Prodan?"
+speech-language pathology,faculty,"""The faculty of the speech-language pathology program are Marissa Barrera, Andrew Christler, Troy Clifford Dargin, Michaela Medved, and Elisabeth Mlawski.""",Who are the faculty of the speech-language pathology program?,speechlanguagepathologyfaculty,"1. Can you provide a list of the faculty members in the speech-language pathology program?
+2. Who teaches in the speech-language pathology program?
+3. What are the names of the professors in the speech-language pathology program?
+4. Could you tell me the faculty members involved in the speech-language pathology program?
+5. Who are the instructors in the speech-language pathology program?
+6. Can you give me information about the faculty in the speech-language pathology program?
+7. Which professors are part of the speech-language pathology program?
+8. Who are the experts teaching in the speech-language pathology program?
+9. Can you provide details about the faculty members in the speech-language pathology program?
+10. What is the composition of the faculty in the speech-language pathology program?"
+marissa barrera,,"""Marissa Barrera is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/barrera-marissa'""",Who is Marissa Barrera?,marissabarrera,"1. What is Marissa Barrera known for?
+2. Where is Marissa Barrera from?
+3. What does Marissa Barrera do for a living?
+4. Is Marissa Barrera a public figure?
+5. How can I contact Marissa Barrera?
+6. Are there any notable achievements or awards associated with Marissa Barrera?
+7. Can you provide any background information on Marissa Barrera?
+8. Is Marissa Barrera involved in any current projects or initiatives?
+9. Has Marissa Barrera made any significant contributions to her field?
+10. Are there any upcoming events or appearances featuring Marissa Barrera?"
+andrew christler,,"""Andrew Christler is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/christler-andrew'""",Who is Andrew Christler?,andrewchristler,"1. What is the identity of Andrew Christler?
+2. Can you provide information about Andrew Christler?
+3. Who is the person named Andrew Christler?
+4. Do you know anything about Andrew Christler?
+5. Could you tell me about Andrew Christler?
+6. What can you tell me about Andrew Christler?
+7. Is Andrew Christler a well-known figure?
+8. Have you heard of Andrew Christler before?
+9. Can you give me some details about Andrew Christler?
+10. What is known about Andrew Christler?"
+troy clifford dargin,,"""Troy Clifford Dargin is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/dargin-troy'""",Who is Troy Clifford Dargin?,troyclifforddargin,"1. What is the full name of Troy Clifford Dargin?
+2. Can you provide some information about Troy Clifford Dargin?
+3. Who is the person known as Troy Clifford Dargin?
+4. What is the background of Troy Clifford Dargin?
+5. Can you tell me more about Troy Clifford Dargin?
+6. Where is Troy Clifford Dargin from?
+7. What is the occupation of Troy Clifford Dargin?
+8. Is Troy Clifford Dargin a public figure?
+9. Are there any notable achievements or contributions made by Troy Clifford Dargin?
+10. Can you provide any personal details about Troy Clifford Dargin?"
+michaela medved,,"""Michaela Medved is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/medved-michaela'""",Who is Michaela Medved?,michaelamedved,"1. What is the identity of Michaela Medved?
+2. Can you provide information about Michaela Medved?
+3. Who is the person named Michaela Medved?
+4. Do you know anything about Michaela Medved?
+5. Could you tell me about Michaela Medved?
+6. What can you tell me about Michaela Medved?
+7. Have you heard of Michaela Medved?
+8. Can you give me a brief description of Michaela Medved?
+9. Who is Michaela Medved and what is her background?
+10. Where can I find more information about Michaela Medved?"
+elisabeth mlawski,,"""Elisabeth Mlawski is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/mlawski-elisabeth'""",Who is Elisabeth Mlawski?,elisabethmlawski,"1. What is the identity of Elisabeth Mlawski?
+2. Can you provide information about Elisabeth Mlawski?
+3. Who is the person named Elisabeth Mlawski?
+4. Do you know anything about Elisabeth Mlawski?
+5. Could you tell me about Elisabeth Mlawski?
+6. What can you tell me about Elisabeth Mlawski?
+7. Is Elisabeth Mlawski a well-known figure?
+8. Can you give me some details about Elisabeth Mlawski?
+9. Who exactly is Elisabeth Mlawski?
+10. Where can I find more information about Elisabeth Mlawski?"
