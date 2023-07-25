@@ -1,0 +1,746 @@
+stories:
+
+- story: greet 
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- story: goodbye
+  steps:
+  - intent: goodbye 
+  - action: utter_goodbye
+
+- story: affirm
+  steps:
+  - intent: affirm
+  - action: utter_affirm
+  
+- story: deny
+  steps:
+  - intent: deny
+  - action: utter_deny
+
+- story: thank
+  steps:
+  - intent: thank
+  - action: utter_youarewelcome
+
+- story: bot challenge
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+  
+- story: admissionrequirementsapplicationprocess
+  steps:
+  - intent: admissionrequirementsapplicationprocess
+  - action: utter_admissionrequirementsapplicationprocess
+
+- story: programscurriculumresearchopportunities
+  steps:
+  - intent: programscurriculumresearchopportunities
+  - action: utter_programscurriculumresearchopportunities
+
+- story: costoftheprogramscholarshipsfinancialaidoptions
+  steps:
+  - intent: costoftheprogramscholarshipsfinancialaidoptions
+  - action: utter_costoftheprogramscholarshipsfinancialaidoptions
+
+- story: applicationdeadlineadmissionteam
+  steps:
+  - intent: applicationdeadlineadmissionteam
+  - action: utter_applicationdeadlineadmissionteam
+
+- story: acceptancerateprogram
+  steps:
+  - intent: acceptancerateprogram
+  - action: utter_acceptancerateprogram
+
+- story: programsrankingsreputation
+  steps:
+  - intent: programsrankingsreputation
+  - action: utter_programsrankingsreputation
+
+- story: opportunitiesinternshipscoopprogramsjobplacementgraduation
+  steps:
+  - intent: opportunitiesinternshipscoopprogramsjobplacementgraduation
+  - action: utter_opportunitiesinternshipscoopprogramsjobplacementgraduation
+
+- story: studentfacultyratioprofessorsstudents
+  steps:
+  - intent: studentfacultyratioprofessorsstudents
+  - action: utter_studentfacultyratioprofessorsstudents
+
+- story: campuslifeextracurricularactivities
+  steps:
+  - intent: campuslifeextracurricularactivities
+  - action: utter_campuslifeextracurricularactivities
+
+- story: depositspot
+  steps:
+  - intent: depositspot
+  - action: utter_depositspot
+
+- story: programtime
+  steps:
+  - intent: programtime
+  - action: utter_programtime
+
+- story: processforobtainingitime
+  steps:
+  - intent: processforobtainingitime
+  - action: utter_processforobtainingitime
+
+- story: resourcesorsupportinternationalstudentsculturaladjustment
+  steps:
+  - intent: resourcesorsupportinternationalstudentsculturaladjustment
+  - action: utter_resourcesorsupportinternationalstudentsculturaladjustment
+
+- story: housingoptionsinternationalstudents
+  steps:
+  - intent: housingoptionsinternationalstudents
+  - action: utter_housingoptionsinternationalstudents
+
+- story: programsorresourcesinternationalstudentsenglishlanguageskills
+  steps:
+  - intent: programsorresourcesinternationalstudentsenglishlanguageskills
+  - action: utter_programsorresourcesinternationalstudentsenglishlanguageskills
+
+- story: internationalstudentsrestrictionsworkingoncampusworkingoffcampusstudies
+  steps:
+  - intent: internationalstudentsrestrictionsworkingoncampusworkingoffcampusstudies
+  - action: utter_internationalstudentsrestrictionsworkingoncampusworkingoffcampusstudies
+
+- story: facultyprogramresearchinterestspublications
+  steps:
+  - intent: facultyprogramresearchinterestspublications
+  - action: utter_facultyprogramresearchinterestspublications
+
+- story: currentstudentsoralumniprogram
+  steps:
+  - intent: currentstudentsoralumniprogram
+  - action: utter_currentstudentsoralumniprogram
+
+- story: jobopportunitiesoncampusoffcampusstudentsfind
+  steps:
+  - intent: jobopportunitiesoncampusoffcampusstudentsfind
+  - action: utter_jobopportunitiesoncampusoffcampusstudentsfind
+
+- story: entityspecificrequirementsentitiesinternationalstudentshealthinsurance
+  steps:
+  - intent: entityspecificrequirementsentitiesinternationalstudentshealthinsurance
+  - action: utter_entityspecificrequirementsentitiesinternationalstudentshealthinsurance
+
+- story: campuscommunityareahousingtransportationlocalattractions
+  steps:
+  - intent: campuscommunityareahousingtransportationlocalattractions
+  - action: utter_campuscommunityareahousingtransportationlocalattractions
+
+- story: academicandcareersupportservicestutoringwritingcenterscareercounseling
+  steps:
+  - intent: academicandcareersupportservicestutoringwritingcenterscareercounseling
+  - action: utter_academicandcareersupportservicestutoringwritingcenterscareercounseling
+
+- story: researchfacilitieslabsequipmentstudentsprogram
+  steps:
+  - intent: researchfacilitieslabsequipmentstudentsprogram
+  - action: utter_researchfacilitieslabsequipmentstudentsprogram
+
+- story: researchprojectsprogramrelatedfields
+  steps:
+  - intent: researchprojectsprogramrelatedfields
+  - action: utter_researchprojectsprogramrelatedfields
+
+- story: networkingeventsoropportunitiesstudentsinmyprogram
+  steps:
+  - intent: networkingeventsoropportunitiesstudentsinmyprogram
+  - action: utter_networkingeventsoropportunitiesstudentsinmyprogram
+
+- story: campussafetyandsecuritymeasuresinformation
+  steps:
+  - intent: campussafetyandsecuritymeasuresinformation
+  - action: utter_campussafetyandsecuritymeasuresinformation
+
+- story: prerequisitesorrecommendedcoursesprogram
+  steps:
+  - intent: prerequisitesorrecommendedcoursesprogram
+  - action: utter_prerequisitesorrecommendedcoursesprogram
+
+- story: opportunitiesstudentsteachingexperienceteachingassistantships
+  steps:
+  - intent: opportunitiesstudentsteachingexperienceteachingassistantships
+  - action: utter_opportunitiesstudentsteachingexperienceteachingassistantships
+
+- story: recentgraduatescareerpaths
+  steps:
+  - intent: recentgraduatescareerpaths
+  - action: utter_recentgraduatescareerpaths
+
+- story: steinberglibraryphonenumber
+  steps:
+  - intent: steinberglibraryphonenumber
+  - action: utter_steinberglibraryphonenumber
+
+- story: counselingcenterservices
+  steps:
+  - intent: counselingcenterservices
+  - action: utter_counselingcenterservices
+
+- story: wilfcampuslibrariesaddress
+  steps:
+  - intent: wilfcampuslibrariesaddress
+  - action: utter_wilfcampuslibrariesaddress
+
+- story: mendelgottesman&pollacklibrariesphonenumber
+  steps:
+  - intent: mendelgottesman&pollacklibrariesphonenumber
+  - action: utter_mendelgottesman&pollacklibrariesphonenumber
+
+- story: resnickcampuslibraryaddress
+  steps:
+  - intent: resnickcampuslibraryaddress
+  - action: utter_resnickcampuslibraryaddress
+
+- story: websiteonlinelibraryaccess
+  steps:
+  - intent: websiteonlinelibraryaccess
+  - action: utter_websiteonlinelibraryaccess
+
+- story: samuelgottesmanlibraryphonenumber
+  steps:
+  - intent: samuelgottesmanlibraryphonenumber
+  - action: utter_samuelgottesmanlibraryphonenumber
+
+- story: officeofdisabilityservicespurpose
+  steps:
+  - intent: officeofdisabilityservicespurpose
+  - action: utter_officeofdisabilityservicespurpose
+
+- story: counselingcenterwebsite
+  steps:
+  - intent: counselingcenterwebsite
+  - action: utter_counselingcenterwebsite
+
+- story: counselingcenterphonenumber
+  steps:
+  - intent: counselingcenterphonenumber
+  - action: utter_counselingcenterphonenumber
+
+- story: registrationkatzschool
+  steps:
+  - intent: registrationkatzschool
+  - action: utter_registrationkatzschool
+
+- story: studentsregistrationcontact
+  steps:
+  - intent: studentsregistrationcontact
+  - action: utter_studentsregistrationcontact
+
+- story: studentsclassesregistering
+  steps:
+  - intent: studentsclassesregistering
+  - action: utter_studentsclassesregistering
+
+- story: crn
+  steps:
+  - intent: crn
+  - action: utter_crn
+
+- story: timedatecrnimportanceattention
+  steps:
+  - intent: timedatecrnimportanceattention
+  - action: utter_timedatecrnimportanceattention
+
+- story: studentscourseschedulesdescriptionsclasstimescontactquestions
+  steps:
+  - intent: studentscourseschedulesdescriptionsclasstimescontactquestions
+  - action: utter_studentscourseschedulesdescriptionsclasstimescontactquestions
+
+- story: katzschoolnewstudentorientation
+  steps:
+  - intent: katzschoolnewstudentorientation
+  - action: utter_katzschoolnewstudentorientation
+
+- story: studentscontactorientationrelatedquestions
+  steps:
+  - intent: studentscontactorientationrelatedquestions
+  - action: utter_studentscontactorientationrelatedquestions
+
+- story: socialmediaplatformsstudentskatzschoolfollow
+  steps:
+  - intent: socialmediaplatformsstudentskatzschoolfollow
+  - action: utter_socialmediaplatformsstudentskatzschoolfollow
+
+- story: katzschoolstudentshelpfulcontacts
+  steps:
+  - intent: katzschoolstudentshelpfulcontacts
+  - action: utter_katzschoolstudentshelpfulcontacts
+
+- story: msartificialintelligenceapplications
+  steps:
+  - intent: msartificialintelligenceapplications
+  - action: utter_msartificialintelligenceapplications
+
+- story: msartificialintelligenceskillsknowledge
+  steps:
+  - intent: msartificialintelligenceskillsknowledge
+  - action: utter_msartificialintelligenceskillsknowledge
+
+- story: msartificialintelligencejobopportunities
+  steps:
+  - intent: msartificialintelligencejobopportunities
+  - action: utter_msartificialintelligencejobopportunities
+
+- story: yeshivauniversitymsartificialintelligence
+  steps:
+  - intent: yeshivauniversitymsartificialintelligence
+  - action: utter_yeshivauniversitymsartificialintelligence
+
+- story: msartificialintelligenceinternshipspracticaltrainingopportunities
+  steps:
+  - intent: msartificialintelligenceinternshipspracticaltrainingopportunities
+  - action: utter_msartificialintelligenceinternshipspracticaltrainingopportunities
+
+- story: msbiotechnologymanagemententrepreneurshipgoal
+  steps:
+  - intent: msbiotechnologymanagemententrepreneurshipgoal
+  - action: utter_msbiotechnologymanagemententrepreneurshipgoal
+
+- story: biotechfellowsstudents
+  steps:
+  - intent: biotechfellowsstudents
+  - action: utter_biotechfellowsstudents
+
+- story: bamspathwaysoptionyeshivacollegesterncollegeforwomen
+  steps:
+  - intent: bamspathwaysoptionyeshivacollegesterncollegeforwomen
+  - action: utter_bamspathwaysoptionyeshivacollegesterncollegeforwomen
+
+- story: msbiotechnologymanagemententrepreneurshipinternships
+  steps:
+  - intent: msbiotechnologymanagemententrepreneurshipinternships
+  - action: utter_msbiotechnologymanagemententrepreneurshipinternships
+
+- story: msbiotechnologymanagemententrepreneurshipstemapproved
+  steps:
+  - intent: msbiotechnologymanagemententrepreneurshipstemapproved
+  - action: utter_msbiotechnologymanagemententrepreneurshipstemapproved
+
+- story: mscybersecurityskills
+  steps:
+  - intent: mscybersecurityskills
+  - action: utter_mscybersecurityskills
+
+- story: mscybersecurityrealworldchallenges
+  steps:
+  - intent: mscybersecurityrealworldchallenges
+  - action: utter_mscybersecurityrealworldchallenges
+
+- story: mscybersecurityresearchindustryprojects
+  steps:
+  - intent: mscybersecurityresearchindustryprojects
+  - action: utter_mscybersecurityresearchindustryprojects
+
+- story: mscybersecuritykatzschool
+  steps:
+  - intent: mscybersecuritykatzschool
+  - action: utter_mscybersecuritykatzschool
+
+- story: mscybersecurityinternships
+  steps:
+  - intent: mscybersecurityinternships
+  - action: utter_mscybersecurityinternships
+
+- story: msdataanalyticsvisualizationskills
+  steps:
+  - intent: msdataanalyticsvisualizationskills
+  - action: utter_msdataanalyticsvisualizationskills
+
+- story: msdataanalyticsvisualizationstudents
+  steps:
+  - intent: msdataanalyticsvisualizationstudents
+  - action: utter_msdataanalyticsvisualizationstudents
+
+- story: bamspathwaysoptionthemsdataanalyticsvisualizationyeshivacollegesterncollegeforwomen
+  steps:
+  - intent: bamspathwaysoptionthemsdataanalyticsvisualizationyeshivacollegesterncollegeforwomen
+  - action: utter_bamspathwaysoptionthemsdataanalyticsvisualizationyeshivacollegesterncollegeforwomen
+
+- story: msdataanalyticsvisualizationinternships
+  steps:
+  - intent: msdataanalyticsvisualizationinternships
+  - action: utter_msdataanalyticsvisualizationinternships
+
+- story: msdataanalyticsvisualizationstemapproveddegree
+  steps:
+  - intent: msdataanalyticsvisualizationstemapproveddegree
+  - action: utter_msdataanalyticsvisualizationstemapproveddegree
+
+- story: msdigitalmarketingmediaskills
+  steps:
+  - intent: msdigitalmarketingmediaskills
+  - action: utter_msdigitalmarketingmediaskills
+
+- story: msdigitalmarketingmediacompletiontime
+  steps:
+  - intent: msdigitalmarketingmediacompletiontime
+  - action: utter_msdigitalmarketingmediacompletiontime
+
+- story: msdigitalmarketingmediastrategies
+  steps:
+  - intent: msdigitalmarketingmediastrategies
+  - action: utter_msdigitalmarketingmediastrategies
+
+- story: msdigitalmarketingmediainternships
+  steps:
+  - intent: msdigitalmarketingmediainternships
+  - action: utter_msdigitalmarketingmediainternships
+
+- story: msdigitalmarketingmediainternationalstudents
+  steps:
+  - intent: msdigitalmarketingmediainternationalstudents
+  - action: utter_msdigitalmarketingmediainternationalstudents
+
+- story: mamathematicscareerprospectsforgraduates
+  steps:
+  - intent: mamathematicscareerprospectsforgraduates
+  - action: utter_mamathematicscareerprospectsforgraduates
+
+- story: mamathematicsadmissionrequirementsapplicationprocess
+  steps:
+  - intent: mamathematicsadmissionrequirementsapplicationprocess
+  - action: utter_mamathematicsadmissionrequirementsapplicationprocess
+
+- story: mamathematicsresearchopportunities
+  steps:
+  - intent: mamathematicsresearchopportunities
+  - action: utter_mamathematicsresearchopportunities
+
+- story: yeshivauniversitymathematicsbamapathway
+  steps:
+  - intent: yeshivauniversitymathematicsbamapathway
+  - action: utter_yeshivauniversitymathematicsbamapathway
+
+- story: mamathematicsscholarships
+  steps:
+  - intent: mamathematicsscholarships
+  - action: utter_mamathematicsscholarships
+
+- story: phdmathematicalsciencesyeshivauniversity
+  steps:
+  - intent: phdmathematicalsciencesyeshivauniversity
+  - action: utter_phdmathematicalsciencesyeshivauniversity
+
+- story: phdmathematicsapplicationdeadlineadmissionteam
+  steps:
+  - intent: phdmathematicsapplicationdeadlineadmissionteam
+  - action: utter_phdmathematicsapplicationdeadlineadmissionteam
+
+- story: phdmathematicscareeropportunities
+  steps:
+  - intent: phdmathematicscareeropportunities
+  - action: utter_phdmathematicscareeropportunities
+
+- story: mathematicsinternshipopportunitiesforphdstudents
+  steps:
+  - intent: mathematicsinternshipopportunitiesforphdstudents
+  - action: utter_mathematicsinternshipopportunitiesforphdstudents
+
+- story: phdmathematicsacceptanceratecompetitiveness
+  steps:
+  - intent: phdmathematicsacceptanceratecompetitiveness
+  - action: utter_phdmathematicsacceptanceratecompetitiveness
+
+- story: occupationaltherapydoctoratekatzschool
+  steps:
+  - intent: occupationaltherapydoctoratekatzschool
+  - action: utter_occupationaltherapydoctoratekatzschool
+
+- story: occupationaltherapydoctoratefuturecareers
+  steps:
+  - intent: occupationaltherapydoctoratefuturecareers
+  - action: utter_occupationaltherapydoctoratefuturecareers
+
+- story: occupationaltherapydoctorateothersthenewyorkmetropolitanarea
+  steps:
+  - intent: occupationaltherapydoctorateothersthenewyorkmetropolitanarea
+  - action: utter_occupationaltherapydoctorateothersthenewyorkmetropolitanarea
+
+- story: occupationaltherapydoctorateinterprofessionallearning
+  steps:
+  - intent: occupationaltherapydoctorateinterprofessionallearning
+  - action: utter_occupationaltherapydoctorateinterprofessionallearning
+
+- story: occupationaltherapydoctoratecareerprospects
+  steps:
+  - intent: occupationaltherapydoctoratecareerprospects
+  - action: utter_occupationaltherapydoctoratecareerprospects
+
+- story: physicianassistantshealthcarefield
+  steps:
+  - intent: physicianassistantshealthcarefield
+  - action: utter_physicianassistantshealthcarefield
+
+- story: physicianassistantsmedicaltraining
+  steps:
+  - intent: physicianassistantsmedicaltraining
+  - action: utter_physicianassistantsmedicaltraining
+
+- story: physicianassistantspracticelocations
+  steps:
+  - intent: physicianassistantspracticelocations
+  - action: utter_physicianassistantspracticelocations
+
+- story: physicianassistantsresponsibilities
+  steps:
+  - intent: physicianassistantsresponsibilities
+  - action: utter_physicianassistantsresponsibilities
+
+- story: physicianassistantsprimaryhealthcareprovider
+  steps:
+  - intent: physicianassistantsprimaryhealthcareprovider
+  - action: utter_physicianassistantsprimaryhealthcareprovider
+
+- story: maphysicsareasofspecialization
+  steps:
+  - intent: maphysicsareasofspecialization
+  - action: utter_maphysicsareasofspecialization
+
+- story: maphysicscareeropportunities
+  steps:
+  - intent: maphysicscareeropportunities
+  - action: utter_maphysicscareeropportunities
+
+- story: yusmaphysicshightechnologyfield
+  steps:
+  - intent: yusmaphysicshightechnologyfield
+  - action: utter_yusmaphysicshightechnologyfield
+
+- story: acceleratedpathwaymsphysics
+  steps:
+  - intent: acceleratedpathwaymsphysics
+  - action: utter_acceleratedpathwaymsphysics
+
+- story: yusmaphysicsinternshipspracticaltraining
+  steps:
+  - intent: yusmaphysicsinternshipspracticaltraining
+  - action: utter_yusmaphysicsinternshipspracticaltraining
+
+- story: msspeech-languagepathologyrankingsandreputation
+  steps:
+  - intent: msspeech-languagepathologyrankingsandreputation
+  - action: utter_msspeech-languagepathologyrankingsandreputation
+
+- story: programspeechlanguagepathology
+  steps:
+  - intent: programspeechlanguagepathology
+  - action: utter_programspeechlanguagepathology
+
+- story: speechlanguagepathologyprofessionaldevelopmentopportunities
+  steps:
+  - intent: speechlanguagepathologyprofessionaldevelopmentopportunities
+  - action: utter_speechlanguagepathologyprofessionaldevelopmentopportunities
+
+- story: msspeechlanguagepathologycareerprospectsearningpotential
+  steps:
+  - intent: msspeechlanguagepathologycareerprospectsearningpotential
+  - action: utter_msspeechlanguagepathologycareerprospectsearningpotential
+
+- story: msspeech-languagepathologyopportunitiesjobplacement
+  steps:
+  - intent: msspeech-languagepathologyopportunitiesjobplacement
+  - action: utter_msspeech-languagepathologyopportunitiesjobplacement
+
+- story: artificialintelligencefaculty
+  steps:
+  - intent: artificialintelligencefaculty
+  - action: utter_artificialintelligencefaculty
+
+- story: pabloroldan
+  steps:
+  - intent: pabloroldan
+  - action: utter_pabloroldan
+
+- story: mariangidea
+  steps:
+  - intent: mariangidea
+  - action: utter_mariangidea
+
+- story: peternandori
+  steps:
+  - intent: peternandori
+  - action: utter_peternandori
+
+- story: youshanzhang
+  steps:
+  - intent: youshanzhang
+  - action: utter_youshanzhang
+
+- story: biotechnologymanagemententrepreneurshipfaculty
+  steps:
+  - intent: biotechnologymanagemententrepreneurshipfaculty
+  - action: utter_biotechnologymanagemententrepreneurshipfaculty
+
+- story: ranakhan
+  steps:
+  - intent: ranakhan
+  - action: utter_ranakhan
+
+- story: robertfrdiman
+  steps:
+  - intent: robertfrdiman
+  - action: utter_robertfrdiman
+
+- story: jdbrianmalkin
+  steps:
+  - intent: jdbrianmalkin
+  - action: utter_jdbrianmalkin
+
+- story: mathematicsfaculty
+  steps:
+  - intent: mathematicsfaculty
+  - action: utter_mathematicsfaculty
+
+- story: edwardbelbruno
+  steps:
+  - intent: edwardbelbruno
+  - action: utter_edwardbelbruno
+
+- story: wenxiongchen
+  steps:
+  - intent: wenxiongchen
+  - action: utter_wenxiongchen
+
+- story: michaeldalezman
+  steps:
+  - intent: michaeldalezman
+  - action: utter_michaeldalezman
+
+- story: avigilon
+  steps:
+  - intent: avigilon
+  - action: utter_avigilon
+
+- story: antonellamarini
+  steps:
+  - intent: antonellamarini
+  - action: utter_antonellamarini
+
+- story: occupationaltherapyfaculty
+  steps:
+  - intent: occupationaltherapyfaculty
+  - action: utter_occupationaltherapyfaculty
+
+- story: mindygarfinkel
+  steps:
+  - intent: mindygarfinkel
+  - action: utter_mindygarfinkel
+
+- story: amiyawaldmanlevi
+  steps:
+  - intent: amiyawaldmanlevi
+  - action: utter_amiyawaldmanlevi
+
+- story: zesaraebodie
+  steps:
+  - intent: zesaraebodie
+  - action: utter_zesaraebodie
+
+- story: alexandrawagner
+  steps:
+  - intent: alexandrawagner
+  - action: utter_alexandrawagner
+
+- story: physicalassistantstudiesfaculty
+  steps:
+  - intent: physicalassistantstudiesfaculty
+  - action: utter_physicalassistantstudiesfaculty
+
+- story: sharonverity
+  steps:
+  - intent: sharonverity
+  - action: utter_sharonverity
+
+- story: fayroseabodeshisha
+  steps:
+  - intent: fayroseabodeshisha
+  - action: utter_fayroseabodeshisha
+
+- story: dwaynewilliams
+  steps:
+  - intent: dwaynewilliams
+  - action: utter_dwaynewilliams
+
+- story: physicsfaculty
+  steps:
+  - intent: physicsfaculty
+  - action: utter_physicsfaculty
+
+- story: fredyzypman
+  steps:
+  - intent: fredyzypman
+  - action: utter_fredyzypman
+
+- story: neerasherie
+  steps:
+  - intent: neerasherie
+  - action: utter_neerasherie
+
+- story: sergeybuldyrev
+  steps:
+  - intent: sergeybuldyrev
+  - action: utter_sergeybuldyrev
+
+- story: gabrielcwilich
+  steps:
+  - intent: gabrielcwilich
+  - action: utter_gabrielcwilich
+
+- story: randrori
+  steps:
+  - intent: randrori
+  - action: utter_randrori
+
+- story: markedelman
+  steps:
+  - intent: markedelman
+  - action: utter_markedelman
+
+- story: leaferreiradossantos
+  steps:
+  - intent: leaferreiradossantos
+  - action: utter_leaferreiradossantos
+
+- story: emilprodan
+  steps:
+  - intent: emilprodan
+  - action: utter_emilprodan
+
+- story: speechlanguagepathologyfaculty
+  steps:
+  - intent: speechlanguagepathologyfaculty
+  - action: utter_speechlanguagepathologyfaculty
+
+- story: marissabarrera
+  steps:
+  - intent: marissabarrera
+  - action: utter_marissabarrera
+
+- story: andrewchristler
+  steps:
+  - intent: andrewchristler
+  - action: utter_andrewchristler
+
+- story: troyclifforddargin
+  steps:
+  - intent: troyclifforddargin
+  - action: utter_troyclifforddargin
+
+- story: michaelamedved
+  steps:
+  - intent: michaelamedved
+  - action: utter_michaelamedved
+
+- story: elisabethmlawski
+  steps:
+  - intent: elisabethmlawski
+  - action: utter_elisabethmlawski

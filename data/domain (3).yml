@@ -1,0 +1,790 @@
+version: "3.1"
+
+intents:
+- greet
+- goodbye
+- affirm
+- deny
+- thank
+- bot_challenge
+- admissionrequirementsapplicationprocess
+- programscurriculumresearchopportunities
+- costoftheprogramscholarshipsfinancialaidoptions
+- applicationdeadlineadmissionteam
+- acceptancerateprogram
+- programsrankingsreputation
+- opportunitiesinternshipscoopprogramsjobplacementgraduation
+- studentfacultyratioprofessorsstudents
+- campuslifeextracurricularactivities
+- depositspot
+- programtime
+- processforobtainingitime
+- resourcesorsupportinternationalstudentsculturaladjustment
+- housingoptionsinternationalstudents
+- programsorresourcesinternationalstudentsenglishlanguageskills
+- internationalstudentsrestrictionsworkingoncampusworkingoffcampusstudies
+- facultyprogramresearchinterestspublications
+- currentstudentsoralumniprogram
+- jobopportunitiesoncampusoffcampusstudentsfind
+- entityspecificrequirementsentitiesinternationalstudentshealthinsurance
+- campuscommunityareahousingtransportationlocalattractions
+- academicandcareersupportservicestutoringwritingcenterscareercounseling
+- researchfacilitieslabsequipmentstudentsprogram
+- researchprojectsprogramrelatedfields
+- networkingeventsoropportunitiesstudentsinmyprogram
+- campussafetyandsecuritymeasuresinformation
+- prerequisitesorrecommendedcoursesprogram
+- opportunitiesstudentsteachingexperienceteachingassistantships
+- recentgraduatescareerpaths
+- steinberglibraryphonenumber
+- counselingcenterservices
+- wilfcampuslibrariesaddress
+- mendelgottesman&pollacklibrariesphonenumber
+- resnickcampuslibraryaddress
+- websiteonlinelibraryaccess
+- samuelgottesmanlibraryphonenumber
+- officeofdisabilityservicespurpose
+- counselingcenterwebsite
+- counselingcenterphonenumber
+- registrationkatzschool
+- studentsregistrationcontact
+- studentsclassesregistering
+- crn
+- timedatecrnimportanceattention
+- studentscourseschedulesdescriptionsclasstimescontactquestions
+- katzschoolnewstudentorientation
+- studentscontactorientationrelatedquestions
+- socialmediaplatformsstudentskatzschoolfollow
+- katzschoolstudentshelpfulcontacts
+- msartificialintelligenceapplications
+- msartificialintelligenceskillsknowledge
+- msartificialintelligencejobopportunities
+- yeshivauniversitymsartificialintelligence
+- msartificialintelligenceinternshipspracticaltrainingopportunities
+- msbiotechnologymanagemententrepreneurshipgoal
+- biotechfellowsstudents
+- bamspathwaysoptionyeshivacollegesterncollegeforwomen
+- msbiotechnologymanagemententrepreneurshipinternships
+- msbiotechnologymanagemententrepreneurshipstemapproved
+- mscybersecurityskills
+- mscybersecurityrealworldchallenges
+- mscybersecurityresearchindustryprojects
+- mscybersecuritykatzschool
+- mscybersecurityinternships
+- msdataanalyticsvisualizationskills
+- msdataanalyticsvisualizationstudents
+- bamspathwaysoptionthemsdataanalyticsvisualizationyeshivacollegesterncollegeforwomen
+- msdataanalyticsvisualizationinternships
+- msdataanalyticsvisualizationstemapproveddegree
+- msdigitalmarketingmediaskills
+- msdigitalmarketingmediacompletiontime
+- msdigitalmarketingmediastrategies
+- msdigitalmarketingmediainternships
+- msdigitalmarketingmediainternationalstudents
+- mamathematicscareerprospectsforgraduates
+- mamathematicsadmissionrequirementsapplicationprocess
+- mamathematicsresearchopportunities
+- yeshivauniversitymathematicsbamapathway
+- mamathematicsscholarships
+- phdmathematicalsciencesyeshivauniversity
+- phdmathematicsapplicationdeadlineadmissionteam
+- phdmathematicscareeropportunities
+- mathematicsinternshipopportunitiesforphdstudents
+- phdmathematicsacceptanceratecompetitiveness
+- occupationaltherapydoctoratekatzschool
+- occupationaltherapydoctoratefuturecareers
+- occupationaltherapydoctorateothersthenewyorkmetropolitanarea
+- occupationaltherapydoctorateinterprofessionallearning
+- occupationaltherapydoctoratecareerprospects
+- physicianassistantshealthcarefield
+- physicianassistantsmedicaltraining
+- physicianassistantspracticelocations
+- physicianassistantsresponsibilities
+- physicianassistantsprimaryhealthcareprovider
+- maphysicsareasofspecialization
+- maphysicscareeropportunities
+- yusmaphysicshightechnologyfield
+- acceleratedpathwaymsphysics
+- yusmaphysicsinternshipspracticaltraining
+- msspeech-languagepathologyrankingsandreputation
+- programspeechlanguagepathology
+- speechlanguagepathologyprofessionaldevelopmentopportunities
+- msspeechlanguagepathologycareerprospectsearningpotential
+- msspeech-languagepathologyopportunitiesjobplacement
+- artificialintelligencefaculty
+- pabloroldan
+- mariangidea
+- peternandori
+- youshanzhang
+- biotechnologymanagemententrepreneurshipfaculty
+- ranakhan
+- robertfrdiman
+- jdbrianmalkin
+- mathematicsfaculty
+- edwardbelbruno
+- wenxiongchen
+- michaeldalezman
+- avigilon
+- antonellamarini
+- occupationaltherapyfaculty
+- mindygarfinkel
+- amiyawaldmanlevi
+- zesaraebodie
+- alexandrawagner
+- physicalassistantstudiesfaculty
+- sharonverity
+- fayroseabodeshisha
+- dwaynewilliams
+- physicsfaculty
+- fredyzypman
+- neerasherie
+- sergeybuldyrev
+- gabrielcwilich
+- randrori
+- markedelman
+- leaferreiradossantos
+- emilprodan
+- speechlanguagepathologyfaculty
+- marissabarrera
+- andrewchristler
+- troyclifforddargin
+- michaelamedved
+- elisabethmlawski
+
+actions:
+- utter_greet
+- utter_goodbye
+- utter_affirm
+- utter_deny
+- utter_youarewelcome 
+- utter_iamabot
+- utter_admissionrequirementsapplicationprocess
+- utter_programscurriculumresearchopportunities
+- utter_costoftheprogramscholarshipsfinancialaidoptions
+- utter_applicationdeadlineadmissionteam
+- utter_acceptancerateprogram
+- utter_programsrankingsreputation
+- utter_opportunitiesinternshipscoopprogramsjobplacementgraduation
+- utter_studentfacultyratioprofessorsstudents
+- utter_campuslifeextracurricularactivities
+- utter_depositspot
+- utter_programtime
+- utter_processforobtainingitime
+- utter_resourcesorsupportinternationalstudentsculturaladjustment
+- utter_housingoptionsinternationalstudents
+- utter_programsorresourcesinternationalstudentsenglishlanguageskills
+- utter_internationalstudentsrestrictionsworkingoncampusworkingoffcampusstudies
+- utter_facultyprogramresearchinterestspublications
+- utter_currentstudentsoralumniprogram
+- utter_jobopportunitiesoncampusoffcampusstudentsfind
+- utter_entityspecificrequirementsentitiesinternationalstudentshealthinsurance
+- utter_campuscommunityareahousingtransportationlocalattractions
+- utter_academicandcareersupportservicestutoringwritingcenterscareercounseling
+- utter_researchfacilitieslabsequipmentstudentsprogram
+- utter_researchprojectsprogramrelatedfields
+- utter_networkingeventsoropportunitiesstudentsinmyprogram
+- utter_campussafetyandsecuritymeasuresinformation
+- utter_prerequisitesorrecommendedcoursesprogram
+- utter_opportunitiesstudentsteachingexperienceteachingassistantships
+- utter_recentgraduatescareerpaths
+- utter_steinberglibraryphonenumber
+- utter_counselingcenterservices
+- utter_wilfcampuslibrariesaddress
+- utter_mendelgottesman&pollacklibrariesphonenumber
+- utter_resnickcampuslibraryaddress
+- utter_websiteonlinelibraryaccess
+- utter_samuelgottesmanlibraryphonenumber
+- utter_officeofdisabilityservicespurpose
+- utter_counselingcenterwebsite
+- utter_counselingcenterphonenumber
+- utter_registrationkatzschool
+- utter_studentsregistrationcontact
+- utter_studentsclassesregistering
+- utter_crn
+- utter_timedatecrnimportanceattention
+- utter_studentscourseschedulesdescriptionsclasstimescontactquestions
+- utter_katzschoolnewstudentorientation
+- utter_studentscontactorientationrelatedquestions
+- utter_socialmediaplatformsstudentskatzschoolfollow
+- utter_katzschoolstudentshelpfulcontacts
+- utter_msartificialintelligenceapplications
+- utter_msartificialintelligenceskillsknowledge
+- utter_msartificialintelligencejobopportunities
+- utter_yeshivauniversitymsartificialintelligence
+- utter_msartificialintelligenceinternshipspracticaltrainingopportunities
+- utter_msbiotechnologymanagemententrepreneurshipgoal
+- utter_biotechfellowsstudents
+- utter_bamspathwaysoptionyeshivacollegesterncollegeforwomen
+- utter_msbiotechnologymanagemententrepreneurshipinternships
+- utter_msbiotechnologymanagemententrepreneurshipstemapproved
+- utter_mscybersecurityskills
+- utter_mscybersecurityrealworldchallenges
+- utter_mscybersecurityresearchindustryprojects
+- utter_mscybersecuritykatzschool
+- utter_mscybersecurityinternships
+- utter_msdataanalyticsvisualizationskills
+- utter_msdataanalyticsvisualizationstudents
+- utter_bamspathwaysoptionthemsdataanalyticsvisualizationyeshivacollegesterncollegeforwomen
+- utter_msdataanalyticsvisualizationinternships
+- utter_msdataanalyticsvisualizationstemapproveddegree
+- utter_msdigitalmarketingmediaskills
+- utter_msdigitalmarketingmediacompletiontime
+- utter_msdigitalmarketingmediastrategies
+- utter_msdigitalmarketingmediainternships
+- utter_msdigitalmarketingmediainternationalstudents
+- utter_mamathematicscareerprospectsforgraduates
+- utter_mamathematicsadmissionrequirementsapplicationprocess
+- utter_mamathematicsresearchopportunities
+- utter_yeshivauniversitymathematicsbamapathway
+- utter_mamathematicsscholarships
+- utter_phdmathematicalsciencesyeshivauniversity
+- utter_phdmathematicsapplicationdeadlineadmissionteam
+- utter_phdmathematicscareeropportunities
+- utter_mathematicsinternshipopportunitiesforphdstudents
+- utter_phdmathematicsacceptanceratecompetitiveness
+- utter_occupationaltherapydoctoratekatzschool
+- utter_occupationaltherapydoctoratefuturecareers
+- utter_occupationaltherapydoctorateothersthenewyorkmetropolitanarea
+- utter_occupationaltherapydoctorateinterprofessionallearning
+- utter_occupationaltherapydoctoratecareerprospects
+- utter_physicianassistantshealthcarefield
+- utter_physicianassistantsmedicaltraining
+- utter_physicianassistantspracticelocations
+- utter_physicianassistantsresponsibilities
+- utter_physicianassistantsprimaryhealthcareprovider
+- utter_maphysicsareasofspecialization
+- utter_maphysicscareeropportunities
+- utter_yusmaphysicshightechnologyfield
+- utter_acceleratedpathwaymsphysics
+- utter_yusmaphysicsinternshipspracticaltraining
+- utter_msspeech-languagepathologyrankingsandreputation
+- utter_programspeechlanguagepathology
+- utter_speechlanguagepathologyprofessionaldevelopmentopportunities
+- utter_msspeechlanguagepathologycareerprospectsearningpotential
+- utter_msspeech-languagepathologyopportunitiesjobplacement
+- utter_artificialintelligencefaculty
+- utter_pabloroldan
+- utter_mariangidea
+- utter_peternandori
+- utter_youshanzhang
+- utter_biotechnologymanagemententrepreneurshipfaculty
+- utter_ranakhan
+- utter_robertfrdiman
+- utter_jdbrianmalkin
+- utter_mathematicsfaculty
+- utter_edwardbelbruno
+- utter_wenxiongchen
+- utter_michaeldalezman
+- utter_avigilon
+- utter_antonellamarini
+- utter_occupationaltherapyfaculty
+- utter_mindygarfinkel
+- utter_amiyawaldmanlevi
+- utter_zesaraebodie
+- utter_alexandrawagner
+- utter_physicalassistantstudiesfaculty
+- utter_sharonverity
+- utter_fayroseabodeshisha
+- utter_dwaynewilliams
+- utter_physicsfaculty
+- utter_fredyzypman
+- utter_neerasherie
+- utter_sergeybuldyrev
+- utter_gabrielcwilich
+- utter_randrori
+- utter_markedelman
+- utter_leaferreiradossantos
+- utter_emilprodan
+- utter_speechlanguagepathologyfaculty
+- utter_marissabarrera
+- utter_andrewchristler
+- utter_troyclifforddargin
+- utter_michaelamedved
+- utter_elisabethmlawski
+
+responses:
+  utter_greet:
+  - text: "Hello! Welcome to katz school. How may I assist you today?"
+  
+  utter_goodbye:
+  - text: "Goodbye! Thank you for your interest. Have a great day."
+
+  utter_affirm:
+  - text: "Great, thank you for confirming."
+  
+  utter_deny:
+  - text: "I apologize, let me re-check that information."
+
+  utter_youarewelcome:
+  - text: "You're very welcome!"
+
+  utter_iamabot:
+  - text: "Yes, I am an AI assistant created to be helpful, harmless, and honest."
+  
+  utter_admissionrequirementsapplicationprocess:
+  - text: "Please submit the following required document in order to apply:
+          Transcripts from all colleges/universities attended
+          Degree Conferral (Diploma or certificate)
+          English language assessment (Duolingo: 110, TOEFL: 85 (not accepting home edition), IELTS: 6.5, and PTE: 59.)
+          Resume
+          Statement of Purpose
+          GRE/GMAT scores (Physics+ Math only)
+          Letters of recommendation (Physics+ Math only)
+          Admission page: https://www.yu.edu/katz/admissions/grad-admissions
+          https://www.yu.edu/sites/default/files/inline-files/FINAL%20Application%20Checklist%20for%20Graduate%20STEM%20Programs%20-%20010423_0.pdf"
+
+  utter_programscurriculumresearchopportunities:
+  - text: "Please send student program curriculum via website. (Can be found under Helpful Links under program page)
+          https://www.yu.edu/katz/research
+          https://www.yu.edu/katz/research-symposium-2023
+          https://www.yu.edu/katz/research-symposium-2022"
+
+  utter_costoftheprogramscholarshipsfinancialaidoptions:
+  - text: "The STEM Fellows Scholarship is awarded to qualified and admitted students which reduces your tuition to $25,000 plus semesterly fees which is part of the STEM Fellows Scholarship. The additional semesterly fees that you would be responsible for can all be viewed online
+          https://www.yu.edu/katz/stem-fellows"
+
+  utter_applicationdeadlineadmissionteam:
+  - text: "For the Fall 2023 semester, our priority deadline is June 1st however, we encourage you to complete your application sooner, so it allows enough time for visa processing.
+          Admission page: https://www.yu.edu/katz/admissions/grad-admissions
+          https://www.yu.edu/sites/default/files/inline-files/FINAL%20Application%20Checklist%20for%20Graduate%20STEM%20Programs%20-%20010423_0.pdf"
+
+  utter_acceptancerateprogram:
+  - text: "Some of our STEM programs do have pre-requisites that students are required to have completed prior to the program (DAV and AI). Typically, we ask students to have a minimum of a 3.0 GPA however, we do still encourage you to apply. If we need any additional documents to review your application, we would be sure to be in touch."
+
+  utter_programsrankingsreputation:
+  - text: "https://www.yu.edu/sites/default/files/inline-files/Katz%20Viewbook%20-%202023_0.pdf"
+
+  utter_opportunitiesinternshipscoopprogramsjobplacementgraduation:
+  - text: "Our graduates have a 95% employment rate within 6 months of graduation. Students can begin to apply for internships once they are legally eligible to in the U.S. however, the program does not assist with placements. If you do find an internship, then you can pursue the internship course as part of your program and earn credit."
+
+  utter_studentfacultyratioprofessorsstudents:
+  - text: "We prefer to keep our class sizes small so students can have a more personal experience with our faculty and other students on their program."
+
+  utter_campuslifeextracurricularactivities:
+  - text: "Please see our student life page below:  https://www.yu.edu/katz/students"
+
+  utter_depositspot:
+  - text: "Students are required to submit the $500 non-refundable deposit. For international students, once we receive your deposit our Office of International Services will then be in touch about accessing your I-20 application and the international portal."
+
+  utter_programtime:
+  - text: "Depending on the program, it can take students 1.5-2 years (15-21 months). Please confirm on program page on the website."
+
+  utter_processforobtainingitime:
+  - text: "Our Office of International Services will be in touch soon about your I-20, please note that this will be sent to your YU email account. Please note students will only receive their I-20 application once we receive your $500 deposit. 
+          Kindly note student must show proof of fund for the I-20. Based on the International Estimated Cost of Attendance online, it states that students must show financial support for no less than the annual amount estimated for their program of study.
+          Here is the information for how to apply I-20: tps://www.yu.edu/international/prospective-students"
+
+  utter_resourcesorsupportinternationalstudentsculturaladjustment:
+  - text: "At Katz School of Science and Health, we take pride in fostering a vibrant and inclusive student community. To this end, we have established multiple student associations that cater to the diverse cultural backgrounds of our students. As part of our commitment to cultural diversity, we also celebrate various festivals throughout the academic year.
+          For instance, we joyfully observe Diwali, the Hindu festival of lights, and Chinese New Year, an auspicious occasion in Chinese culture. We believe that celebrating such festivals not only adds to the richness of our student experience but also promotes cultural awareness and understanding among our community.
+          For further information on our student associations and festival celebrations, we invite you to visit our official social media platforms. You can explore our Instagram page @YUKATZSCHOOL or our LinkedIn page @Katz School of Science and Health. You can also find in our student life page below: 
+          https://www.yu.edu/katz/students"
+
+  utter_housingoptionsinternationalstudents:
+  - text: "We do offer some on-campus housing for graduate students; however, they do have limited availability. I would recommend reviewing the on-campus housing options available online, as well as resources to assist with finding off-campus housing."
+
+  utter_programsorresourcesinternationalstudentsenglishlanguageskills:
+  - text: "At Katz, we are committed to providing our students with a supportive and enriching academic environment. As part of this commitment, we have established an Academic Center that is dedicated to helping students enhance their academic performance.
+          Our Academic Center offers a wide range of resources and support services, including assistance with English language skills. We recognize that English proficiency is crucial for success in academia, and our experienced staff members are equipped to provide individualized support to students who may need help improving their English language skills."
+
+  utter_internationalstudentsrestrictionsworkingoncampusworkingoffcampusstudies:
+  - text: "Please contact OISS@YU.EDU for most updated information"
+
+  utter_facultyprogramresearchinterestspublications:
+  - text: "We highly encourage students and interested parties to visit our website for detailed information on our faculty and their publications, you can find information below: 
+          Faculty | Yeshiva University (yu.edu)
+          Faculty Research Initiative | Yeshiva University (yu.edu)"
+
+  utter_currentstudentsoralumniprogram:
+  - text: "As a Katz admission team member, it is pleasure to offer you the opportunity to connect with our current students or alumni and learn about their experiences at our esteemed institution."
+
+  utter_jobopportunitiesoncampusoffcampusstudentsfind:
+  - text: "Please contact katzstudentservices@yu.edu for more information."
+
+  utter_entityspecificrequirementsentitiesinternationalstudentshealthinsurance:
+  - text: "At Katz, we are committed to ensuring the health and well-being of our students. As such, we have established a Health Service Center to provide students with a range of health-related services, including access to health insurance information and resources.
+          For information about health insurance, contact the Student Health Insurance Plan team at YUSHIP@yu.edu."
+
+  utter_campuscommunityareahousingtransportationlocalattractions:
+  - text: "We believe that a well-rounded academic experience encompasses more than just coursework, and that a supportive and engaging community can greatly enhance the overall student experience. Therefore, we encourage all interested parties to visit our e webpage at Campuses | Yeshiva University (yu.edu) or https://www.yu.edu/katz/grad-housing to learn more about what Katz and our surrounding community has to offer."
+
+  utter_academicandcareersupportservicestutoringwritingcenterscareercounseling:
+  - text: "At Katz, as part of this commitment, we offer access to both an Academic Center and a Career Center. Our Academic Center is designed to support students in their academic pursuits, providing resources and guidance to help them achieve their academic goals. Our experienced staff members are available to assist students with a range of academic needs, including tutoring, study skills development, and time management strategies.
+          Similarly, our Career Center is dedicated to helping students achieve their professional goals. Our staff members work with students to develop career plans, explore job opportunities, and develop job search strategies. We also offer workshops, networking events, and other resources designed to enhance students' career prospects."
+
+  utter_researchfacilitieslabsequipmentstudentsprogram:
+  - text: "We encourage you to visit our Graduate Schools and Programs webpage at https://www.yu.edu/academics/graduate to learn more about our programs and the resources available to our graduate students."
+
+  utter_researchprojectsprogramrelatedfields:
+  - text: "Please review the following webpages about our recent or ongoing research projects in your program:
+          Symposium on Science, Technology and Health | Yeshiva University (yu.edu)
+          Faculty Research Initiative | Yeshiva University (yu.edu)"
+
+  utter_networkingeventsoropportunitiesstudentsinmyprogram:
+  - text: "At Katz, we are dedicated to fostering a vibrant academic community that extends beyond the classroom. To that end, we host symposium-2022 and symposium-2023 every year that is open to all of our programs and students. This event provides an opportunity for students to showcase their research and engage with other members of the academic community.
+          In addition, we also offer a range of alumni events and cultural festivals to foster networking and community building among our students. These events are designed to celebrate the diversity of our student body and provide opportunities for our students to connect with each other and with alumni who have gone on to successful careers in their fields."
+
+  utter_campussafetyandsecuritymeasuresinformation:
+  - text: "Please review information about the campus safety and security measures at the following webpage:
+          Security Department | Yeshiva University (yu.edu)"
+
+  utter_prerequisitesorrecommendedcoursesprogram:
+  - text: "Please review the following webpages for the perquisites in your program:
+          M.S. in Artificial Intelligence | Yeshiva University (yu.edu)
+          M.S. in Biotechnology Management and Entrepreneurship | Yeshiva University (yu.edu)
+          M.S. in Cybersecurity | Yeshiva University (yu.edu)
+          Online Master's Degree in Cybersecurity | YU Katz
+          M.S. in Data Analytics and Visualization | Yeshiva University (yu.edu)
+          M.S. in Digital Marketing and Media | Yeshiva University (yu.edu)
+          M.A. in Mathematics | Yeshiva University (yu.edu)
+          Ph.D. in Mathematics | Yeshiva University (yu.edu)
+          M.A. in Physics | Yeshiva University (yu.edu)"
+
+  utter_opportunitiesstudentsteachingexperienceteachingassistantships:
+  - text: "At Katz, we offer a range of opportunities for students to gain valuable teaching experience and support our faculty members in their academic pursuits. If you are interested in exploring these opportunities, we encourage you to visit our Human Resources webpage at https://www.yu.edu/hr/opportunities."
+
+  utter_recentgraduatescareerpaths:
+  - text: "At Katz, we are proud of our graduates and the contributions they make to their fields and communities. We encourage you to explore our Katz Blog and read the inspiring stories of our graduates, please review more information below:
+          Alumni | Katz School of Science and Health (yu.edu)"
+
+  utter_steinberglibraryphonenumber:
+  - text: "The phone number for the Steinberg Library is (212) 340-7720."
+
+  utter_counselingcenterservices:
+  - text: "The Counseling Center offers free, confidential services to all Yeshiva University students."
+
+  utter_wilfcampuslibrariesaddress:
+  - text: "The Wilf Campus libraries are located at 2520 Amsterdam Ave, NY, NY 10033."
+
+  utter_mendelgottesman&pollacklibrariesphonenumber:
+  - text: "The phone number for the Mendel Gottesman & Pollack Libraries is (646) 592-4045."
+
+  utter_resnickcampuslibraryaddress:
+  - text: "The Resnick Campus library is located at 1300 Morris Park Ave, Bronx, NY 10461."
+
+  utter_websiteonlinelibraryaccess:
+  - text: "Online library access can be found at www.yu.edu/libraries."
+
+  utter_samuelgottesmanlibraryphonenumber:
+  - text: "The phone number for the Samuel Gottesman Library is (718) 430-3108."
+
+  utter_officeofdisabilityservicespurpose:
+  - text: "The Office of Disability Services provides reasonable accommodation and services to students who self-identify as having a disability."
+
+  utter_counselingcenterwebsite:
+  - text: "The website for the Counseling Center is yu.edu/student-life/counseling."
+
+  utter_counselingcenterphonenumber:
+  - text: "The phone number for the Counseling Center is not explicitly stated in the text, but it can likely be found on their website or by contacting Yeshiva University's main phone line."
+
+  utter_registrationkatzschool:
+  - text: "Registration begins a few months before the start of the semester."
+
+  utter_studentsregistrationcontact:
+  - text: "The Katz School�s Academic Operations team will contact students about registration."
+
+  utter_studentsclassesregistering:
+  - text: "Students should speak with their academic advisor or program director to ensure they are taking the correct sequence of courses."
+
+  utter_crn:
+  - text: "A CRN is a course registration number, which is unique to each course."
+
+  utter_timedatecrnimportanceattention:
+  - text: "It is important to pay attention to the time and date associated with a CRN so that you take the correct course recommended by your academic advisor or program director."
+
+  utter_studentscourseschedulesdescriptionsclasstimescontactquestions:
+  - text: "Students should email katz@yu.edu or call (646) 592-4753."
+
+  utter_katzschoolnewstudentorientation:
+  - text: "The Katz School�s New Student Orientation is scheduled close to the start of the semester."
+
+  utter_studentscontactorientationrelatedquestions:
+  - text: "Students should contact katz@yu.edu with any orientation-related questions."
+
+  utter_socialmediaplatformsstudentskatzschoolfollow:
+  - text: "Students can follow the Katz School on LinkedIn, Instagram, Facebook, and their blog."
+
+  utter_katzschoolstudentshelpfulcontacts:
+  - text: "Some helpful contacts for students at the Katz School include the Director of Graduate Student Life and Community Engagement, the Office of International Services, the Office of Student Finance, the Office of the Registrar, program advisors, and the Graduate Admissions team."
+
+  utter_msartificialintelligenceapplications:
+  - text: " Students in the program can work on applications in finance, biotech, cybersecurity, ad-tech, and health care, among others."
+
+  utter_msartificialintelligenceskillsknowledge:
+  - text: " Students will gain skills and knowledge in AI theory, research, technologies, ethical standards, as well as designing and building AI applications in various domains."
+
+  utter_msartificialintelligencejobopportunities:
+  - text: " Graduates can pursue careers in research and development groups, product design labs, innovative startups, and Ph.D. programs, with job titles such as AI engineer, data scientist, machine learning engineer, and business intelligence developer."
+
+  utter_yeshivauniversitymsartificialintelligence:
+  - text: " Yes, through the B.A./M.S. Pathways option, undergraduate students from Yeshiva College, Stern College for Women, and the Sy Syms School of Business can take up to 12 graduate credits that count toward both their bachelor's and master's degrees."
+
+  utter_msartificialintelligenceinternshipspracticaltrainingopportunities:
+  - text: " Yes, students have the opportunity to gain industry experience through internships at major companies, startups, and the YU Innovation Lab, and the program is STEM-approved, allowing international students to be eligible for up to 36 months of Optional Practical Training (OPT)."
+
+  utter_msbiotechnologymanagemententrepreneurshipgoal:
+  - text: " The goal of the M.S. in Biotechnology Management and Entrepreneurship program is to provide students with the scientific, technical, and business knowledge needed to launch, manage, scale, and commercialize biotechnology innovations and delivery systems."
+
+  utter_biotechfellowsstudents:
+  - text: " The Biotech Fellows program provides students with industry mentorship, the opportunity to showcase and publish their research at the Katz School's annual Symposium on Science, Technology and Health, and a scholarship reducing total tuition to $25K for the entire graduate degree."
+
+  utter_bamspathwaysoptionyeshivacollegesterncollegeforwomen:
+  - text: " Yes, undergraduate students from Yeshiva College and Stern College for Women can pursue the B.A./M.S. Pathways option, which allows them to take up to nine graduate credits that count toward both their bachelor's and master's degrees."
+
+  utter_msbiotechnologymanagemententrepreneurshipinternships:
+  - text: " Yes, students in the Master's in Biotechnology Management and Entrepreneurship program have the opportunity to gain industry experience through internships in major companies, startups, and the YU Innovation Lab. These internships count toward their degree."
+
+  utter_msbiotechnologymanagemententrepreneurshipstemapproved:
+  - text: " Yes, the Master's in Biotechnology Management and Entrepreneurship program is STEM-approved, which means that international students may be eligible for up to 36 months of Optional Practical Training (OPT) after completing their degree. The program also offers opportunities for Curricular Practical Training (CPT)."
+
+  utter_mscybersecurityskills:
+  - text: "In the master's in cybersecurity program at the Katz School, you will develop the technological and managerial expertise to plan, implement, upgrade, monitor, and audit cybersecurity protocols and procedures."
+
+  utter_mscybersecurityrealworldchallenges:
+  - text: "The master's in cybersecurity program at the Katz School provides hands-on experience with threat mitigation, detection, and defense, allowing students to gain practical skills and knowledge to tackle real-world cybersecurity challenges."
+
+  utter_mscybersecurityresearchindustryprojects:
+  - text: "Yes, as a student in the master's in cybersecurity program at the Katz School, you can join the Tech Fellows program, where you will have the opportunity to work on pioneering research, citywide initiatives, and new technologies that contribute to making the world smarter, safer, and healthier."
+
+  utter_mscybersecuritykatzschool:
+  - text: "Yes, through the B.A./M.S. Pathways option, undergraduate students from Yeshiva College and Stern College for Women can take up to nine graduate credits that count toward both their bachelor's and master's degrees, allowing them to complete their graduate degree in just one more year."
+
+  utter_mscybersecurityinternships:
+  - text: "Yes, international students in the master's in cybersecurity program at the Katz School can participate in internships that count toward their degree, providing them with valuable industry experience. Additionally, the program is STEM-approved, allowing eligible international students to potentially qualify for up to 36 months of Optional Practical Training (OPT)."
+
+  utter_msdataanalyticsvisualizationskills:
+  - text: "In the M.S. in Data Analytics and Visualization program, you will learn skills such as transforming raw data into insightful output, mastering predictive and exploratory analyses, creating visualizations and data narratives, and using tools like Python, SQL/NoSQL, Tableau, AWS, and AutoML."
+
+  utter_msdataanalyticsvisualizationstudents:
+  - text: "The M.S. in Data Analytics and Visualization program offers industry mentorship, opportunities to showcase and publish research, generous scholarships and financial aid, and the chance to gain real-world predictive and analytical skills in the heart of New York City."
+
+  utter_bamspathwaysoptionthemsdataanalyticsvisualizationyeshivacollegesterncollegeforwomen:
+  - text: "Yes, undergraduate students from Yeshiva College and Stern College for Women can take up to nine graduate credits that count toward both their bachelor's and master's degrees in the M.S. in Data Analytics and Visualization program."
+
+  utter_msdataanalyticsvisualizationinternships:
+  - text: "Yes, students in the M.S. in Data Analytics and Visualization program have the opportunity to gain industry experience through internships that count toward their degree. Recent internships have been offered at companies such as Standard & Poor's, American Eagle Outfitters, and IBM."
+
+  utter_msdataanalyticsvisualizationstemapproveddegree:
+  - text: "Yes, the M.S. in Data Analytics and Visualization program at Yeshiva University is a STEM-approved degree. This means that international students may be eligible for up to 36 months of Optional Practical Training (OPT) and there are opportunities for Curricular Practical Training (CPT) as well."
+
+  utter_msdigitalmarketingmediaskills:
+  - text: "The M.S. in Digital Marketing and Media program will equip you with essential media, design, communication, behavioral, analytical, technical, and research skills."
+
+  utter_msdigitalmarketingmediacompletiontime:
+  - text: "The M.S. in Digital Marketing and Media program can be completed in either one year or 15 months, depending on your preferred schedule (full-time, part-time, or weekends)."
+
+  utter_msdigitalmarketingmediastrategies:
+  - text: "The M.S. in Digital Marketing and Media program covers strategies for social media, SEM, SEO, mobile, email, content, and video marketing."
+
+  utter_msdigitalmarketingmediainternships:
+  - text: "Yes, the M.S. in Digital Marketing and Media program offers internships in major companies, startups, and the YU Innovation Lab, providing valuable industry experience."
+
+  utter_msdigitalmarketingmediainternationalstudents:
+  - text: "Yes, international students can enroll in the M.S. in Digital Marketing and Media program and may be eligible for up to 36 months of Optional Practical Training (OPT) and Curricular Practical Training (CPT) opportunities."
+
+  utter_mamathematicscareerprospectsforgraduates:
+  - text: " Graduates of the M.A. in Mathematics program at Yeshiva University can pursue careers in finance, technology, biomedicine, data analysis, and academia, among others."
+
+  utter_mamathematicsadmissionrequirementsapplicationprocess:
+  - text: " The program provides students with a solid foundation in advanced mathematics, as well as skills in mathematical modeling, numerical applications, and data analysis, making them competitive in an ever-shifting job market."
+
+  utter_mamathematicsresearchopportunities:
+  - text: " Yes, students in the program have the opportunity to engage in research in various areas such as dynamics, applied noncommutative geometry, differential geometry, and quantum algorithms for quantum computers."
+
+  utter_yeshivauniversitymathematicsbamapathway:
+  - text: " Yes, YU undergraduates can take up to 12 graduate credits that count toward both their bachelor's and master's degrees, allowing them to complete the M.A. in Mathematics in just one more year after completing their bachelor's."
+
+  utter_mamathematicsscholarships:
+  - text: " Yes, generous scholarships and financial aid are available for a limited time, reducing the total tuition to $25K for the entire graduate degree."
+
+  utter_phdmathematicalsciencesyeshivauniversity:
+  - text: " The program emphasizes complex systems, including financial markets, biological systems, quantum materials, and more."
+
+  utter_phdmathematicsapplicationdeadlineadmissionteam:
+  - text: " The program offers three tracks: three years for students with 60 credits, four years for students with 30 credits, and five years for students with no previous graduate coursework."
+
+  utter_phdmathematicscareeropportunities:
+  - text: " Graduates are prepared for careers as research mathematicians, university professors, or applied mathematicians in business, industry, or government."
+
+  utter_mathematicsinternshipopportunitiesforphdstudents:
+  - text: " Yes, students have the opportunity to gain industry experience through internships in major companies, startups, and the YU Innovation Lab in New York City."
+
+  utter_phdmathematicsacceptanceratecompetitiveness:
+  - text: " Yes, the program is STEM-approved, and international students may be eligible for up to 36 months of Optional Practical Training (OPT)."
+
+  utter_occupationaltherapydoctoratekatzschool:
+  - text: " The program focuses on occupation-based practice, community health, resilience, and well-being."
+
+  utter_occupationaltherapydoctoratefuturecareers:
+  - text: " The program provides hands-on experience in fully functional OT labs, where students can gain practical skills and work with specialized equipment."
+
+  utter_occupationaltherapydoctorateothersthenewyorkmetropolitanarea:
+  - text: " The program is the first fully accredited entry-level OT doctoral program in the New York metropolitan area, offering comprehensive training for scholar-practitioners."
+
+  utter_occupationaltherapydoctorateinterprofessionallearning:
+  - text: " Students have the opportunity to collaborate with students and faculty from multiple departments within the YU community, fostering inter-professional learning experiences."
+
+  utter_occupationaltherapydoctoratecareerprospects:
+  - text: " Graduates of the program are in high demand, as occupational therapy is ranked in the top 20 in U.S. News & World Report's Top Health Care Jobs."
+
+  utter_physicianassistantshealthcarefield:
+  - text: "Physician Assistants (PAs) are medical professionals who diagnose disease, develop and implement treatment plans, perform surgical procedures, prescribe medications and often serve as a patient�s principal health care provider."
+
+  utter_physicianassistantsmedicaltraining:
+  - text: "PAs complete thousands of hours of medical training to become versatile and collaborative clinicians."
+
+  utter_physicianassistantspracticelocations:
+  - text: "PAs practice nationwide, improving patient access to high-quality health care in medical and surgical settings."
+
+  utter_physicianassistantsresponsibilities:
+  - text: "Physician Assistants diagnose disease, develop and implement treatment plans, perform surgical procedures, and prescribe medications."
+
+  utter_physicianassistantsprimaryhealthcareprovider:
+  - text: "Yes, Physician Assistants often serve as a patient's principal health care provider."
+
+  utter_maphysicsareasofspecialization:
+  - text: " YU's M.A. in Physics specializes in classical and quantum information, mechanical, optical, and electronic materials behavior, propagation of waves, biological matter, dynamics, statistical thermodynamics, and hardware and software development."
+
+  utter_maphysicscareeropportunities:
+  - text: " Graduates of YU's M.A. in Physics program can pursue careers in academia, industry, teaching, finance, entrepreneurship, engineering, business, finance, and medicine."
+
+  utter_yusmaphysicshightechnologyfield:
+  - text: " YU's M.A. in Physics program provides students with robust knowledge of computer software and hardware development, which helps them secure rewarding jobs in the high-technology field, including developing their own high-tech startups."
+
+  utter_acceleratedpathwaymsphysics:
+  - text: " Yes, through the B.A./M.A. option, YU undergraduates can take up to 12 graduate credits that count toward both their bachelor's and master's degrees, allowing them to complete their master's in just one more year after their bachelor's."
+
+  utter_yusmaphysicsinternshipspracticaltraining:
+  - text: " Yes, YU's M.A. in Physics program offers internships in major companies, startups, and the YU Innovation Lab in New York and elsewhere, which count toward the degree. International students may also be eligible for up to 36 months of Optional Practical Training (OPT) and several opportunities for Curricular Practical Training (CPT)."
+
+  utter_msspeech-languagepathologyrankingsandreputation:
+  - text: " The M.S. in Speech-Language Pathology program at Yeshiva University stands out due to its specialization in the medical aspects of speech-language pathology, offering a multidisciplinary approach to diagnosing and treating speech, language, swallowing, and communication cases across the lifespan."
+
+  utter_programspeechlanguagepathology:
+  - text: " The program provides students with four clinical externships, training in conducting telehealth sessions, and clinical experience under the guidance of faculty, supervisors, and mentors. Students also gain proficiency in utilizing technology, such as endoscopy, electrical stimulation, and ultrasound, for diagnosing voice, speech, and swallowing disorders. Additionally, they develop counseling skills to support families facing challenging diagnoses."
+
+  utter_speechlanguagepathologyprofessionaldevelopmentopportunities:
+  - text: " Students have the opportunity to attend professional conferences, contribute to scholarly publications, and integrate evidence-based practice into their clinical work. This allows them to stay updated with the latest research and advancements in the field."
+
+  utter_msspeechlanguagepathologycareerprospectsearningpotential:
+  - text: " Graduates of the program can pursue careers as healthcare practitioners dedicated to improving the quality of life, health, and wellness for individuals of all ages. According to a 2019 ASHA annual salary report, speech-language pathology salaries range from $66,000 to $100,000 based on experience. Additionally, job opportunities in the field are expected to grow 25 percent until 2029, which is much faster than the average for all occupations, according to the U.S. Bureau of Labor Statistics."
+
+  utter_msspeech-languagepathologyopportunitiesjobplacement:
+  - text: " Yes, the Master of Science (M.S.) education program in speech-language pathology at Yeshiva University is accredited by the Council on Academic Accreditation in Audiology and Speech-Language Pathology of the American Speech-Language-Hearing Association. This accreditation ensures that the program meets the highest standards of quality and prepares students for licensure and certification in the field."
+
+  utter_artificialintelligencefaculty:
+  - text: "The faculty of the artificial intelligence program are Pablo Roldan, Marian Gidea, Peter Nandori, and Youshan Zhang."
+
+  utter_pabloroldan:
+  - text: "Pablo Roldan is a faculty member of the Artificial Intelligence program in Katz school. For more details, refer to the website 'https://www.yu.edu/faculty/pages/roldan-pablo'."
+
+  utter_mariangidea:
+  - text: "Marian Gidea is a faculty member of the Artificial Intelligence program in Katz school. For more details, refer to the website 'https://www.yu.edu/faculty/pages/gidea-marian'."
+
+  utter_peternandori:
+  - text: "Peter Nandori is a faculty member of the Artificial Intelligence program in Katz school. For more details, refer to the website 'https://www.yu.edu/faculty/pages/nandori-peter'."
+
+  utter_youshanzhang:
+  - text: "Youshan Zhang is a faculty member of the Artificial Intelligence program in Katz school. For more details, refer to the website 'https://youshanzhang.github.io/'."
+
+  utter_biotechnologymanagemententrepreneurshipfaculty:
+  - text: "The faculty of biotechnology management and entrepreneurship program are Rana Khan, Robert Frdiman, and J.D Brian Malkin."
+
+  utter_ranakhan:
+  - text: "Rana Khan is the faculty of Biotechnology Management and Entrepreneurship program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/khan-rana'"
+
+  utter_robertfrdiman:
+  - text: "Robert Frdiman is the faculty of Biotechnology Management and Entrepreneurship program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/friedman-robert'"
+
+  utter_jdbrianmalkin:
+  - text: "J.D Brian Malkin is the faculty of Biotechnology Management and Entrepreneurship program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/malkin-brian'"
+
+  utter_mathematicsfaculty:
+  - text: "The faculty of the mathematics program are Edward Belbruno, Wenxiong Chen, Michael Dalezman, Avi Gilon, and Antonella Marini."
+
+  utter_edwardbelbruno:
+  - text: "Edward Belbruno is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/belbruno-edward'"
+
+  utter_wenxiongchen:
+  - text: "Wenxiong Chen is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/chen-wenxiong'"
+
+  utter_michaeldalezman:
+  - text: "Michael Dalezman is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/dalezman-michael'"
+
+  utter_avigilon:
+  - text: "Avi Gilon is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/giloni-avi'"
+
+  utter_antonellamarini:
+  - text: "Antonella Marini is the faculty of the mathematics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/marini-antonella'"
+
+  utter_occupationaltherapyfaculty:
+  - text: "The faculty of occupational therapy program are Mindy Garfinkel, Amiya Waldman-Levi, Zesarae Bodie, and Alexandra Wagner."
+
+  utter_mindygarfinkel:
+  - text: "Mindy Garfinkel is the faculty of Occupational Therapy program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/garfinkel-mindy'"
+
+  utter_amiyawaldmanlevi:
+  - text: "Amiya Waldman-Levi is the faculty of Occupational Therapy program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/waldman-levi-amiya'"
+
+  utter_zesaraebodie:
+  - text: "Zesarae Bodie is the faculty of Occupational Therapy program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/bodie-zesarae'"
+
+  utter_alexandrawagner:
+  - text: "Alexandra Wagner is the faculty of Occupational Therapy program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/wagner-alexandra'"
+
+  utter_physicalassistantstudiesfaculty:
+  - text: "The faculty of physical assistant studies program are Sharon Verity, Fayrose Abodeshisha, and Dwayne Williams."
+
+  utter_sharonverity:
+  - text: "Sharon Verity is a faculty member of the Physical Assistant Studies program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/verity-sharon'"
+
+  utter_fayroseabodeshisha:
+  - text: "Fayrose Abodeshisha is a faculty member of the Physical Assistant Studies program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/abodeshisha-fayrose'"
+
+  utter_dwaynewilliams:
+  - text: "Dwayne Williams is a faculty member of the Physical Assistant Studies program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/williams-dwayne'"
+
+  utter_physicsfaculty:
+  - text: "The faculty of the physics program are Fredy Zypman, Neer Asherie, Sergey Buldyrev, Gabriel Cwilich, Ran Drori, Mark Edelman, Lea Ferreira dos Santos, and Emil Prodan."
+
+  utter_fredyzypman:
+  - text: "Fredy Zypman is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/zypman-fredy'"
+
+  utter_neerasherie:
+  - text: "Neer Asherie is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/asherie-neer'"
+
+  utter_sergeybuldyrev:
+  - text: "Sergey Buldyrev is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/buldyrev-sergey'"
+
+  utter_gabrielcwilich:
+  - text: "Gabriel Cwilich is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/cwilich-gabriel'"
+
+  utter_randrori:
+  - text: "Ran Drori is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/drori-ran'"
+
+  utter_markedelman:
+  - text: "Mark Edelman is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/edelman-mark'"
+
+  utter_leaferreiradossantos:
+  - text: "Lea Ferreira dos Santos is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/santos-lea'"
+
+  utter_emilprodan:
+  - text: "Emil Prodan is a faculty member of the physics program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/prodan-emil'"
+
+  utter_speechlanguagepathologyfaculty:
+  - text: "The faculty of the speech-language pathology program are Marissa Barrera, Andrew Christler, Troy Clifford Dargin, Michaela Medved, and Elisabeth Mlawski."
+
+  utter_marissabarrera:
+  - text: "Marissa Barrera is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/barrera-marissa'"
+
+  utter_andrewchristler:
+  - text: "Andrew Christler is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/christler-andrew'"
+
+  utter_troyclifforddargin:
+  - text: "Troy Clifford Dargin is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/dargin-troy'"
+
+  utter_michaelamedved:
+  - text: "Michaela Medved is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/medved-michaela'"
+
+  utter_elisabethmlawski:
+  - text: "Elisabeth Mlawski is a faculty member of the speech-language pathology program. For more details, refer to the website 'https://www.yu.edu/faculty/pages/mlawski-elisabeth'"
