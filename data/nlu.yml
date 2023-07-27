@@ -1,0 +1,2054 @@
+version: "3.1"
+
+nlu:
+    
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - good morning
+    - good evening
+
+- intent: goodbye
+  examples: |
+    - bye
+    - goodbye
+    - see you later
+    - take care
+    - have a nice day
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - ya
+    - sure
+    - correct
+    - that's right
+
+- intent: deny
+  examples: |  
+    - no
+    - n
+    - nope
+    - never
+    - I don't think so
+
+- intent: thank
+  examples: |
+    - thanks
+    - thank you
+    - thank you so much  
+    - thanks a lot
+    - I appreciate it
+    - that was helpful
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    
+- intent: admissionrequirementsapplicationprocess
+  examples: |
+    - What are the admission requirements and how do I apply?
+    - What are the prerequisites for admission and what is the application process?
+    - What qualifications do I need to meet in order to apply, and how can I submit my application?
+    - What are the criteria for admission, and what steps do I need to take to apply?
+    - What are the necessary documents and qualifications needed for admission, and how can I apply?
+    - What are the admission requirements, and what is the procedure for submitting an application?
+    - What qualifications and documents are needed for admission, and what is the application procedure?
+    - What are the prerequisites for admission, and what is the process for applying?
+    - What are the admission criteria, and how can I go about applying?
+    - What qualifications and documents do I need to provide for admission, and how do I apply?
+    - What are the requirements for admission, and what steps do I need to follow to apply?
+
+- intent: programscurriculumresearchopportunities
+  examples: |
+    - What are the program's curriculum and research opportunities?
+    - Can you provide information about the curriculum and research opportunities offered by the program?
+    - What does the program's curriculum consist of and what research opportunities are available?
+    - Could you please elaborate on the curriculum and research options provided by the program?
+    - What kind of curriculum does the program offer and what research opportunities can students pursue?
+    - Can you give me an overview of the program's curriculum and the research opportunities it provides?
+    - What are the specific courses included in the program's curriculum and what research opportunities are available to students?
+    - How does the program's curriculum align with research opportunities for students?
+    - Are there any unique or specialized research opportunities offered within the program's curriculum?
+    - Can you explain how the program's curriculum integrates research opportunities for students?
+    - What resources or support does the program provide to students interested in research within the curriculum?
+
+- intent: costoftheprogramscholarshipsfinancialaidoptions
+  examples: |
+    - What is the cost of the program, and are there any scholarships or financial aid options available?
+    - How much does the program cost?
+    - Are there any scholarships available for the program?
+    - Are there any financial aid options for the program?
+    - What is the price of the program?
+    - Are there any grants or funding opportunities for the program?
+    - Can I apply for financial assistance for the program?
+    - Are there any tuition discounts or waivers for the program?
+    - How can I find out about the program's cost?
+    - Are there any payment plans or installment options for the program?
+    - Are there any bursaries or sponsorships available for the program?
+
+- intent: applicationdeadlineadmissionteam
+  examples: |
+    - What is the application deadline, and when can I expect to hear back from the admission team?
+    - When is the deadline to submit my application?
+    - What is the last date to apply for admission?
+    - Can you please provide me with the application deadline?
+    - When do I need to submit my application by?
+    - What is the final date to apply for admission?
+    - When is the cutoff for submitting applications?
+    - By when should I complete my application?
+    - What is the deadline for admission applications?
+    - When is the last day to apply for admission?
+    - Can you please let me know the application submission deadline?
+
+- intent: acceptancerateprogram
+  examples: |
+    - What is the acceptance rate for the program, and how competitive is it?
+    - How difficult is it to get accepted into the program?
+    - What is the level of competition for admission into the program?
+    - Can you provide information on the program's acceptance rate?
+    - How many applicants are typically accepted into the program?
+    - Is the program highly competitive in terms of admissions?
+    - What percentage of applicants are admitted into the program?
+    - How selective is the program in terms of accepting students?
+    - Are there any specific criteria or requirements for admission into the program?
+    - How does the program's acceptance rate compare to other similar programs?
+    - What factors contribute to the program's competitiveness in terms of admissions?
+
+- intent: programsrankingsreputation
+  examples: |
+    - What are the program's rankings and reputation?
+    - How does the program rank compared to other similar programs?
+    - What is the reputation of the program among students and professionals?
+    - Are there any rankings or ratings available for the program?
+    - How does the program's reputation compare to other programs in the same field?
+    - What are the program's rankings in terms of job placement and alumni success?
+    - Has the program received any recognition or awards for its quality?
+    - Are there any notable achievements or accolades associated with the program?
+    - How does the program's reputation impact its graduates' career prospects?
+    - Are there any industry or professional organizations that endorse or recognize the program?
+    - What do current and former students say about the program's rankings and reputation?
+
+- intent: opportunitiesinternshipscoopprogramsjobplacementgraduation
+  examples: |
+    - What are the opportunities for internships, co-op programs, and job placement after graduation?
+    - Are there any internship opportunities available for students?
+    - Can you provide information about co-op programs offered by the university?
+    - What kind of job placement assistance is provided to graduates?
+    - Are there any specific industries or companies that the university has partnerships with for internships and job placements?
+    - How successful are graduates in finding employment after graduation?
+    - Are there any specific requirements or qualifications for internships and co-op programs?
+    - Can you provide examples of companies where previous graduates have been placed?
+    - Are there any networking events or career fairs organized by the university to connect students with potential employers?
+    - What resources or support does the university offer to help students secure internships and job placements?
+    - Are there any alumni networks or mentorship programs available to assist students in their career development?
+
+- intent: studentfacultyratioprofessorsstudents
+  examples: |
+    - What is the student-faculty ratio and how accessible are professors to students?
+    - How does the student-faculty ratio at this institution compare to others?
+    - Are professors readily available to meet with students outside of class?
+    - What is the average class size and how does it impact student-faculty interaction?
+    - Can students easily schedule appointments with professors for academic support?
+    - How often do professors hold office hours for students to seek assistance?
+    - Is there a mentoring program in place to foster relationships between students and faculty?
+    - Are professors approachable and open to answering questions during lectures?
+    - What measures does the university take to ensure professors are accessible to students?
+    - Are there any limitations or restrictions on the amount of time students can spend with professors?
+    - How does the accessibility of professors contribute to the overall learning experience for students?
+
+- intent: campuslifeextracurricularactivities
+  examples: |
+    - What is the campus life like, and what extracurricular activities are available?
+    - How would you describe the campus life at your university?
+    - Can you tell me about the extracurricular activities offered on campus?
+    - What is the social scene like on campus?
+    - Are there any clubs or organizations that students can join?
+    - What kind of sports teams are available for students to participate in?
+    - Are there any cultural or arts-related activities on campus?
+    - Can you provide some examples of the extracurricular activities that students are involved in?
+    - How active and engaged are students in extracurricular activities?
+    - Are there any leadership opportunities available through extracurricular activities?
+    - What kind of events or programs are organized by the university outside of academics?
+
+- intent: depositspot
+  examples: |
+    - Do I have to pay a deposit to secure my spot?
+    - Is a deposit required to reserve my spot?
+    - Do I need to make a deposit to secure my place?
+    - Is there a deposit fee to guarantee my spot?
+    - Do I have to pay a deposit in order to hold my reservation?
+    - Is a deposit necessary to confirm my spot?
+    - Will I be asked to provide a deposit to secure my place?
+    - Do I need to put down a deposit to ensure my spot is reserved?
+    - Is a deposit payment required to guarantee my reservation?
+    - Will I have to pay a deposit to secure my spot in the program?
+    - Do I need to make a deposit in order to hold my spot?
+
+- intent: programtime
+  examples: |
+    - How long does the program take?
+    - What is the duration of the program?
+    - How much time does the program require?
+    - Can you tell me the time frame for the program?
+    - How long is the program expected to last?
+    - What is the estimated duration of the program?
+    - Do you have any idea about the program's time duration?
+    - Can you provide information on the program's time requirement?
+    - How much time should I allocate for the program?
+    - What is the expected time commitment for the program?
+    - Can you give me an estimate of how long the program will take?
+
+- intent: processforobtainingitime
+  examples: |
+    - What is the process for obtaining I-20? How long will it take?
+    - How can I obtain an I-20?
+    - What steps do I need to follow to get an I-20?
+    - Is there a specific procedure for obtaining an I-20?
+    - How much time does it usually take to obtain an I-20?
+    - Can you provide information on the process of obtaining an I-20?
+    - What documents are required to obtain an I-20?
+    - Are there any specific requirements or criteria for obtaining an I-20?
+    - How long does it typically take to receive an I-20 after applying?
+    - Can you give an estimate of the time it takes to complete the I-20 application process?
+    - Are there any specific forms or applications that need to be filled out to obtain an I-20?
+
+- intent: resourcesorsupportinternationalstudentsculturaladjustment
+  examples: |
+    - Are there any resources or support available to international students for cultural adjustment?
+    - What kind of resources are available to international students for cultural adjustment?
+    - Are there any support services specifically designed for international students to help them with cultural adjustment?
+    - How can international students access resources or support for cultural adjustment?
+    - Are there any organizations or clubs on campus that provide assistance to international students for cultural adjustment?
+    - What steps does the university take to ensure international students have a smooth cultural adjustment process?
+    - Are there any workshops or programs offered to international students to help them with cultural adjustment?
+    - Are there any counseling services available to international students who are struggling with cultural adjustment?
+    - Are there any online resources or forums where international students can seek advice or support for cultural adjustment?
+    - Are there any mentors or peer support programs available to international students for cultural adjustment?
+    - Are there any financial resources or scholarships available to international students to help with their cultural adjustment process?
+
+- intent: housingoptionsinternationalstudents
+  examples: |
+    - What are the housing options for international students, and how do I secure housing?
+    - What types of housing are available for international students?
+    - How can international students find housing options?
+    - Are there specific housing options tailored for international students?
+    - What steps should I take to secure housing as an international student?
+    - Are there any resources or websites that can help me find housing as an international student?
+    - Can you provide information on the process of securing housing for international students?
+    - Are there any specific requirements or documents needed to secure housing as an international student?
+    - What are the typical costs associated with housing for international students?
+    - Are there any specific deadlines or timelines to consider when securing housing as an international student?
+    - Can you provide any tips or advice for international students looking for housing options?
+
+- intent: programsorresourcesinternationalstudentsenglishlanguageskills
+  examples: |
+    - Are there any programs or resources available to help international students improve their English language skills?
+    - Are there any specific programs designed to assist international students in enhancing their English language proficiency?
+    - What resources are available to support international students in improving their English language skills?
+    - Are there any language programs offered specifically for international students to enhance their English proficiency?
+    - Are there any initiatives or services aimed at helping international students develop their English language abilities?
+    - What options are there for international students seeking assistance in improving their English language skills?
+    - Are there any specific resources or tools available to aid international students in enhancing their English proficiency?
+    - Are there any programs or services dedicated to supporting international students in their English language development?
+    - What kind of assistance is provided to international students who want to improve their English language skills?
+    - Are there any language courses or workshops available for international students to improve their English proficiency?
+    - Are there any organizations or institutions that offer support to international students in their English language learning journey?
+
+- intent: internationalstudentsrestrictionsworkingoncampusworkingoffcampusstudies
+  examples: |
+    - Are there any restrictions on international students working on or off-campus during their studies?
+    - What are the limitations for international students when it comes to working on or off-campus during their studies?
+    - Are there any specific rules or regulations that international students need to follow regarding employment while studying?
+    - Can international students work both on and off-campus during their studies?
+    - Are there any restrictions on the number of hours international students can work while studying?
+    - What are the guidelines for international students who want to work off-campus during their studies?
+    - Are there any limitations on the type of jobs international students can have while studying?
+    - Do international students need to obtain any special permits or visas to work on or off-campus during their studies?
+    - Are there any restrictions on the duration of employment for international students during their studies?
+    - Are there any specific requirements or qualifications that international students need to meet in order to work on or off-campus?
+    - Can international students work full-time or part-time while studying?
+
+- intent: facultyprogramresearchinterestspublications
+  examples: |
+    - Can you provide information about the faculty in my program, their research interests, and their publications?
+    - Could you give me details about the faculty members in my program?
+    - What are the research interests of the faculty in my program?
+    - Can you provide information about the publications of the faculty in my program?
+    - Who are the professors in my program and what are their areas of expertise?
+    - Could you tell me about the research projects the faculty in my program are currently working on?
+    - What are the academic qualifications of the faculty members in my program?
+    - Can you provide a list of the publications authored by the faculty in my program?
+    - Who are the notable researchers in my program and what are their notable contributions?
+    - Could you give me an overview of the faculty members' backgrounds and experiences in my program?
+    - What are the recent achievements or awards received by the faculty in my program?
+
+- intent: currentstudentsoralumniprogram
+  examples: |
+    - Can you connect me with current students or alumni in my program who I can talk to and learn from?
+    - Is there a way for me to get in touch with current students or alumni in my program?
+    - Are there any opportunities for me to connect with current students or alumni in my field of study?
+    - Can you provide me with contacts of current students or alumni who can share their experiences with me?
+    - Is there a mentorship program that connects students with alumni in my program?
+    - How can I find and connect with current students or alumni who can offer insights and guidance?
+    - Are there any networking events or platforms where I can connect with current students or alumni in my program?
+    - Can you recommend any specific individuals who would be willing to talk to me and share their knowledge?
+    - Is there a directory or database available that lists current students or alumni in my program?
+    - Are there any online communities or forums where I can interact with current students or alumni in my field?
+    - Can you facilitate introductions between me and current students or alumni who can provide valuable insights?
+
+- intent: jobopportunitiesoncampusoffcampusstudentsfind
+  examples: |
+    - What kind of on-campus or off-campus job opportunities are available to students, and how can I find them?
+    - Are there any job opportunities available for students on campus?
+    - What are the job opportunities available for students off campus?
+    - How can I find on-campus job opportunities for students?
+    - Where can I find off-campus job opportunities for students?
+    - Are there any part-time job opportunities available for students?
+    - What are the different types of job opportunities available for students?
+    - How can I search for job opportunities specifically for students?
+    - Are there any internships available for students?
+    - Can you provide information on job fairs or career events for students?
+    - Are there any resources or websites that can help me find job opportunities for students?
+
+- intent: entityspecificrequirementsentitiesinternationalstudentshealthinsurance
+  examples: |
+    - Are there any specific requirements for international students, such as health insurance?
+    - Do international students have to meet any specific requirements, like having health insurance?
+    - Are there any special requirements that international students need to fulfill, such as having health insurance?
+    - What are the specific requirements for international students, particularly in terms of health insurance?
+    - Are international students required to have health insurance as part of their specific requirements?
+    - Do international students need to meet any specific criteria, like having health insurance?
+    - Are there any specific prerequisites for international students, such as having health insurance?
+    - What are the specific obligations for international students, particularly regarding health insurance?
+    - Are international students expected to have health insurance as a specific requirement?
+    - Do international students have any specific mandates, like having health insurance?
+    - What are the specific conditions for international students, especially in relation to health insurance?
+
+- intent: campuscommunityareahousingtransportationlocalattractions
+  examples: |
+    - Can you provide information about the community and the area surrounding the campus, such as housing, transportation, and local attractions?
+    - What kind of housing options are available near the campus?
+    - Are there any public transportation options available in the area?
+    - Can you tell me about the local attractions near the campus?
+    - What are the transportation facilities like in the community surrounding the campus?
+    - Are there any specific neighborhoods or areas recommended for students to live in?
+    - Can you provide details about the housing costs in the community surrounding the campus?
+    - What are some popular local attractions that students often visit?
+    - Are there any specific transportation discounts or passes available for students?
+    - Can you recommend any affordable housing options near the campus?
+    - Are there any notable landmarks or tourist spots near the campus?
+
+- intent: academicandcareersupportservicestutoringwritingcenterscareercounseling
+  examples: |
+    - What kind of academic and career support services are available to students, such as tutoring, writing centers, or career counseling?
+    - Are there any tutoring services available for students?
+    - Is there a writing center on campus?
+    - What kind of career support services are provided to students?
+    - Are there any counseling services available for career guidance?
+    - Are there any academic support services available for students?
+    - Can students receive help with writing assignments?
+    - Is there any tutoring available for specific subjects?
+    - Are there any resources available for students seeking career advice?
+    - Are there any workshops or programs available for career development?
+    - Can students receive assistance with resume writing and job search strategies?
+
+- intent: researchfacilitieslabsequipmentstudentsprogram
+  examples: |
+    - What kind of research facilities, labs, or equipment are available to students in my program?
+    - Are there any research facilities specifically dedicated to students in my program?
+    - What types of labs are accessible to students in my program?
+    - Are there any specialized equipment available for students in my program?
+    - Can you provide information about the research facilities and labs that students in my program can utilize?
+    - What kind of research equipment is provided to students in my program?
+    - Are there any restrictions on accessing research facilities or labs for students in my program?
+    - Can you elaborate on the available research facilities and labs for students in my program?
+    - Are there any limitations on the usage of equipment by students in my program?
+    - What resources are available for students in my program to conduct research?
+    - Can you provide a comprehensive list of research facilities, labs, and equipment accessible to students in my program?
+
+- intent: researchprojectsprogramrelatedfields
+  examples: |
+    - Can you tell me about any recent or ongoing research projects in my program or related fields?
+    - Are there any current research projects happening in my program or related fields?
+    - Can you provide information on any ongoing research projects in my program or related fields?
+    - What are some recent research projects that have been conducted in my program or related fields?
+    - Are there any notable research projects happening right now in my program or related fields?
+    - Can you give me an update on the latest research projects in my program or related fields?
+    - Are there any research projects that have recently been completed in my program or related fields?
+    - Can you share any information on the most recent research projects in my program or related fields?
+    - What are some current research initiatives in my program or related fields?
+    - Can you provide details on any ongoing research studies in my program or related fields?
+    - Are there any notable research endeavors taking place in my program or related fields?
+
+- intent: networkingeventsoropportunitiesstudentsinmyprogram
+  examples: |
+    - What kind of networking events or opportunities are available to students in my program?
+    - Are there any networking events specifically designed for students in my program?
+    - What are some networking opportunities that students in my program can take advantage of?
+    - Are there any industry-specific networking events for students in my program?
+    - Can you provide information on networking events or organizations that cater to students in my program?
+    - Are there any mentorship programs or networking initiatives available for students in my program?
+    - What are some ways for students in my program to connect with professionals in the industry?
+    - Are there any online networking platforms or communities for students in my program?
+    - Are there any alumni networking events or programs for students in my program?
+    - Can you recommend any networking strategies or tips for students in my program?
+    - Are there any networking workshops or seminars offered to students in my program?
+
+- intent: campussafetyandsecuritymeasuresinformation
+  examples: |
+    - Can you provide information about the campus safety and security measures?
+    - What safety measures are in place on campus?
+    - How does the university ensure the safety of its students and staff?
+    - Are there security personnel present on campus?
+    - Can you tell me about the campus security systems?
+    - What steps does the university take to prevent crime on campus?
+    - Are there emergency response protocols in place on campus?
+    - How does the university handle incidents of theft or vandalism?
+    - Are there any safety training programs available for students?
+    - Can you provide information about the campus surveillance systems?
+    - What resources are available to students for reporting safety concerns?
+
+- intent: prerequisitesorrecommendedcoursesprogram
+  examples: |
+    - Are there any prerequisites or recommended courses for my program, and how can I fulfill them if necessary?
+    - What are the prerequisites for my program?
+    - Are there any recommended courses for my program?
+    - How can I fulfill the prerequisites for my program?
+    - What steps do I need to take to meet the recommended course requirements?
+    - Are there any specific courses I should take before starting my program?
+    - Can I fulfill the prerequisites through online courses?
+    - Are there any alternative ways to fulfill the prerequisites for my program?
+    - Are there any specific grades or GPA requirements for the prerequisites?
+    - Can I take the recommended courses concurrently with my program?
+    - Are there any specific deadlines for completing the prerequisites?
+
+- intent: opportunitiesstudentsteachingexperienceteachingassistantships
+  examples: |
+    - Are there any opportunities for students to gain teaching experience or participate in teaching assistantships?
+    - Are there any teaching assistantship programs available for students?
+    - Can students gain teaching experience through any opportunities offered by the university?
+    - Are there any teaching assistant positions open for students?
+    - Are there any programs or initiatives for students to gain teaching experience?
+    - Are there any teaching assistantship opportunities specifically for undergraduate students?
+    - Can students participate in teaching assistantships to enhance their teaching skills?
+    - Are there any teaching assistant positions available in specific departments or disciplines?
+    - Are there any requirements or qualifications for students to participate in teaching assistantships?
+    - Are there any benefits or rewards for students who participate in teaching assistantships?
+    - Are there any specific courses or subjects where students can gain teaching experience through assistantships?
+
+- intent: recentgraduatescareerpaths
+  examples: |
+    - Can you tell me about any recent graduates from my program and their career paths after graduation?
+    - Are there any recent graduates from my program who have found success in their careers?
+    - Can you provide information on the career paths of graduates from my program?
+    - Do you have any examples of recent graduates from my program and where they are currently working?
+    - Are there any success stories of graduates from my program and the jobs they have landed?
+    - Can you share any recent success stories of graduates from my program and their professional journeys?
+    - Are there any notable alumni from my program who have achieved significant career success?
+    - Can you provide details on the career trajectories of recent graduates from my program?
+    - Do you have any information on the employment outcomes of graduates from my program?
+    - Are there any recent graduates from my program who have gone on to work in prestigious companies or industries?
+    - Can you tell me about the job placements and career paths of graduates from my program?
+
+- intent: steinberglibraryphonenumber
+  examples: |
+    - What is the phone number for the Steinberg Library?
+    - Can you provide me with the phone number for the Steinberg Library?
+    - How can I contact the Steinberg Library by phone?
+    - Do you happen to know the phone number for the Steinberg Library?
+    - Could you please give me the phone number for the Steinberg Library?
+    - What is the contact number for the Steinberg Library?
+    - Is there a specific phone number I can use to reach the Steinberg Library?
+    - Where can I find the phone number for the Steinberg Library?
+    - Can you help me locate the phone number for the Steinberg Library?
+    - I need to get in touch with the Steinberg Library, do you have their phone number?
+    - Is there a direct line I can call to reach the Steinberg Library?
+
+- intent: counselingcenterservices
+  examples: |
+    - What services does the Counseling Center offer?
+    - What are the services provided by the Counseling Center?
+    - Can you list the services offered by the Counseling Center?
+    - What kind of support does the Counseling Center provide?
+    - What types of counseling services are available at the Counseling Center?
+    - Could you give me an overview of the services offered by the Counseling Center?
+    - What assistance can I expect from the Counseling Center?
+    - What resources does the Counseling Center provide?
+    - What help can I receive from the Counseling Center?
+    - What specific services does the Counseling Center offer?
+    - Can you provide a breakdown of the services available at the Counseling Center?
+
+- intent: wilfcampuslibrariesaddress
+  examples: |
+    - What is the address of the Wilf Campus libraries?
+    - Where can I find the Wilf Campus libraries?
+    - What is the location of the libraries on the Wilf Campus?
+    - Can you provide me with the address of the libraries on the Wilf Campus?
+    - Where are the Wilf Campus libraries situated?
+    - What is the physical address of the libraries on the Wilf Campus?
+    - Could you tell me where the Wilf Campus libraries are located?
+    - What are the addresses of the libraries on the Wilf Campus?
+    - Can you give me directions to the Wilf Campus libraries?
+    - Where exactly are the Wilf Campus libraries?
+    - I'm looking for the Wilf Campus libraries, can you tell me where they are?
+
+- intent: mendelgottesman&pollacklibrariesphonenumber
+  examples: |
+    - What is the phone number for the Mendel Gottesman & Pollack Libraries?
+    - Can you provide me with the phone number for the Mendel Gottesman & Pollack Libraries?
+    - How can I contact the Mendel Gottesman & Pollack Libraries by phone?
+    - What is the telephone number for the Mendel Gottesman & Pollack Libraries?
+    - Could you please give me the phone number for the Mendel Gottesman & Pollack Libraries?
+    - I need to reach the Mendel Gottesman & Pollack Libraries, can you provide their phone number?
+    - What is the contact number for the Mendel Gottesman & Pollack Libraries?
+    - Can you share the phone number of the Mendel Gottesman & Pollack Libraries with me?
+    - How do I get in touch with the Mendel Gottesman & Pollack Libraries via phone?
+    - Is there a specific phone number I can use to reach the Mendel Gottesman & Pollack Libraries?
+    - What phone number should I dial to reach the Mendel Gottesman & Pollack Libraries?
+
+- intent: resnickcampuslibraryaddress
+  examples: |
+    - What is the address of the Resnick Campus library?
+    - Where can I find the Resnick Campus library?
+    - What is the location of the Resnick Campus library?
+    - Can you provide me with the address of the library on Resnick Campus?
+    - Where is the Resnick Campus library situated?
+    - What is the street address of the library at Resnick Campus?
+    - Could you tell me the exact address of the Resnick Campus library?
+    - I'm looking for the Resnick Campus library, do you know where it is?
+    - Can you give me directions to the library on Resnick Campus?
+    - What is the physical address of the Resnick Campus library?
+    - Where can I find the library at Resnick Campus?
+
+- intent: websiteonlinelibraryaccess
+  examples: |
+    - What is the website for online library access?
+    - How can I access the online library?
+    - Where can I find the website for the online library?
+    - What is the URL for the online library?
+    - How do I get to the online library's website?
+    - Can you provide me with the website address for the online library?
+    - Where can I go online to access the library's resources?
+    - What is the online library's website called?
+    - Is there a specific website I need to visit to access the library online?
+    - How can I access the library's collection online?
+    - What is the web address for the library's online resources?
+
+- intent: samuelgottesmanlibraryphonenumber
+  examples: |
+    - What is the phone number for the Samuel Gottesman Library?
+    - Can you provide me with the phone number for the Samuel Gottesman Library?
+    - What is the contact number for the Samuel Gottesman Library?
+    - Do you have the phone number for the Samuel Gottesman Library?
+    - Could you please share the telephone number for the Samuel Gottesman Library?
+    - I need the phone number for the Samuel Gottesman Library, can you help?
+    - Can you give me the contact information for the Samuel Gottesman Library?
+    - What is the telephone number for the Samuel Gottesman Library?
+    - Where can I find the phone number for the Samuel Gottesman Library?
+    - Is there a specific phone number I can call for the Samuel Gottesman Library?
+    - How can I reach the Samuel Gottesman Library by phone?
+
+- intent: officeofdisabilityservicespurpose
+  examples: |
+    - What is the purpose of the Office of Disability Services?
+    - What is the role of the Office of Disability Services?
+    - What does the Office of Disability Services aim to achieve?
+    - How does the Office of Disability Services support individuals with disabilities?
+    - What services does the Office of Disability Services provide?
+    - Why was the Office of Disability Services established?
+    - What is the significance of the Office of Disability Services?
+    - How does the Office of Disability Services promote inclusivity?
+    - What are the goals of the Office of Disability Services?
+    - How does the Office of Disability Services assist students with disabilities?
+    - What resources are available through the Office of Disability Services?
+
+- intent: counselingcenterwebsite
+  examples: |
+    - What is the website for the Counseling Center?
+    - What is the official webpage for the Counseling Center?
+    - Where can I find the website of the Counseling Center?
+    - Can you provide me with the URL for the Counseling Center's website?
+    - What is the web address for the Counseling Center?
+    - How can I access the Counseling Center's website?
+    - Do you know the website link for the Counseling Center?
+    - Where can I go online to visit the Counseling Center's website?
+    - What is the online platform for the Counseling Center?
+    - Is there a specific website I should visit for the Counseling Center?
+    - Could you please direct me to the Counseling Center's website?
+
+- intent: counselingcenterphonenumber
+  examples: |
+    - What is the phone number for the Counseling Center?
+    - Can you provide me with the phone number for the Counseling Center?
+    - How can I contact the Counseling Center by phone?
+    - What is the contact number for the Counseling Center?
+    - Do you have the phone number for the Counseling Center?
+    - Could you please give me the phone number for the Counseling Center?
+    - What is the telephone number for the Counseling Center?
+    - Can you share the contact details for the Counseling Center, specifically the phone number?
+    - How do I reach the Counseling Center via phone?
+    - Is there a specific phone number I can call for the Counseling Center?
+    - Where can I find the phone number for the Counseling Center?
+
+- intent: registrationkatzschool
+  examples: |
+    - When does registration begin at the Katz School?
+    - What is the start date for registration at the Katz School?
+    - When can I start registering for classes at the Katz School?
+    - At what time does registration open at the Katz School?
+    - When does the registration period begin at the Katz School?
+    - What is the registration start date for the Katz School?
+    - When can I sign up for courses at the Katz School?
+    - At what point in the year does registration begin at the Katz School?
+    - When does the registration process start at the Katz School?
+    - What is the opening date for registration at the Katz School?
+    - When should I expect to be able to register for classes at the Katz School?
+
+- intent: studentsregistrationcontact
+  examples: |
+    - Who will contact students about registration?
+    - Who is responsible for reaching out to students regarding registration?
+    - Which department or office will be in charge of contacting students about registration?
+    - Whom should students expect to hear from regarding registration?
+    - Who will be the point of contact for students regarding registration?
+    - Who will be reaching out to students to discuss registration?
+    - Who will be contacting students to provide information about registration?
+    - Who will be responsible for communicating with students about registration?
+    - Who will students receive communication from regarding registration?
+    - Who will be in touch with students regarding registration?
+    - Who will be contacting students to guide them through the registration process?
+
+- intent: studentsclassesregistering
+  examples: |
+    - What should students do before registering for classes?
+    - What steps are necessary for students to take before enrolling in classes?
+    - What preparations should students make prior to registering for their courses?
+    - What are the recommended actions for students before signing up for classes?
+    - What are the important things students need to consider before registering for their courses?
+    - What are the prerequisites students should fulfill before enrolling in classes?
+    - What are the necessary requirements for students before they can register for their courses?
+    - What are the essential tasks students need to complete before signing up for classes?
+    - What are the recommended preparations students should undertake before registering for their courses?
+    - What are the important factors students should take into account before enrolling in classes?
+    - What are the key considerations students need to make before signing up for their courses?
+
+- intent: crn
+  examples: |
+    - What is a CRN?
+    - What does CRN stand for?
+    - Can you explain the meaning of CRN?
+    - What is the definition of CRN?
+    - Could you provide a brief overview of CRN?
+    - Can you give me some information about CRN?
+    - What are the characteristics of a CRN?
+    - How is a CRN different from other acronyms?
+    - What is the purpose of a CRN?
+    - Are there any specific industries or fields where CRNs are commonly used?
+    - Can you give me an example of how a CRN is used in practice?
+
+- intent: timedatecrnimportanceattention
+  examples: |
+    - Why is it important to pay attention to the time and date associated with a CRN?
+    - What is the significance of the time and date linked to a CRN?
+    - How does paying attention to the time and date of a CRN benefit us?
+    - Why should we consider the time and date when dealing with a CRN?
+    - What role does the time and date play in the context of a CRN?
+    - In what ways can the time and date associated with a CRN impact its outcome?
+    - What are the consequences of disregarding the time and date of a CRN?
+    - How does the time and date of a CRN affect its validity?
+    - What factors make the time and date of a CRN important?
+    - How can the time and date of a CRN influence decision-making processes?
+    - What are the potential risks of ignoring the time and date associated with a CRN?
+
+- intent: studentscourseschedulesdescriptionsclasstimescontactquestions
+  examples: |
+    - Who should students contact if they have questions about course schedules, descriptions, and class times?
+    - Where can students find information about course schedules, descriptions, and class times?
+    - Who is the best person to contact for questions about course schedules, descriptions, and class times?
+    - If students have questions about course schedules, descriptions, and class times, who should they reach out to?
+    - Who can provide students with information about course schedules, descriptions, and class times?
+    - If students need clarification on course schedules, descriptions, and class times, who should they contact?
+    - Where should students go if they have questions about course schedules, descriptions, and class times?
+    - Who is responsible for answering questions about course schedules, descriptions, and class times?
+    - If students are unsure about course schedules, descriptions, and class times, who should they ask for help?
+    - Who should students turn to if they have inquiries about course schedules, descriptions, and class times?
+    - Where can students seek assistance regarding course schedules, descriptions, and class times?
+
+- intent: katzschoolnewstudentorientation
+  examples: |
+    - When is the Katz School�s New Student Orientation scheduled?
+    - What is the date and time of the Katz School's New Student Orientation?
+    - When will the Katz School be holding its New Student Orientation?
+    - Can you provide me with the schedule for the Katz School's New Student Orientation?
+    - What day and time should I mark on my calendar for the Katz School's New Student Orientation?
+    - When can I expect the Katz School's New Student Orientation to take place?
+    - Do you have any information on the date and time of the Katz School's New Student Orientation?
+    - Could you please let me know when the Katz School's New Student Orientation is scheduled?
+    - I'm interested in attending the Katz School's New Student Orientation. Can you tell me when it will be held?
+    - Is there a specific date and time set for the Katz School's New Student Orientation?
+    - When should I plan to attend the Katz School's New Student Orientation?
+
+- intent: studentscontactorientationrelatedquestions
+  examples: |
+    - Who should students contact with orientation-related questions?
+    - Whom should students reach out to for orientation-related queries?
+    - Who is the appropriate person for students to contact regarding orientation-related concerns?
+    - To whom should students direct their questions about orientation?
+    - Who can students contact if they have questions about orientation?
+    - Which individual should students get in touch with for orientation-related inquiries?
+    - Who is the designated contact person for students with orientation-related questions?
+    - Whom should students approach if they need assistance with orientation-related matters?
+    - Who should students seek guidance from for orientation-related issues?
+    - Who is responsible for answering students' questions about orientation?
+    - Whom should students consult for any orientation-related doubts?
+
+- intent: socialmediaplatformsstudentskatzschoolfollow
+  examples: |
+    - What social media platforms can students follow the Katz School on?
+    - Which social media platforms does the Katz School have a presence on?
+    - What are the social media accounts that students can follow to stay updated with the Katz School?
+    - On which social media platforms can students find the Katz School?
+    - What are the social media channels where students can connect with the Katz School?
+    - Which social media platforms does the Katz School use to engage with students?
+    - What are the social media accounts that students should follow to get updates from the Katz School?
+    - Where can students find the Katz School on social media?
+    - What are the social media handles that students can follow to stay connected with the Katz School?
+    - On which social media platforms can students find the Katz School's official accounts?
+    - Which social media channels should students follow to receive updates from the Katz School?
+
+- intent: katzschoolstudentshelpfulcontacts
+  examples: |
+    - Who are some helpful contacts for students at the Katz School?
+    - Can you provide a list of contacts that students at the Katz School can reach out to for assistance?
+    - Are there any specific individuals or departments that students at the Katz School can contact for help?
+    - Who can students at the Katz School turn to for support and guidance?
+    - Are there any resources available for students at the Katz School to connect with helpful contacts?
+    - Can you recommend any specific people or offices that students at the Katz School should reach out to for assistance?
+    - What are some recommended contacts for students at the Katz School who need help or advice?
+    - Are there any designated individuals or offices that students at the Katz School can contact for academic or personal support?
+    - Who should students at the Katz School contact if they have questions or concerns?
+    - Can you provide a list of helpful contacts that students at the Katz School can rely on for various needs?
+    - Are there any specific individuals or resources available to students at the Katz School that can provide guidance or assistance?
+
+- intent: msartificialintelligenceapplications
+  examples: |
+    - What are some of the applications that students in the master's degree program in artificial intelligence at Yeshiva University can work on?
+    - What are the potential projects that students in the artificial intelligence master's degree program at Yeshiva University can undertake?
+    - Can you provide examples of the applications that students pursuing a master's degree in artificial intelligence at Yeshiva University can develop?
+    - What kind of projects can students in the artificial intelligence master's program at Yeshiva University engage in?
+    - Are there any specific areas or industries where students in the artificial intelligence master's program at Yeshiva University can apply their skills?
+    - What are some of the practical applications that students in the artificial intelligence master's program at Yeshiva University can explore?
+    - Can you give some examples of the real-world projects that students in the artificial intelligence master's program at Yeshiva University can participate in?
+    - What are the potential research areas that students in the artificial intelligence master's program at Yeshiva University can focus on?
+    - Are there any specific domains or sectors where students in the artificial intelligence master's program at Yeshiva University can contribute their expertise?
+    - What are some of the industry collaborations or partnerships that students in the artificial intelligence master's program at Yeshiva University can be involved in?
+    - Can you provide some insights into the practical applications that students pursuing a master's degree in artificial intelligence at Yeshiva University can explore?
+
+- intent: msartificialintelligenceskillsknowledge
+  examples: |
+    - What are some of the skills and knowledge that students will gain in the master's degree program in artificial intelligence at Yeshiva University?
+    - What skills and knowledge can students expect to acquire in the artificial intelligence master's degree program at Yeshiva University?
+    - What specific abilities and understanding will students develop during their studies in the artificial intelligence master's program at Yeshiva University?
+    - What are the key skills and knowledge areas covered in the artificial intelligence master's degree program offered by Yeshiva University?
+    - What can students expect to learn and master in the artificial intelligence master's program at Yeshiva University?
+    - What are some of the specific competencies and expertise that students will gain through the artificial intelligence master's degree program at Yeshiva University?
+    - What skills and knowledge will be emphasized and cultivated in the artificial intelligence master's program at Yeshiva University?
+    - What are the main areas of focus in the artificial intelligence master's degree program at Yeshiva University?
+    - What are the core skills and knowledge that students will acquire in the artificial intelligence master's program at Yeshiva University?
+    - What specific proficiencies and understanding will students develop as part of the artificial intelligence master's degree program at Yeshiva University?
+    - What are some of the key learning outcomes and areas of expertise that students can expect to achieve in the artificial intelligence master's program at Yeshiva University?
+
+- intent: msartificialintelligencejobopportunities
+  examples: |
+    - What are some of the job opportunities available for graduates of the master's degree program in artificial intelligence at Yeshiva University?
+    - What job prospects are there for graduates of the artificial intelligence master's degree program at Yeshiva University?
+    - What career options are available to those who complete the master's degree program in artificial intelligence at Yeshiva University?
+    - What kind of employment opportunities can graduates of the artificial intelligence master's degree program at Yeshiva University expect?
+    - What are the potential job roles for individuals who complete the master's degree program in artificial intelligence at Yeshiva University?
+    - What are some of the potential career paths for graduates of the artificial intelligence master's degree program at Yeshiva University?
+    - What job opportunities await those who successfully complete the master's degree program in artificial intelligence at Yeshiva University?
+    - What are the employment prospects like for graduates of the artificial intelligence master's degree program at Yeshiva University?
+    - What are some of the possible job options for individuals who graduate from the master's degree program in artificial intelligence at Yeshiva University?
+    - What are the potential career opportunities for those who complete the artificial intelligence master's degree program at Yeshiva University?
+    - What are some of the job prospects for graduates of the master's degree program in artificial intelligence at Yeshiva University?
+
+- intent: yeshivauniversitymsartificialintelligence
+  examples: |
+    - Can undergraduate students at Yeshiva University also pursue a master's degree in artificial intelligence?
+    - Is it possible for undergraduate students at Yeshiva University to pursue a master's degree in artificial intelligence?
+    - Can Yeshiva University undergraduate students enroll in a master's program specializing in artificial intelligence?
+    - Are undergraduate students at Yeshiva University eligible to apply for a master's degree in artificial intelligence?
+    - Is there a pathway for Yeshiva University undergraduate students to pursue a master's degree in artificial intelligence?
+    - Do undergraduate students at Yeshiva University have the opportunity to study artificial intelligence at a master's level?
+    - Can Yeshiva University undergraduate students transition into a master's program focused on artificial intelligence?
+    - Are there any master's programs in artificial intelligence available for Yeshiva University undergraduate students?
+    - Is it feasible for undergraduate students at Yeshiva University to pursue a master's degree specifically in artificial intelligence?
+    - Are Yeshiva University undergraduate students allowed to pursue a master's degree in the field of artificial intelligence?
+    - Can undergraduate students at Yeshiva University pursue a master's degree with a specialization in artificial intelligence?
+
+- intent: msartificialintelligenceinternshipspracticaltrainingopportunities
+  examples: |
+    - Are there opportunities for internships and practical training in the master's degree program in artificial intelligence at Yeshiva University?
+    - Are there any internship opportunities available for students pursuing a master's degree in artificial intelligence at Yeshiva University?
+    - Does the master's degree program in artificial intelligence at Yeshiva University offer practical training opportunities?
+    - Are there any chances for internships or practical training in the artificial intelligence master's program at Yeshiva University?
+    - Can students in the master's degree program in artificial intelligence at Yeshiva University participate in internships or practical training?
+    - Are there any industry placements or internships offered as part of the artificial intelligence master's program at Yeshiva University?
+    - Do students in the artificial intelligence master's program at Yeshiva University have the opportunity to gain practical experience through internships?
+    - Are there any hands-on training opportunities available for students pursuing a master's degree in artificial intelligence at Yeshiva University?
+    - Can students in the artificial intelligence master's program at Yeshiva University engage in practical training or internships?
+    - Are there any practical learning experiences, such as internships, offered in the master's degree program in artificial intelligence at Yeshiva University?
+    - Do students in the artificial intelligence master's program at Yeshiva University have the chance to participate in internships or practical training?
+
+- intent: msbiotechnologymanagemententrepreneurshipgoal
+  examples: |
+    - What is the goal of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What is the objective of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What is the purpose of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What are the aims of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What does the M.S. in Biotechnology Management and Entrepreneurship program aim to achieve?
+    - What is the target outcome of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What is the intended result of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What is the desired end goal of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What is the ultimate objective of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What is the main focus of the M.S. in Biotechnology Management and Entrepreneurship program?
+    - What is the primary purpose of the M.S. in Biotechnology Management and Entrepreneurship program?
+
+- intent: biotechfellowsstudents
+  examples: |
+    - How does the Biotech Fellows program benefit students?
+    - What are the advantages of participating in the Biotech Fellows program for students?
+    - In what ways can students benefit from the Biotech Fellows program?
+    - How does the Biotech Fellows program contribute to the growth and development of students?
+    - What are the positive outcomes that students can expect from the Biotech Fellows program?
+    - How does the Biotech Fellows program enhance the educational experience of students?
+    - What specific opportunities does the Biotech Fellows program offer to students?
+    - What are the long-term benefits that students can gain from participating in the Biotech Fellows program?
+    - How does the Biotech Fellows program support the career aspirations of students?
+    - What resources and support does the Biotech Fellows program provide to students?
+    - How does the Biotech Fellows program help students build a strong foundation in the field of biotechnology?
+
+- intent: bamspathwaysoptionyeshivacollegesterncollegeforwomen
+  examples: |
+    - Can undergraduate students from Yeshiva College and Stern College for Women pursue the B.A./M.S. Pathways option?
+    - Are Yeshiva College undergraduate students eligible for the B.A./M.S. Pathways option?
+    - Can Stern College for Women undergraduate students pursue the B.A./M.S. Pathways option?
+    - Is the B.A./M.S. Pathways option available to undergraduate students from Yeshiva College and Stern College for Women?
+    - Do Yeshiva College and Stern College for Women offer the B.A./M.S. Pathways option to their undergraduate students?
+    - Are Yeshiva College and Stern College for Women undergraduate students allowed to pursue the B.A./M.S. Pathways option?
+    - Can undergraduate students from Yeshiva College and Stern College for Women enroll in the B.A./M.S. Pathways option?
+    - Is the B.A./M.S. Pathways option open to undergraduate students at Yeshiva College and Stern College for Women?
+    - Are Yeshiva College and Stern College for Women undergraduate students eligible for the B.A./M.S. Pathways program?
+    - Can undergraduate students from Yeshiva College and Stern College for Women participate in the B.A./M.S. Pathways option?
+    - Is the B.A./M.S. Pathways option available to Yeshiva College and Stern College for Women undergraduate students?
+
+- intent: msbiotechnologymanagemententrepreneurshipinternships
+  examples: |
+    - Are internships available for students in the Master's in Biotechnology Management and Entrepreneurship program?
+    - Are there any internships offered specifically for students in the Master's in Biotechnology Management and Entrepreneurship program?
+    - Are internships available for students enrolled in the Biotechnology Management and Entrepreneurship program?
+    - Can students in the Master's in Biotechnology Management and Entrepreneurship program participate in internships?
+    - Are there any internship opportunities for students pursuing the Biotechnology Management and Entrepreneurship program?
+    - Do students in the Master's in Biotechnology Management and Entrepreneurship program have access to internships?
+    - Are internships a part of the curriculum for the Biotechnology Management and Entrepreneurship program?
+    - Are there any industry internships available for students in the Master's in Biotechnology Management and Entrepreneurship program?
+    - Can students in the Biotechnology Management and Entrepreneurship program gain practical experience through internships?
+    - Are there any internship placements specifically for students studying Biotechnology Management and Entrepreneurship?
+    - Are internships offered as part of the Master's program in Biotechnology Management and Entrepreneurship?
+
+- intent: msbiotechnologymanagemententrepreneurshipstemapproved
+  examples: |
+    - Is the Master's in Biotechnology Management and Entrepreneurship program STEM-approved?
+    - Does the Master's in Biotechnology Management and Entrepreneurship program have STEM approval?
+    - Is the Master's in Biotechnology Management and Entrepreneurship program recognized as a STEM program?
+    - Can the Master's in Biotechnology Management and Entrepreneurship program be considered a STEM-approved course?
+    - Is the Master's in Biotechnology Management and Entrepreneurship program accredited as a STEM program?
+    - Does the Master's in Biotechnology Management and Entrepreneurship program meet the criteria for STEM approval?
+    - Is the Master's in Biotechnology Management and Entrepreneurship program eligible for STEM designation?
+    - Has the Master's in Biotechnology Management and Entrepreneurship program received STEM approval?
+    - Is the Master's in Biotechnology Management and Entrepreneurship program classified as a STEM course?
+    - Can the Master's in Biotechnology Management and Entrepreneurship program be categorized as a STEM-approved degree?
+    - Does the Master's in Biotechnology Management and Entrepreneurship program fulfill the requirements for STEM accreditation?
+
+- intent: mscybersecurityskills
+  examples: |
+    - What skills will I develop in the master's in cybersecurity program at the Katz School?
+    - What specific skills can I expect to gain from the master's in cybersecurity program at the Katz School?
+    - How will the master's in cybersecurity program at the Katz School enhance my skillset?
+    - What are the key skills that graduates of the master's in cybersecurity program at the Katz School possess?
+    - In what areas will the master's in cybersecurity program at the Katz School help me develop my skills?
+    - Can you provide examples of the skills that students typically acquire during the master's in cybersecurity program at the Katz School?
+    - How will the master's in cybersecurity program at the Katz School prepare me for a career in the field?
+    - What practical skills will I gain from the master's in cybersecurity program at the Katz School?
+    - Are there any specific technical skills that I will learn in the master's in cybersecurity program at the Katz School?
+    - How will the master's in cybersecurity program at the Katz School help me develop my problem-solving abilities?
+    - What unique skills or knowledge will I acquire through the master's in cybersecurity program at the Katz School?
+
+- intent: mscybersecurityrealworldchallenges
+  examples: |
+    - How does the master's in cybersecurity program at the Katz School prepare students for real-world challenges?
+    - What skills do students gain from the master's in cybersecurity program at the Katz School?
+    - In what ways does the master's in cybersecurity program at the Katz School simulate real-world challenges?
+    - How does the Katz School's master's in cybersecurity program ensure students are prepared for real-world scenarios?
+    - What practical experiences are included in the master's in cybersecurity program at the Katz School?
+    - How does the Katz School's master's in cybersecurity program bridge the gap between theory and real-world application?
+    - What resources are available to students in the master's in cybersecurity program at the Katz School to help them tackle real-world challenges?
+    - Can you provide examples of how the master's in cybersecurity program at the Katz School prepares students for real-world scenarios?
+    - What unique opportunities does the master's in cybersecurity program at the Katz School offer to enhance students' real-world problem-solving abilities?
+    - How does the curriculum of the master's in cybersecurity program at the Katz School align with the demands of the real-world cybersecurity industry?
+    - What support systems are in place within the master's in cybersecurity program at the Katz School to guide students through real-world challenges?
+
+- intent: mscybersecurityresearchindustryprojects
+  examples: |
+    - Can I participate in research and industry projects while pursuing the master's in cybersecurity program at the Katz School?
+    - Is it possible to engage in research and industry projects while enrolled in the master's in cybersecurity program at the Katz School?
+    - Are students allowed to take part in both research and industry projects during their studies in the cybersecurity master's program at the Katz School?
+    - Can I actively participate in research and industry projects while pursuing my master's degree in cybersecurity at the Katz School?
+    - Is it feasible to be involved in research and industry projects while completing the master's in cybersecurity program at the Katz School?
+    - Are students encouraged to engage in research and industry projects alongside their studies in the cybersecurity master's program at the Katz School?
+    - Is it permissible to take part in both research and industry projects while enrolled in the master's in cybersecurity program at the Katz School?
+    - Can I simultaneously participate in research and industry projects while pursuing my master's degree in cybersecurity at the Katz School?
+    - Are there opportunities for students to be involved in research and industry projects while studying in the cybersecurity master's program at the Katz School?
+    - Is it allowed to actively engage in research and industry projects while completing the master's in cybersecurity program at the Katz School?
+    - Can I be part of research and industry projects while pursuing my master's degree in cybersecurity at the Katz School?
+
+- intent: mscybersecuritykatzschool
+  examples: |
+    - Are there any opportunities for undergraduate students to pursue the master's in cybersecurity program at the Katz School?
+    - Can undergraduate students apply for the master's in cybersecurity program at the Katz School?
+    - Are there any pathways for undergraduates to transition into the master's in cybersecurity program at the Katz School?
+    - Is it possible for undergraduate students to continue their studies in cybersecurity at the Katz School?
+    - Are there any options for undergraduates to pursue a master's degree in cybersecurity at the Katz School?
+    - Can undergraduate students enroll in the master's in cybersecurity program at the Katz School?
+    - Are there any provisions for undergraduates to join the master's in cybersecurity program at the Katz School?
+    - Is the master's in cybersecurity program at the Katz School open to undergraduate students?
+    - Are there any opportunities for undergraduates to further their education in cybersecurity at the Katz School?
+    - Can undergraduate students apply for admission to the master's in cybersecurity program at the Katz School?
+    - Is there a possibility for undergraduates to pursue a master's degree in cybersecurity at the Katz School?
+
+- intent: mscybersecurityinternships
+  examples: |
+    - Can international students gain industry experience through internships while studying in the master's in cybersecurity program at the Katz School?
+    - Are internships available for international students in the master's in cybersecurity program at the Katz School?
+    - Can international students in the master's in cybersecurity program at the Katz School participate in industry internships?
+    - Is it possible for international students to gain industry experience through internships while studying in the master's in cybersecurity program at the Katz School?
+    - Do international students have the opportunity to do internships in the cybersecurity industry while enrolled in the master's program at the Katz School?
+    - Are there internships specifically designed for international students in the master's in cybersecurity program at the Katz School?
+    - Can international students in the master's in cybersecurity program at the Katz School engage in internships to gain practical experience?
+    - Are there any restrictions for international students regarding internships in the master's in cybersecurity program at the Katz School?
+    - Are internships a mandatory part of the master's in cybersecurity program for international students at the Katz School?
+    - Are there any limitations or requirements for international students to participate in internships while studying in the master's in cybersecurity program at the Katz School?
+    - Are there any specific guidelines or procedures for international students to follow in order to secure internships in the master's in cybersecurity program at the Katz School?
+
+- intent: msdataanalyticsvisualizationskills
+  examples: |
+    - What skills will I learn in the M.S. in Data Analytics and Visualization program?
+    - What are the specific skills taught in the M.S. in Data Analytics and Visualization program?
+    - Can you provide a list of the skills that students will acquire in the M.S. in Data Analytics and Visualization program?
+    - What are the main areas of focus in terms of skill development in the M.S. in Data Analytics and Visualization program?
+    - Are there any specific technical skills that students will gain from the M.S. in Data Analytics and Visualization program?
+    - How will the M.S. in Data Analytics and Visualization program enhance my data analysis and visualization skills?
+    - What are the practical skills that students will acquire through the M.S. in Data Analytics and Visualization program?
+    - Can you give examples of the skills that graduates of the M.S. in Data Analytics and Visualization program possess?
+    - What are the key competencies that students will develop in the M.S. in Data Analytics and Visualization program?
+    - How will the M.S. in Data Analytics and Visualization program help me improve my data interpretation and visualization abilities?
+    - What specific tools and technologies will be taught in the M.S. in Data Analytics and Visualization program to enhance students' skills?
+
+- intent: msdataanalyticsvisualizationstudents
+  examples: |
+    - How does the M.S. in Data Analytics and Visualization program benefit students?
+    - What are the advantages of enrolling in the M.S. in Data Analytics and Visualization program?
+    - How can students benefit from the M.S. in Data Analytics and Visualization program?
+    - In what ways does the M.S. in Data Analytics and Visualization program help students?
+    - What are the positive outcomes for students who complete the M.S. in Data Analytics and Visualization program?
+    - How does the M.S. in Data Analytics and Visualization program contribute to students' career development?
+    - What specific skills and knowledge do students gain from the M.S. in Data Analytics and Visualization program?
+    - How does the M.S. in Data Analytics and Visualization program enhance students' understanding of data analysis and visualization?
+    - What opportunities does the M.S. in Data Analytics and Visualization program provide for students to apply their learning in real-world scenarios?
+    - How does the M.S. in Data Analytics and Visualization program prepare students for the challenges of the data-driven industry?
+    - What sets the M.S. in Data Analytics and Visualization program apart from other similar programs in terms of student benefits?
+
+- intent: bamspathwaysoptionthemsdataanalyticsvisualizationyeshivacollegesterncollegeforwomen
+  examples: |
+    - Can undergraduate students at Yeshiva College and Stern College for Women take advantage of the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?
+    - Is the B.A./M.S. Pathways option available for undergraduate students at Yeshiva College and Stern College for Women?
+    - Can undergraduate students at Yeshiva College and Stern College for Women pursue the M.S. in Data Analytics and Visualization program?
+    - Are undergraduate students at Yeshiva College and Stern College for Women eligible for the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?
+    - Is the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program open to undergraduate students from Yeshiva College and Stern College for Women?
+    - Do Yeshiva College and Stern College for Women offer the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?
+    - Are undergraduate students from Yeshiva College and Stern College for Women allowed to participate in the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?
+    - Can undergraduate students at Yeshiva College and Stern College for Women enroll in the M.S. in Data Analytics and Visualization program through the B.A./M.S. Pathways option?
+    - Is the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program specifically designed for undergraduate students at Yeshiva College and Stern College for Women?
+    - Are Yeshiva College and Stern College for Women included in the B.A./M.S. Pathways option for the M.S. in Data Analytics and Visualization program?
+    - Are undergraduate students at Yeshiva College and Stern College for Women given the opportunity to pursue the B.A./M.S. Pathways option in the M.S. in Data Analytics and Visualization program?
+
+- intent: msdataanalyticsvisualizationinternships
+  examples: |
+    - Are internships available for students in the M.S. in Data Analytics and Visualization program?
+    - Are there any internships offered specifically for students in the M.S. in Data Analytics and Visualization program?
+    - Do students in the M.S. in Data Analytics and Visualization program have the opportunity to participate in internships?
+    - Are internships a part of the curriculum for students in the M.S. in Data Analytics and Visualization program?
+    - Are there any internship placements available for students enrolled in the M.S. in Data Analytics and Visualization program?
+    - Can students in the M.S. in Data Analytics and Visualization program apply for internships?
+    - Are there any industry partnerships or connections that provide internships for students in the M.S. in Data Analytics and Visualization program?
+    - Are internships a common practice for students pursuing the M.S. in Data Analytics and Visualization program?
+    - Are there any specific requirements or qualifications for students to be eligible for internships in the M.S. in Data Analytics and Visualization program?
+    - Are internships considered valuable experiences for students in the M.S. in Data Analytics and Visualization program?
+    - Are there any success stories or testimonials from students who have completed internships during their M.S. in Data Analytics and Visualization program?
+
+- intent: msdataanalyticsvisualizationstemapproveddegree
+  examples: |
+    - Is the M.S. in Data Analytics and Visualization program a STEM-approved degree?
+    - Does the M.S. in Data Analytics and Visualization program have STEM approval?
+    - Is the M.S. in Data Analytics and Visualization program recognized as a STEM degree?
+    - Can the M.S. in Data Analytics and Visualization program be classified as a STEM-approved degree?
+    - Is the M.S. in Data Analytics and Visualization program considered a STEM degree by accrediting bodies?
+    - Does the M.S. in Data Analytics and Visualization program meet the criteria for a STEM-approved degree?
+    - Is the M.S. in Data Analytics and Visualization program included in the list of STEM degrees?
+    - Is the M.S. in Data Analytics and Visualization program eligible for STEM-related scholarships or grants?
+    - Are graduates of the M.S. in Data Analytics and Visualization program eligible for STEM-related employment opportunities?
+    - Does the M.S. in Data Analytics and Visualization program align with the STEM curriculum guidelines?
+    - Is the M.S. in Data Analytics and Visualization program recognized as a STEM field of study?
+
+- intent: msdigitalmarketingmediaskills
+  examples: |
+    - What skills will I gain from the M.S. in Digital Marketing and Media program?
+    - What are the specific skills that I can expect to acquire through the M.S. in Digital Marketing and Media program?
+    - How will the M.S. in Digital Marketing and Media program enhance my skill set?
+    - What practical skills will I develop during the M.S. in Digital Marketing and Media program?
+    - Can you provide examples of the skills that graduates of the M.S. in Digital Marketing and Media program possess?
+    - What are the key competencies that the M.S. in Digital Marketing and Media program aims to develop?
+    - How will the M.S. in Digital Marketing and Media program prepare me for a career in the digital marketing industry?
+    - Are there any specific technical skills that I will gain from the M.S. in Digital Marketing and Media program?
+    - What are the unique skills that differentiate graduates of the M.S. in Digital Marketing and Media program from other professionals in the field?
+    - Can you provide a comprehensive list of the skills that students typically acquire through the M.S. in Digital Marketing and Media program?
+    - How will the M.S. in Digital Marketing and Media program help me stay up-to-date with the latest trends and advancements in the industry?
+
+- intent: msdigitalmarketingmediacompletiontime
+  examples: |
+    - How long does it take to complete the M.S. in Digital Marketing and Media program?
+    - What is the duration of the M.S. in Digital Marketing and Media program?
+    - How much time does it typically take to finish the M.S. in Digital Marketing and Media program?
+    - What is the average length of the M.S. in Digital Marketing and Media program?
+    - Can you provide an estimate of the time required to complete the M.S. in Digital Marketing and Media program?
+    - How many semesters or years does it take to complete the M.S. in Digital Marketing and Media program?
+    - Is there a specific timeline for completing the M.S. in Digital Marketing and Media program?
+    - What is the expected time commitment for the M.S. in Digital Marketing and Media program?
+    - Are there any options for accelerating the completion of the M.S. in Digital Marketing and Media program?
+    - Can the M.S. in Digital Marketing and Media program be completed on a part-time basis?
+    - Are there any prerequisites or requirements that may affect the duration of the M.S. in Digital Marketing and Media program?
+
+- intent: msdigitalmarketingmediastrategies
+  examples: |
+    - What are some of the strategies covered in the M.S. in Digital Marketing and Media program?
+    - What strategies are taught in the M.S. in Digital Marketing and Media program?
+    - Can you provide examples of strategies covered in the M.S. in Digital Marketing and Media program?
+    - What specific strategies are included in the curriculum of the M.S. in Digital Marketing and Media program?
+    - Are there any innovative strategies discussed in the M.S. in Digital Marketing and Media program?
+    - How comprehensive is the coverage of strategies in the M.S. in Digital Marketing and Media program?
+    - Are the strategies covered in the M.S. in Digital Marketing and Media program applicable to various industries?
+    - Do the strategies taught in the M.S. in Digital Marketing and Media program focus on specific digital platforms?
+    - Are there any case studies or real-world examples used to illustrate the strategies in the M.S. in Digital Marketing and Media program?
+    - Are the strategies covered in the M.S. in Digital Marketing and Media program up-to-date with current industry trends?
+    - Can you provide a brief overview of the strategies covered in the M.S. in Digital Marketing and Media program?
+
+- intent: msdigitalmarketingmediainternships
+  examples: |
+    - Are there any opportunities for internships in the M.S. in Digital Marketing and Media program?
+    - Are internships available for students in the M.S. in Digital Marketing and Media program?
+    - Are there any internship options for students enrolled in the M.S. in Digital Marketing and Media program?
+    - Can students in the M.S. in Digital Marketing and Media program participate in internships?
+    - Are there any internship opportunities specifically for students in the M.S. in Digital Marketing and Media program?
+    - Is there a chance to gain practical experience through internships in the M.S. in Digital Marketing and Media program?
+    - Are internships a part of the curriculum for the M.S. in Digital Marketing and Media program?
+    - Are there any industry partnerships or connections that provide internship opportunities for students in the M.S. in Digital Marketing and Media program?
+    - Do students in the M.S. in Digital Marketing and Media program have the option to pursue internships?
+    - Are there any specific companies or organizations that offer internships to students in the M.S. in Digital Marketing and Media program?
+    - Are internships encouraged or recommended for students in the M.S. in Digital Marketing and Media program?
+
+- intent: msdigitalmarketingmediainternationalstudents
+  examples: |
+    - Can international students participate in the M.S. in Digital Marketing and Media program?
+    - Are international students eligible to enroll in the M.S. in Digital Marketing and Media program?
+    - Is the M.S. in Digital Marketing and Media program open to international students?
+    - Can students from other countries apply for the M.S. in Digital Marketing and Media program?
+    - Are non-U.S. citizens allowed to participate in the M.S. in Digital Marketing and Media program?
+    - Is the M.S. in Digital Marketing and Media program available for international applicants?
+    - Do international students have the opportunity to join the M.S. in Digital Marketing and Media program?
+    - Are there any restrictions for international students applying to the M.S. in Digital Marketing and Media program?
+    - Can students with non-U.S. educational backgrounds apply for the M.S. in Digital Marketing and Media program?
+    - Is the M.S. in Digital Marketing and Media program open to students from around the world?
+    - Are international applicants considered for the M.S. in Digital Marketing and Media program?
+
+- intent: mamathematicscareerprospectsforgraduates
+  examples: |
+    - What are the career prospects for graduates of the M.A. in Mathematics program at Yeshiva University?
+    - What job opportunities are available for graduates of the M.A. in Mathematics program at Yeshiva University?
+    - How successful are graduates of the M.A. in Mathematics program at Yeshiva University in finding employment?
+    - What industries typically hire graduates of the M.A. in Mathematics program at Yeshiva University?
+    - Are there any specific companies or organizations that actively recruit graduates of the M.A. in Mathematics program at Yeshiva University?
+    - What is the average salary range for graduates of the M.A. in Mathematics program at Yeshiva University?
+    - Are there any additional certifications or qualifications that can enhance the career prospects of graduates from the M.A. in Mathematics program at Yeshiva University?
+    - Can graduates of the M.A. in Mathematics program at Yeshiva University pursue careers in academia or research?
+    - Are there any alumni networks or career services available to support graduates of the M.A. in Mathematics program at Yeshiva University?
+    - What are some notable career paths that previous graduates of the M.A. in Mathematics program at Yeshiva University have pursued?
+    - How does the M.A. in Mathematics program at Yeshiva University prepare students for their future careers?
+
+- intent: mamathematicsadmissionrequirementsapplicationprocess
+  examples: |
+    - How does the M.A. in Mathematics program at Yeshiva University prepare students for the job market?
+    - What skills do students gain from the M.A. in Mathematics program at Yeshiva University that are valuable in the job market?
+    - How does the M.A. in Mathematics program at Yeshiva University help students develop their professional network for job opportunities?
+    - What specific courses or curriculum components in the M.A. in Mathematics program at Yeshiva University are designed to enhance students' job market readiness?
+    - Are there any internships or practical experiences included in the M.A. in Mathematics program at Yeshiva University to prepare students for the job market?
+    - How does the M.A. in Mathematics program at Yeshiva University assist students in translating their mathematical knowledge into practical applications for potential employers?
+    - What resources or career services are available to M.A. in Mathematics students at Yeshiva University to support their job search and career development?
+    - Can you provide examples of successful career paths that graduates of the M.A. in Mathematics program at Yeshiva University have pursued?
+    - How does the M.A. in Mathematics program at Yeshiva University stay updated with current industry trends and demands to ensure students are well-prepared for the job market?
+    - Are there any partnerships or collaborations between the M.A. in Mathematics program at Yeshiva University and industry professionals or companies to enhance students' job prospects?
+    - What percentage of M.A. in Mathematics graduates from Yeshiva University secure employment in their field of study within a year of completing the program?
+
+- intent: mamathematicsresearchopportunities
+  examples: |
+    - Are there research opportunities available in the M.A. in Mathematics program at Yeshiva University?
+    - Are there any research opportunities offered in the M.A. in Mathematics program at Yeshiva University?
+    - Can students in the M.A. in Mathematics program at Yeshiva University engage in research?
+    - Are research opportunities available for students pursuing the M.A. in Mathematics at Yeshiva University?
+    - Is there a chance for research involvement in the M.A. in Mathematics program at Yeshiva University?
+    - Do students in the M.A. in Mathematics program at Yeshiva University have the opportunity to conduct research?
+    - Are there any research projects or initiatives in the M.A. in Mathematics program at Yeshiva University?
+    - Are research experiences offered to students enrolled in the M.A. in Mathematics program at Yeshiva University?
+    - Can students in the M.A. in Mathematics program at Yeshiva University participate in research activities?
+    - Are there any research-focused courses or modules in the M.A. in Mathematics program at Yeshiva University?
+    - Are there any research grants or funding opportunities available for students in the M.A. in Mathematics program at Yeshiva University?
+
+- intent: yeshivauniversitymathematicsbamapathway
+  examples: |
+    - Can Yeshiva University undergraduates pursue a B.A./M.A. pathway in the Mathematics program?
+    - Is it possible for Yeshiva University undergraduates to pursue a B.A./M.A. pathway in the Mathematics program?
+    - Can Yeshiva University undergraduates combine their B.A. and M.A. degrees in the Mathematics program?
+    - Is there an option for Yeshiva University undergraduates to pursue a B.A./M.A. pathway specifically in Mathematics?
+    - Are Yeshiva University undergraduates allowed to pursue a combined B.A./M.A. degree in the Mathematics program?
+    - Does Yeshiva University offer a B.A./M.A. pathway for undergraduates interested in Mathematics?
+    - Can Yeshiva University undergraduates enroll in a program that allows them to earn both a B.A. and M.A. in Mathematics?
+    - Is there a program at Yeshiva University that allows undergraduates to pursue a B.A./M.A. pathway in Mathematics?
+    - Are Yeshiva University undergraduates eligible to pursue a combined B.A./M.A. degree specifically in the Mathematics program?
+    - Does Yeshiva University have a pathway for undergraduates to earn both a B.A. and M.A. in Mathematics?
+    - Can Yeshiva University undergraduates follow a B.A./M.A. track in the Mathematics program?
+
+- intent: mamathematicsscholarships
+  examples: |
+    - Is financial aid available for the M.A. in Mathematics program at Yeshiva University?
+    - Does Yeshiva University offer financial aid for the M.A. in Mathematics program?
+    - What types of financial aid are available for the M.A. in Mathematics program at Yeshiva University?
+    - Are scholarships available for the M.A. in Mathematics program at Yeshiva University?
+    - Can I apply for grants to fund my M.A. in Mathematics at Yeshiva University?
+    - Are there any fellowships or assistantships available for the M.A. in Mathematics program at Yeshiva University?
+    - How can I apply for financial aid for the M.A. in Mathematics program at Yeshiva University?
+    - Are there any specific requirements or criteria to be eligible for financial aid for the M.A. in Mathematics program at Yeshiva University?
+    - Are there any deadlines for applying for financial aid for the M.A. in Mathematics program at Yeshiva University?
+    - Can international students apply for financial aid for the M.A. in Mathematics program at Yeshiva University?
+    - Are there any specific GPA or academic performance requirements to be considered for financial aid for the M.A. in Mathematics program at Yeshiva University?
+
+- intent: phdmathematicalsciencesyeshivauniversity
+  examples: |
+    - What are the areas of focus in the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - What specific subjects are covered in the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - Can you provide an overview of the curriculum in the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - What are the main research areas within the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - Are there any specialized tracks or concentrations available within the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - How does the Ph.D. in Mathematical Sciences program at Yeshiva University prepare students for careers in academia or industry?
+    - Are there any unique opportunities or resources available to students in the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - Can you provide information on the faculty members and their areas of expertise within the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - What is the average duration of the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - Are there any prerequisites or specific requirements for admission into the Ph.D. in Mathematical Sciences program at Yeshiva University?
+    - Can you share any recent achievements or notable research projects from students in the Ph.D. in Mathematical Sciences program at Yeshiva University?
+
+- intent: phdmathematicsapplicationdeadlineadmissionteam
+  examples: |
+    - How long does it take to complete the Ph.D. in Mathematics program at Yeshiva University?
+    - What is the duration of the Ph.D. in Mathematics program at Yeshiva University?
+    - How much time is required to finish the Ph.D. in Mathematics program at Yeshiva University?
+    - What is the average length of the Ph.D. in Mathematics program at Yeshiva University?
+    - How many years does it take to complete the Ph.D. in Mathematics program at Yeshiva University?
+    - What is the time commitment for the Ph.D. in Mathematics program at Yeshiva University?
+    - Can you provide an estimate of the completion time for the Ph.D. in Mathematics program at Yeshiva University?
+    - How long is the Ph.D. in Mathematics program at Yeshiva University expected to take?
+    - What is the typical timeline for completing the Ph.D. in Mathematics program at Yeshiva University?
+    - Is there a specific timeframe for completing the Ph.D. in Mathematics program at Yeshiva University?
+    - Are there any factors that may affect the duration of the Ph.D. in Mathematics program at Yeshiva University?
+
+- intent: phdmathematicscareeropportunities
+  examples: |
+    - What career opportunities are available for graduates of the Ph.D. in Mathematics program at Yeshiva University?
+    - What job prospects are there for Ph.D. in Mathematics graduates from Yeshiva University?
+    - What are the employment options for individuals who complete the Ph.D. in Mathematics program at Yeshiva University?
+    - What kind of careers can be pursued by graduates of the Ph.D. in Mathematics program at Yeshiva University?
+    - What are the potential career paths for those who earn a Ph.D. in Mathematics from Yeshiva University?
+    - What job opportunities await graduates of the Ph.D. in Mathematics program at Yeshiva University?
+    - What fields or industries typically hire Ph.D. in Mathematics graduates from Yeshiva University?
+    - What are the chances of finding employment after completing the Ph.D. in Mathematics program at Yeshiva University?
+    - What are the typical job roles for individuals who complete the Ph.D. in Mathematics program at Yeshiva University?
+    - What are the employment prospects like for Ph.D. in Mathematics graduates from Yeshiva University?
+    - What are the potential career advancements for those who complete the Ph.D. in Mathematics program at Yeshiva University?
+
+- intent: mathematicsinternshipopportunitiesforphdstudents
+  examples: |
+    - Are there internship opportunities for Ph.D. students in the Mathematics program at Yeshiva University?
+    - Are there any internship opportunities available for Ph.D. students in the Mathematics program at Yeshiva University?
+    - Do Ph.D. students in the Mathematics program at Yeshiva University have the chance to participate in internships?
+    - Are internships offered to Ph.D. students studying Mathematics at Yeshiva University?
+    - Are there any internship programs specifically designed for Ph.D. students in the Mathematics program at Yeshiva University?
+    - Can Ph.D. students in the Mathematics program at Yeshiva University apply for internships?
+    - Are there any opportunities for Ph.D. students in the Mathematics program at Yeshiva University to gain practical experience through internships?
+    - Are internships available for Ph.D. students specializing in Mathematics at Yeshiva University?
+    - Are there any industry internships offered to Ph.D. students in the Mathematics program at Yeshiva University?
+    - Do Ph.D. students in the Mathematics program at Yeshiva University have the option to pursue internships?
+    - Are there any internship placements available for Ph.D. students studying Mathematics at Yeshiva University?
+
+- intent: phdmathematicsacceptanceratecompetitiveness
+  examples: |
+    - Is the Ph.D. in Mathematics program at Yeshiva University STEM-approved?
+    - Is the Ph.D. program in Mathematics at Yeshiva University recognized as a STEM program?
+    - Does Yeshiva University's Ph.D. in Mathematics fall under the STEM category?
+    - Is the Mathematics Ph.D. program at Yeshiva University accredited as a STEM program?
+    - Can the Ph.D. in Mathematics at Yeshiva University be considered a STEM degree?
+    - Is Yeshiva University's Mathematics Ph.D. program STEM-certified?
+    - Does the Ph.D. program in Mathematics at Yeshiva University meet the criteria for STEM approval?
+    - Is the Mathematics Ph.D. program at Yeshiva University recognized as a STEM field of study?
+    - Can the Ph.D. in Mathematics at Yeshiva University be classified as a STEM degree program?
+    - Is Yeshiva University's Ph.D. in Mathematics included in the list of STEM-approved programs?
+    - Does Yeshiva University's Mathematics Ph.D. program meet the requirements for STEM accreditation?
+
+- intent: occupationaltherapydoctoratekatzschool
+  examples: |
+    - What is the focus of the Occupational Therapy Doctorate program at the Katz School?
+    - What does the Occupational Therapy Doctorate program at the Katz School emphasize?
+    - What is the main area of concentration in the Occupational Therapy Doctorate program at the Katz School?
+    - What specific aspects does the Occupational Therapy Doctorate program at the Katz School prioritize?
+    - What is the primary focus of the Occupational Therapy Doctorate program at the Katz School?
+    - In what area does the Occupational Therapy Doctorate program at the Katz School specialize?
+    - What is the central theme of the Occupational Therapy Doctorate program at the Katz School?
+    - What does the Occupational Therapy Doctorate program at the Katz School primarily aim to teach?
+    - What is the main objective of the Occupational Therapy Doctorate program at the Katz School?
+    - What is the core focus of the Occupational Therapy Doctorate program at the Katz School?
+    - What specific skills or knowledge does the Occupational Therapy Doctorate program at the Katz School emphasize?
+
+- intent: occupationaltherapydoctoratefuturecareers
+  examples: |
+    - How does the Occupational Therapy Doctorate program prepare students for their future careers?
+    - What is the purpose of the Occupational Therapy Doctorate program in preparing students for their future careers?
+    - What specific skills and knowledge do students gain from the Occupational Therapy Doctorate program that are relevant to their future careers?
+    - In what ways does the Occupational Therapy Doctorate program equip students with the necessary tools for success in their future careers?
+    - How does the Occupational Therapy Doctorate program help students transition from academia to the professional world?
+    - What kind of practical experiences or internships are included in the Occupational Therapy Doctorate program to prepare students for their future careers?
+    - Are there any specialized courses or workshops in the Occupational Therapy Doctorate program that focus on career development?
+    - How does the Occupational Therapy Doctorate program support students in building professional networks and connections for their future careers?
+    - What resources or support services are available to students in the Occupational Therapy Doctorate program to assist with career planning and job placement?
+    - Can you provide examples of successful career paths that graduates of the Occupational Therapy Doctorate program have pursued?
+    - How does the Occupational Therapy Doctorate program stay updated with current industry trends and demands to ensure students are well-prepared for their future careers?
+
+- intent: occupationaltherapydoctorateothersthenewyorkmetropolitanarea
+  examples: |
+    - What sets the Occupational Therapy Doctorate program at the Katz School apart from other programs in the New York metropolitan area?
+    - How does the Occupational Therapy Doctorate program at the Katz School differ from other programs in the New York metropolitan area?
+    - What makes the Occupational Therapy Doctorate program at the Katz School unique compared to other programs in the New York metropolitan area?
+    - In what ways does the Occupational Therapy Doctorate program at the Katz School stand out from other programs in the New York metropolitan area?
+    - What distinguishes the Occupational Therapy Doctorate program at the Katz School from other programs in the New York metropolitan area?
+    - What are the key features that differentiate the Occupational Therapy Doctorate program at the Katz School from other programs in the New York metropolitan area?
+    - How does the Occupational Therapy Doctorate program at the Katz School compare to other programs in the New York metropolitan area?
+    - What specific aspects make the Occupational Therapy Doctorate program at the Katz School different from other programs in the New York metropolitan area?
+    - What sets the Occupational Therapy Doctorate program at the Katz School apart from similar programs in the New York metropolitan area?
+    - What factors make the Occupational Therapy Doctorate program at the Katz School stand out among other programs in the New York metropolitan area?
+    - How does the Occupational Therapy Doctorate program at the Katz School excel in comparison to other programs in the New York metropolitan area?
+
+- intent: occupationaltherapydoctorateinterprofessionallearning
+  examples: |
+    - How does the Occupational Therapy Doctorate program promote inter-professional learning?
+    - What are the methods used by the Occupational Therapy Doctorate program to encourage inter-professional learning?
+    - Can you explain how the Occupational Therapy Doctorate program fosters collaboration among different healthcare professionals?
+    - In what ways does the Occupational Therapy Doctorate program facilitate inter-professional learning?
+    - What initiatives does the Occupational Therapy Doctorate program take to promote inter-professional collaboration?
+    - How does the Occupational Therapy Doctorate program encourage students to work with professionals from other healthcare disciplines?
+    - Can you provide examples of inter-professional learning experiences offered by the Occupational Therapy Doctorate program?
+    - What strategies does the Occupational Therapy Doctorate program employ to enhance inter-professional communication and teamwork?
+    - How does the Occupational Therapy Doctorate program ensure that students gain a comprehensive understanding of other healthcare professions?
+    - What role does inter-professional learning play in the curriculum of the Occupational Therapy Doctorate program?
+    - How does the Occupational Therapy Doctorate program prepare students to effectively collaborate with professionals from diverse healthcare backgrounds?
+
+- intent: occupationaltherapydoctoratecareerprospects
+  examples: |
+    - What are the career prospects for graduates of the Occupational Therapy Doctorate program?
+    - What job opportunities are available for graduates of the Occupational Therapy Doctorate program?
+    - What are the employment prospects for individuals with a degree in Occupational Therapy Doctorate?
+    - What kind of careers can graduates pursue after completing the Occupational Therapy Doctorate program?
+    - Are there any specific industries that actively hire graduates from the Occupational Therapy Doctorate program?
+    - What is the demand for professionals with a degree in Occupational Therapy Doctorate?
+    - Can you provide information on the job market for Occupational Therapy Doctorate graduates?
+    - What are the chances of finding a job in the field after completing the Occupational Therapy Doctorate program?
+    - Are there any specific regions or countries where Occupational Therapy Doctorate graduates are in high demand?
+    - What salary range can Occupational Therapy Doctorate graduates expect in their careers?
+    - Are there any specialized roles or positions that Occupational Therapy Doctorate graduates can aim for in their careers?
+
+- intent: physicianassistantshealthcarefield
+  examples: |
+    - What is the role of Physician Assistants in the healthcare field?
+    - How do Physician Assistants contribute to the healthcare field?
+    - What are the responsibilities of Physician Assistants in healthcare?
+    - In what ways do Physician Assistants support healthcare professionals?
+    - What is the significance of Physician Assistants in the healthcare industry?
+    - How do Physician Assistants assist in patient care?
+    - What are the duties of Physician Assistants in the healthcare sector?
+    - What role do Physician Assistants play in the overall healthcare system?
+    - How do Physician Assistants collaborate with other healthcare professionals?
+    - What are the qualifications required to become a Physician Assistant in the healthcare field?
+    - What are the benefits of having Physician Assistants in healthcare settings?
+
+- intent: physicianassistantsmedicaltraining
+  examples: |
+    - How much medical training do Physician Assistants undergo?
+    - What is the extent of medical training that Physician Assistants receive?
+    - How long is the medical training program for Physician Assistants?
+    - What is the duration of the medical training that Physician Assistants undergo?
+    - How many years of medical training do Physician Assistants complete?
+    - What is the level of medical education that Physician Assistants receive?
+    - How much medical knowledge do Physician Assistants acquire during their training?
+    - What is the depth of medical training that Physician Assistants go through?
+    - How comprehensive is the medical training program for Physician Assistants?
+    - What is the extent of clinical training that Physician Assistants receive?
+    - How much medical expertise do Physician Assistants gain through their training?
+
+- intent: physicianassistantspracticelocations
+  examples: |
+    - Where do Physician Assistants practice?
+    - In which settings do Physician Assistants work?
+    - What are the common practice locations for Physician Assistants?
+    - Where can you find Physician Assistants practicing?
+    - What are the typical work environments for Physician Assistants?
+    - In what locations do Physician Assistants typically practice?
+    - Where do Physician Assistants usually work?
+    - What are the primary practice settings for Physician Assistants?
+    - Where are Physician Assistants commonly employed?
+    - What are the main places where Physician Assistants practice?
+    - In which healthcare facilities can you find Physician Assistants?
+
+- intent: physicianassistantsresponsibilities
+  examples: |
+    - What are some of the responsibilities of Physician Assistants?
+    - What are the duties and tasks performed by Physician Assistants?
+    - Can you list some of the roles and responsibilities of Physician Assistants?
+    - What are the main job responsibilities of Physician Assistants?
+    - What are the typical duties of a Physician Assistant?
+    - What are some of the key responsibilities of Physician Assistants in healthcare settings?
+    - Can you provide an overview of the responsibilities of Physician Assistants?
+    - What are the primary functions and obligations of Physician Assistants?
+    - What are the day-to-day tasks and duties of Physician Assistants?
+    - What are some of the core responsibilities of Physician Assistants in patient care?
+    - Can you outline the main responsibilities and obligations of Physician Assistants?
+
+- intent: physicianassistantsprimaryhealthcareprovider
+  examples: |
+    - Can Physician Assistants serve as a patient's primary healthcare provider?
+    - Are Physician Assistants qualified to be a patient's primary healthcare provider?
+    - Is it possible for a patient to have a Physician Assistant as their primary healthcare provider?
+    - Can a patient rely on a Physician Assistant for all their healthcare needs?
+    - Are Physician Assistants capable of serving as the main healthcare provider for a patient?
+    - Is it common for patients to choose a Physician Assistant as their primary healthcare provider?
+    - Do Physician Assistants have the necessary skills and knowledge to be a patient's primary healthcare provider?
+    - Can a patient receive comprehensive healthcare from a Physician Assistant as their primary provider?
+    - Are there any limitations to the role of a Physician Assistant as a primary healthcare provider?
+    - Is it recommended for patients to have a Physician Assistant as their primary healthcare provider?
+    - Can a patient establish a long-term relationship with a Physician Assistant as their primary healthcare provider?
+
+- intent: maphysicsareasofspecialization
+  examples: |
+    - What are the areas of specialization in YU's M.A. in Physics program?
+    - What specific fields of study are covered in YU's M.A. in Physics program?
+    - Can you provide a list of the different areas of specialization offered in YU's M.A. in Physics program?
+    - In which specific areas can students specialize within YU's M.A. in Physics program?
+    - What are the different focus areas available for students pursuing the M.A. in Physics at YU?
+    - Are there any specific concentrations or specializations within YU's M.A. in Physics program?
+    - What are the main areas of study that students can choose from in YU's M.A. in Physics program?
+    - Could you please outline the various specialization options within YU's M.A. in Physics program?
+    - What are the specific research areas that students can specialize in within YU's M.A. in Physics program?
+    - Are there any particular subfields or disciplines that students can focus on within YU's M.A. in Physics program?
+    - Can you provide an overview of the different areas of expertise that students can develop through YU's M.A. in Physics program?
+
+- intent: maphysicscareeropportunities
+  examples: |
+    - What career opportunities can graduates of YU's M.A. in Physics program pursue?
+    - What job prospects are available for graduates of YU's M.A. in Physics program?
+    - What are the potential career paths for individuals who complete YU's M.A. in Physics program?
+    - What employment options are open to those who graduate from YU's M.A. in Physics program?
+    - What are the possible professional opportunities for graduates of YU's M.A. in Physics program?
+    - What kind of jobs can be pursued by individuals who complete YU's M.A. in Physics program?
+    - What are the career possibilities for those who obtain a degree from YU's M.A. in Physics program?
+    - What fields can graduates of YU's M.A. in Physics program enter into?
+    - What are the potential job prospects for individuals with a degree from YU's M.A. in Physics program?
+    - What are the employment prospects for graduates of YU's M.A. in Physics program?
+    - What career paths can be pursued by those who complete YU's M.A. in Physics program?
+
+- intent: yusmaphysicshightechnologyfield
+  examples: |
+    - How does YU's M.A. in Physics program prepare students for the high-technology field?
+    - What is the curriculum of YU's M.A. in Physics program?
+    - Are there any specialized courses in YU's M.A. in Physics program that focus on high-technology?
+    - How do the professors in YU's M.A. in Physics program incorporate real-world applications of physics in their teaching?
+    - Are there any research opportunities in YU's M.A. in Physics program that are specifically related to the high-technology field?
+    - What kind of internships or industry partnerships does YU's M.A. in Physics program offer to students interested in the high-technology field?
+    - Are there any alumni from YU's M.A. in Physics program who have successfully transitioned into high-technology careers?
+    - How does YU's M.A. in Physics program stay updated with the latest advancements in the high-technology field?
+    - Are there any guest lectures or industry experts who visit YU's M.A. in Physics program to share their knowledge and experiences in the high-technology field?
+    - What kind of practical skills do students gain from YU's M.A. in Physics program that are applicable to the high-technology field?
+    - Are there any specific elective courses in YU's M.A. in Physics program that allow students to specialize in a particular area of high-technology?
+
+- intent: acceleratedpathwaymsphysics
+  examples: |
+    - Can YU undergraduates take advantage of an accelerated pathway to complete their master's degree in physics?
+    - Is there an accelerated pathway for YU undergraduates to complete their master's degree in physics?
+    - Are YU undergraduates eligible for an accelerated program to earn a master's degree in physics?
+    - Can YU undergraduates fast-track their master's degree in physics?
+    - Is there a way for YU undergraduates to expedite their master's degree in physics?
+    - Do YU undergraduates have the option to complete their master's degree in physics at an accelerated pace?
+    - Are there any opportunities for YU undergraduates to complete their master's degree in physics more quickly?
+    - Is there a fast-track program available for YU undergraduates pursuing a master's degree in physics?
+    - Can YU undergraduates complete their master's degree in physics in a shorter timeframe?
+    - Are there any accelerated pathways for YU undergraduates interested in a master's degree in physics?
+    - Is there a program at YU that allows undergraduates to earn their master's degree in physics at an accelerated rate?
+
+- intent: yusmaphysicsinternshipspracticaltraining
+  examples: |
+    - Are there opportunities for internships and practical training in YU's M.A. in Physics program?
+    - Does YU's M.A. in Physics program offer internships and practical training opportunities?
+    - Are there any chances for internships and practical training in YU's M.A. in Physics program?
+    - Can students in YU's M.A. in Physics program participate in internships and practical training?
+    - Are internships and practical training included in the curriculum of YU's M.A. in Physics program?
+    - Are there any hands-on experiences available for students in YU's M.A. in Physics program?
+    - Do students in YU's M.A. in Physics program have the opportunity to gain practical experience through internships?
+    - Are there any industry partnerships or collaborations for internships and practical training in YU's M.A. in Physics program?
+    - Are internships and practical training a mandatory part of YU's M.A. in Physics program?
+    - Are there any specific requirements or qualifications for internships and practical training in YU's M.A. in Physics program?
+    - Can students in YU's M.A. in Physics program apply their theoretical knowledge in real-world settings through internships and practical training?
+
+- intent: msspeech-languagepathologyrankingsandreputation
+  examples: |
+    - What sets the M.S. in Speech-Language Pathology program at Yeshiva University apart from other programs?
+    - How does the M.S. in Speech-Language Pathology program at Yeshiva University differ from other programs?
+    - What makes the M.S. in Speech-Language Pathology program at Yeshiva University unique compared to other programs?
+    - In what ways does the M.S. in Speech-Language Pathology program at Yeshiva University stand out from other programs?
+    - What distinguishes the M.S. in Speech-Language Pathology program at Yeshiva University from other programs?
+    - What are the key features that make the M.S. in Speech-Language Pathology program at Yeshiva University different from other programs?
+    - How does the M.S. in Speech-Language Pathology program at Yeshiva University set itself apart from other programs?
+    - What specific aspects of the M.S. in Speech-Language Pathology program at Yeshiva University make it stand out among other programs?
+    - What factors make the M.S. in Speech-Language Pathology program at Yeshiva University exceptional compared to other programs?
+    - What unique qualities does the M.S. in Speech-Language Pathology program at Yeshiva University possess that other programs lack?
+    - How does the M.S. in Speech-Language Pathology program at Yeshiva University excel in comparison to other programs?
+
+- intent: programspeechlanguagepathology
+  examples: |
+    - How does the program prepare students for their future careers in speech-language pathology?
+    - What steps does the program take to equip students for their future careers in speech-language pathology?
+    - In what ways does the program help students in their preparation for future careers in speech-language pathology?
+    - What specific skills and knowledge does the program focus on to prepare students for their future careers in speech-language pathology?
+    - Can you provide examples of how the program prepares students for their future careers in speech-language pathology?
+    - What resources does the program offer to enhance students' readiness for their future careers in speech-language pathology?
+    - How does the program ensure that students are well-prepared for their future careers in speech-language pathology?
+    - What kind of practical experiences or internships does the program provide to prepare students for their future careers in speech-language pathology?
+    - Are there any specific courses or modules within the program that are designed to prepare students for their future careers in speech-language pathology?
+    - How does the program stay updated with the latest advancements and practices in speech-language pathology to better prepare students for their future careers?
+    - Can you share any success stories or testimonials from past students who have benefited from the program in their pursuit of a career in speech-language pathology?
+
+- intent: speechlanguagepathologyprofessionaldevelopmentopportunities
+  examples: |
+    - What opportunities are available for students to enhance their professional development in the field of speech-language pathology?
+    - How can students in the field of speech-language pathology improve their professional development?
+    - Are there any specific programs or workshops available for students to enhance their skills in speech-language pathology?
+    - What resources are provided to students to help them grow professionally in the field of speech-language pathology?
+    - Are there any internships or practical experiences available for students in speech-language pathology?
+    - How can students network with professionals in the field of speech-language pathology to enhance their professional development?
+    - Are there any scholarships or grants available for students pursuing professional development in speech-language pathology?
+    - What organizations or associations can students join to further their professional development in speech-language pathology?
+    - Are there any mentorship programs available for students in speech-language pathology to guide them in their professional growth?
+    - How can students stay updated with the latest research and advancements in speech-language pathology to enhance their professional development?
+    - Are there any conferences or events specifically tailored for students in speech-language pathology to enhance their professional development?
+
+- intent: msspeechlanguagepathologycareerprospectsearningpotential
+  examples: |
+    - What are the potential career prospects and earning potential for graduates of the M.S. in Speech-Language Pathology program?
+    - What are the job opportunities available for graduates of the M.S. in Speech-Language Pathology program?
+    - How much can graduates of the M.S. in Speech-Language Pathology program expect to earn?
+    - What are the career prospects for individuals with a master's degree in Speech-Language Pathology?
+    - What are the potential earnings for professionals in the field of Speech-Language Pathology?
+    - What kind of jobs can graduates of the M.S. in Speech-Language Pathology program pursue?
+    - How does the job market look for individuals with a master's degree in Speech-Language Pathology?
+    - What is the earning potential for Speech-Language Pathology graduates in different industries?
+    - Are there any specific industries or sectors that offer higher earning potential for M.S. in Speech-Language Pathology graduates?
+    - What are the long-term career growth opportunities for individuals with a master's degree in Speech-Language Pathology?
+    - Can you provide information on the average salaries of professionals in the Speech-Language Pathology field?
+
+- intent: msspeech-languagepathologyopportunitiesjobplacement
+  examples: |
+    - Is the M.S. in Speech-Language Pathology program at Yeshiva University accredited?
+    - Is the M.S. in Speech-Language Pathology program at Yeshiva University recognized by any accrediting bodies?
+    - Does Yeshiva University have accreditation for their M.S. in Speech-Language Pathology program?
+    - Is the Speech-Language Pathology program at Yeshiva University accredited by any professional organizations?
+    - Can you confirm if the M.S. in Speech-Language Pathology program at Yeshiva University is accredited?
+    - Is the accreditation of the M.S. in Speech-Language Pathology program at Yeshiva University up to date?
+    - Are graduates from the M.S. in Speech-Language Pathology program at Yeshiva University eligible for licensure in the field?
+    - Has the M.S. in Speech-Language Pathology program at Yeshiva University ever lost its accreditation?
+    - Are there any specific requirements or standards that the M.S. in Speech-Language Pathology program at Yeshiva University must meet to maintain its accreditation?
+    - Can you provide information on the accrediting agency for the M.S. in Speech-Language Pathology program at Yeshiva University?
+    - Is the accreditation for the M.S. in Speech-Language Pathology program at Yeshiva University recognized nationally or internationally?
+
+- intent: artificialintelligencefaculty
+  examples: |
+    - Who are the faculty of the artificial intelligence program?
+    - Can you provide a list of the faculty members in the artificial intelligence program?
+    - Who teaches the courses in the artificial intelligence program?
+    - What are the names of the professors in the artificial intelligence program?
+    - Could you tell me the faculty members involved in the artificial intelligence program?
+    - Who are the instructors for the artificial intelligence program?
+    - Can you give me some information about the faculty in the artificial intelligence program?
+    - Which professors are part of the artificial intelligence program?
+    - Who are the experts teaching the artificial intelligence program?
+    - Can you provide details about the faculty members in the artificial intelligence program?
+    - What is the composition of the faculty in the artificial intelligence program?
+
+- intent: pabloroldan
+  examples: |
+    - Who is Pablo Roldan?
+    - What is the identity of Pablo Roldan?
+    - Can you provide information about Pablo Roldan?
+    - Who is the person named Pablo Roldan?
+    - Do you know anything about Pablo Roldan?
+    - Can you tell me about Pablo Roldan?
+    - What can you tell me about Pablo Roldan?
+    - Have you heard of someone named Pablo Roldan?
+    - Do you have any knowledge about Pablo Roldan?
+    - Can you give me details about Pablo Roldan?
+    - Who exactly is Pablo Roldan?
+
+- intent: mariangidea
+  examples: |
+    - Who is Marian Gidea?
+    - What is the identity of Marian Gidea?
+    - Can you provide information about Marian Gidea?
+    - Who is the person named Marian Gidea?
+    - Do you know anything about Marian Gidea?
+    - Could you tell me about Marian Gidea?
+    - What can you tell me about Marian Gidea?
+    - Is Marian Gidea a well-known figure?
+    - Have you heard of Marian Gidea before?
+    - Can you give me any details about Marian Gidea?
+    - Where can I find more information about Marian Gidea?
+
+- intent: peternandori
+  examples: |
+    - Who is Peter Nandori?
+    - What is the identity of Peter Nandori?
+    - Can you provide information about Peter Nandori?
+    - Who is the person named Peter Nandori?
+    - Do you know anything about Peter Nandori?
+    - Can you tell me about Peter Nandori?
+    - What can you tell me about Peter Nandori?
+    - Have you heard of Peter Nandori?
+    - Do you have any knowledge about Peter Nandori?
+    - Can you give me details about Peter Nandori?
+    - Who exactly is Peter Nandori?
+
+- intent: youshanzhang
+  examples: |
+    - Who is Youshan Zhang?
+    - What is the identity of Youshan Zhang?
+    - Can you provide information about Youshan Zhang?
+    - Who is the person named Youshan Zhang?
+    - Do you know anything about Youshan Zhang?
+    - Could you tell me about Youshan Zhang?
+    - What can you tell me about Youshan Zhang?
+    - Is Youshan Zhang a well-known individual?
+    - Have you heard of Youshan Zhang before?
+    - Can you give me any details about Youshan Zhang?
+    - Where can I find more information about Youshan Zhang?
+
+- intent: biotechnologymanagemententrepreneurshipfaculty
+  examples: |
+    - Who are the faculty of the biotechnology management and entrepreneurship program?
+    - Can you provide a list of the faculty members in the biotechnology management and entrepreneurship program?
+    - Who teaches the courses in the biotechnology management and entrepreneurship program?
+    - Are there any specific professors or experts who specialize in biotechnology management and entrepreneurship?
+    - What are the names of the faculty members involved in the biotechnology management and entrepreneurship program?
+    - Could you give me some information about the professors who teach in the biotechnology management and entrepreneurship program?
+    - Who are the instructors for the biotechnology management and entrepreneurship courses?
+    - Can you tell me about the academic staff in the biotechnology management and entrepreneurship program?
+    - Are there any renowned industry professionals who teach in the biotechnology management and entrepreneurship program?
+    - What is the background and expertise of the faculty members in the biotechnology management and entrepreneurship program?
+    - Who are the experts that students can learn from in the biotechnology management and entrepreneurship program?
+
+- intent: ranakhan
+  examples: |
+    - Who is Rana Khan?
+    - What is the identity of Rana Khan?
+    - Can you provide information about Rana Khan?
+    - Who is the person known as Rana Khan?
+    - Do you know anything about Rana Khan?
+    - Could you tell me about Rana Khan?
+    - What can you tell me about Rana Khan?
+    - Have you heard of Rana Khan?
+    - Can you give me details about Rana Khan?
+    - Who exactly is Rana Khan?
+    - What do you know about Rana Khan?
+
+- intent: robertfrdiman
+  examples: |
+    - Who is Robert Frdiman?
+    - What is the identity of Robert Frdiman?
+    - Can you provide information about Robert Frdiman?
+    - Who is the person named Robert Frdiman?
+    - Do you know anything about Robert Frdiman?
+    - Could you tell me about Robert Frdiman?
+    - What can you tell me about Robert Frdiman?
+    - Is Robert Frdiman a well-known figure?
+    - Have you heard of Robert Frdiman before?
+    - Can you give me any details about Robert Frdiman?
+    - What is the background of Robert Frdiman?
+
+- intent: jdbrianmalkin
+  examples: |
+    - Who is J.D Brian Malkin?
+    - What is the full name of J.D Brian Malkin?
+    - Can you provide some information about J.D Brian Malkin?
+    - Who is J.D Malkin?
+    - What is the background of J.D Brian Malkin?
+    - Can you tell me more about J.D Brian Malkin?
+    - Where is J.D Brian Malkin from?
+    - What is J.D Brian Malkin known for?
+    - Is J.D Brian Malkin a public figure?
+    - Can you provide any notable achievements of J.D Brian Malkin?
+    - Are there any controversies surrounding J.D Brian Malkin?
+
+- intent: mathematicsfaculty
+  examples: |
+    - Who are the faculty of the mathematics program?
+    - Can you provide a list of the faculty members in the mathematics program?
+    - Who teaches the mathematics courses at this institution?
+    - Are there any specific professors or instructors in the mathematics program?
+    - Could you tell me the names of the faculty members in the mathematics department?
+    - Who are the professors that specialize in mathematics?
+    - Can you give me some information about the faculty in the mathematics program?
+    - Which professors are responsible for teaching the mathematics courses?
+    - Who are the instructors that teach mathematics at this school?
+    - Can you provide me with the names of the mathematics program faculty members?
+    - Are there any notable professors in the mathematics department?
+
+- intent: edwardbelbruno
+  examples: |
+    - Who is Edward Belbruno?
+    - What is the name of the person known as Edward Belbruno?
+    - Can you provide some information about Edward Belbruno?
+    - Who is the individual referred to as Edward Belbruno?
+    - What is the background of Edward Belbruno?
+    - Could you tell me more about Edward Belbruno?
+    - Do you have any details about Edward Belbruno?
+    - Can you give me a brief overview of Edward Belbruno?
+    - Who is the person named Edward Belbruno?
+    - What can you tell me about Edward Belbruno?
+    - Could you provide some insights into Edward Belbruno's identity?
+
+- intent: wenxiongchen
+  examples: |
+    - Who is Wenxiong Chen?
+    - What is the identity of Wenxiong Chen?
+    - Can you provide some information about Wenxiong Chen?
+    - Who is the person named Wenxiong Chen?
+    - Do you know anything about Wenxiong Chen?
+    - Could you tell me about Wenxiong Chen?
+    - What can you tell me about Wenxiong Chen?
+    - Have you heard of Wenxiong Chen before?
+    - Can you give me a brief introduction to Wenxiong Chen?
+    - Do you have any knowledge about Wenxiong Chen?
+    - Who exactly is Wenxiong Chen?
+
+- intent: michaeldalezman
+  examples: |
+    - Who is Michael Dalezman?
+    - What is the identity of Michael Dalezman?
+    - Can you provide information about Michael Dalezman?
+    - Who is the person known as Michael Dalezman?
+    - Do you know anything about Michael Dalezman?
+    - Could you tell me about Michael Dalezman?
+    - What can you tell me about Michael Dalezman?
+    - Is Michael Dalezman a well-known figure?
+    - Have you heard of Michael Dalezman before?
+    - Can you give me any details about Michael Dalezman?
+    - What is the background of Michael Dalezman?
+
+- intent: avigilon
+  examples: |
+    - Who is Avi Gilon?
+    - What is Avi Gilon known for?
+    - Where is Avi Gilon from?
+    - Can you provide some background information on Avi Gilon?
+    - What are Avi Gilon's notable achievements?
+    - Is Avi Gilon a public figure?
+    - How can I contact Avi Gilon?
+    - Are there any controversies surrounding Avi Gilon?
+    - What is Avi Gilon's profession?
+    - Has Avi Gilon received any awards or recognition?
+    - Can you provide a brief biography of Avi Gilon?
+
+- intent: antonellamarini
+  examples: |
+    - Who is Antonella Marini?
+    - What is Antonella Marini known for?
+    - Can you provide some information about Antonella Marini?
+    - Where is Antonella Marini from?
+    - Is Antonella Marini a public figure?
+    - What are Antonella Marini's accomplishments?
+    - How can I contact Antonella Marini?
+    - Is Antonella Marini involved in any specific industry or field?
+    - Are there any notable achievements or awards associated with Antonella Marini?
+    - Can you provide a brief biography of Antonella Marini?
+    - Is Antonella Marini active on social media platforms?
+
+- intent: occupationaltherapyfaculty
+  examples: |
+    - Who are the faculty of the occupational therapy program?
+    - Can you provide a list of the faculty members in the occupational therapy program?
+    - Who teaches the courses in the occupational therapy program?
+    - What are the names of the professors in the occupational therapy program?
+    - Could you tell me the faculty members involved in the occupational therapy program?
+    - Who are the instructors for the occupational therapy program?
+    - Can you give me information about the faculty in the occupational therapy program?
+    - Which professors are part of the occupational therapy program?
+    - Who are the academic staff members in the occupational therapy program?
+    - Can you provide details about the faculty members who teach occupational therapy?
+    - What is the composition of the faculty in the occupational therapy program?
+
+- intent: mindygarfinkel
+  examples: |
+    - Who is Mindy Garfinkel?
+    - What is the identity of Mindy Garfinkel?
+    - Can you provide information about Mindy Garfinkel?
+    - Who is the person named Mindy Garfinkel?
+    - Do you know anything about Mindy Garfinkel?
+    - Could you tell me about Mindy Garfinkel?
+    - What can you tell me about Mindy Garfinkel?
+    - Is Mindy Garfinkel a well-known individual?
+    - Have you heard of Mindy Garfinkel before?
+    - Can you give me any details about Mindy Garfinkel?
+    - Where can I find more information about Mindy Garfinkel?
+
+- intent: amiyawaldmanlevi
+  examples: |
+    - Amiya Waldman-Levi?
+    - Who is Amiya Waldman-Levi?
+    - What is the full name of Amiya Waldman-Levi?
+    - Can you provide information about Amiya Waldman-Levi?
+    - Do you know anything about Amiya Waldman-Levi?
+    - Have you heard of Amiya Waldman-Levi?
+    - Is Amiya Waldman-Levi a famous person?
+    - Where can I find more information about Amiya Waldman-Levi?
+    - What is the background of Amiya Waldman-Levi?
+    - Is Amiya Waldman-Levi a public figure?
+    - Can you tell me anything interesting about Amiya Waldman-Levi?
+
+- intent: zesaraebodie
+  examples: |
+    - Who is Zesarae Bodie?
+    - What is the identity of Zesarae Bodie?
+    - Can you provide information about Zesarae Bodie?
+    - Who is the person known as Zesarae Bodie?
+    - What can you tell me about Zesarae Bodie?
+    - Do you have any details on Zesarae Bodie?
+    - Could you give me a brief background on Zesarae Bodie?
+    - What is the story behind Zesarae Bodie?
+    - Can you share any insights about Zesarae Bodie?
+    - Where can I find more information about Zesarae Bodie?
+    - Is there anything notable or significant about Zesarae Bodie?
+
+- intent: alexandrawagner
+  examples: |
+    - Who is Alexandra Wagner?
+    - What is the identity of Alexandra Wagner?
+    - Can you provide information about Alexandra Wagner?
+    - Who is the person known as Alexandra Wagner?
+    - Do you know anything about Alexandra Wagner?
+    - Could you tell me about Alexandra Wagner?
+    - What can you tell me about Alexandra Wagner?
+    - Is Alexandra Wagner a well-known figure?
+    - Have you heard of Alexandra Wagner before?
+    - Can you give me a brief background on Alexandra Wagner?
+    - What is the significance of Alexandra Wagner?
+
+- intent: physicalassistantstudiesfaculty
+  examples: |
+    - Who are the faculty of the physical assistant studies program?
+    - Can you provide a list of the faculty members in the physical assistant studies program?
+    - Who teaches in the physical assistant studies program?
+    - What are the names of the faculty members in the physical assistant studies program?
+    - Could you tell me the faculty members involved in the physical assistant studies program?
+    - Who are the professors in the physical assistant studies program?
+    - Can you give me information about the faculty in the physical assistant studies program?
+    - Which individuals make up the faculty of the physical assistant studies program?
+    - Who are the instructors in the physical assistant studies program?
+    - Can you provide details about the faculty members in the physical assistant studies program?
+    - What is the composition of the faculty in the physical assistant studies program?
+
+- intent: sharonverity
+  examples: |
+    - Who is Sharon Verity?
+    - What is the identity of Sharon Verity?
+    - Can you provide information about Sharon Verity?
+    - Who is the person named Sharon Verity?
+    - Do you know anything about Sharon Verity?
+    - Can you tell me about Sharon Verity?
+    - What can you tell me about Sharon Verity?
+    - Have you heard of Sharon Verity before?
+    - Is Sharon Verity a well-known person?
+    - Can you give me any details about Sharon Verity?
+    - Are you familiar with Sharon Verity?
+
+- intent: fayroseabodeshisha
+  examples: |
+    - Who is Fayrose Abodeshisha?
+    - What is the identity of Fayrose Abodeshisha?
+    - Can you provide information about Fayrose Abodeshisha?
+    - Who is the person named Fayrose Abodeshisha?
+    - Do you know anything about Fayrose Abodeshisha?
+    - Could you tell me about Fayrose Abodeshisha?
+    - What can you tell me about Fayrose Abodeshisha?
+    - Is Fayrose Abodeshisha a well-known figure?
+    - Have you heard of Fayrose Abodeshisha before?
+    - Can you give me any details about Fayrose Abodeshisha?
+    - Where can I find more information about Fayrose Abodeshisha?
+
+- intent: dwaynewilliams
+  examples: |
+    - Who is Dwayne Williams?
+    - What is the identity of Dwayne Williams?
+    - Can you provide information about Dwayne Williams?
+    - Who is the person named Dwayne Williams?
+    - Do you know anything about Dwayne Williams?
+    - Could you tell me about Dwayne Williams?
+    - What can you tell me about Dwayne Williams?
+    - Have you heard of someone named Dwayne Williams?
+    - Can you give me details about Dwayne Williams?
+    - Do you have any knowledge about Dwayne Williams?
+    - Who exactly is Dwayne Williams?
+
+- intent: physicsfaculty
+  examples: |
+    - Who are the faculty of the physics program?
+    - Can you provide a list of the faculty members in the physics program?
+    - Who teaches the physics courses at this university?
+    - What are the names of the professors in the physics department?
+    - Could you tell me the names of the faculty members in the physics program?
+    - Who are the instructors for the physics program?
+    - Can you give me some information about the faculty in the physics program?
+    - Which professors are involved in teaching the physics courses?
+    - Who are the academic staff members in the physics department?
+    - Can you provide a roster of the physics program faculty?
+    - What is the composition of the faculty in the physics program?
+
+- intent: fredyzypman
+  examples: |
+    - Who is Fredy Zypman?
+    - What is the identity of Fredy Zypman?
+    - Can you provide information about Fredy Zypman?
+    - Who is the person known as Fredy Zypman?
+    - What can you tell me about Fredy Zypman?
+    - Do you have any details on Fredy Zypman?
+    - Could you give me a brief overview of Fredy Zypman?
+    - What is the background of Fredy Zypman?
+    - Can you share any insights about Fredy Zypman?
+    - Who is Fredy Zypman and what is his significance?
+    - Where can I find more information about Fredy Zypman?
+
+- intent: neerasherie
+  examples: |
+    - Who is Neer Asherie?
+    - What is Neer Asherie known for?
+    - Where is Neer Asherie from?
+    - What are Neer Asherie's notable achievements?
+    - Can you provide some background information on Neer Asherie?
+    - Is Neer Asherie a public figure?
+    - What field does Neer Asherie work in?
+    - Has Neer Asherie received any awards or recognition?
+    - Are there any books or publications by Neer Asherie?
+    - Can you provide a brief biography of Neer Asherie?
+    - What is Neer Asherie's current occupation?
+
+- intent: sergeybuldyrev
+  examples: |
+    - Who is Sergey Buldyrev?
+    - What is Sergey Buldyrev known for?
+    - Can you provide some information about Sergey Buldyrev?
+    - Where is Sergey Buldyrev from?
+    - What are Sergey Buldyrev's notable achievements?
+    - Is Sergey Buldyrev a public figure?
+    - What is Sergey Buldyrev's profession?
+    - Has Sergey Buldyrev made any significant contributions in his field?
+    - Are there any controversies surrounding Sergey Buldyrev?
+    - Can you provide a brief biography of Sergey Buldyrev?
+    - Is Sergey Buldyrev well-known in his industry?
+
+- intent: gabrielcwilich
+  examples: |
+    - Who is Gabriel Cwilich?
+    - What is the identity of Gabriel Cwilich?
+    - Can you provide information about Gabriel Cwilich?
+    - Who is the person named Gabriel Cwilich?
+    - Do you know anything about Gabriel Cwilich?
+    - Can you tell me about Gabriel Cwilich?
+    - What can you tell me about Gabriel Cwilich?
+    - Have you heard of Gabriel Cwilich?
+    - Who is Gabriel Cwilich and what is their background?
+    - Can you give me a brief overview of Gabriel Cwilich?
+    - What is known about Gabriel Cwilich?
+
+- intent: randrori
+  examples: |
+    - Who is Ran Drori?
+    - What is the identity of Ran Drori?
+    - Can you provide information about Ran Drori?
+    - Who is the person named Ran Drori?
+    - Do you know anything about Ran Drori?
+    - Could you tell me about Ran Drori?
+    - What can you tell me about Ran Drori?
+    - Is Ran Drori a well-known figure?
+    - Have you heard of Ran Drori before?
+    - Can you give me some details about Ran Drori?
+    - What is the background of Ran Drori?
+
+- intent: markedelman
+  examples: |
+    - Who is Mark Edelman?
+    - What is the identity of Mark Edelman?
+    - Can you provide information about Mark Edelman?
+    - Who is the person named Mark Edelman?
+    - Do you know anything about Mark Edelman?
+    - Could you tell me about Mark Edelman?
+    - What can you tell me about Mark Edelman?
+    - Is Mark Edelman a well-known figure?
+    - Can you give me a brief background on Mark Edelman?
+    - Have you heard of someone named Mark Edelman?
+    - What is the significance of Mark Edelman?
+
+- intent: leaferreiradossantos
+  examples: |
+    - Who is Lea Ferreira dos Santos?
+    - What is the identity of Lea Ferreira dos Santos?
+    - Can you provide information about Lea Ferreira dos Santos?
+    - Who is the person named Lea Ferreira dos Santos?
+    - What can you tell me about Lea Ferreira dos Santos?
+    - Do you know anything about Lea Ferreira dos Santos?
+    - Can you give me details about Lea Ferreira dos Santos?
+    - Who is Lea Ferreira dos Santos and what is their background?
+    - Could you provide a brief biography of Lea Ferreira dos Santos?
+    - What is known about Lea Ferreira dos Santos?
+    - Can you tell me more about Lea Ferreira dos Santos?
+
+- intent: emilprodan
+  examples: |
+    - Who is Emil Prodan?
+    - What is the identity of Emil Prodan?
+    - Can you provide information about Emil Prodan?
+    - Who is the person named Emil Prodan?
+    - Do you know anything about Emil Prodan?
+    - Could you tell me about Emil Prodan?
+    - What can you tell me about Emil Prodan?
+    - Is Emil Prodan a well-known figure?
+    - Have you heard of Emil Prodan before?
+    - Can you give me a brief background on Emil Prodan?
+    - Where can I find more information about Emil Prodan?
+
+- intent: speechlanguagepathologyfaculty
+  examples: |
+    - Who are the faculty of the speech-language pathology program?
+    - Can you provide a list of the faculty members in the speech-language pathology program?
+    - Who teaches in the speech-language pathology program?
+    - What are the names of the professors in the speech-language pathology program?
+    - Could you tell me the faculty members involved in the speech-language pathology program?
+    - Who are the instructors in the speech-language pathology program?
+    - Can you give me information about the faculty in the speech-language pathology program?
+    - Which professors are part of the speech-language pathology program?
+    - Who are the experts teaching in the speech-language pathology program?
+    - Can you provide details about the faculty members in the speech-language pathology program?
+    - What is the composition of the faculty in the speech-language pathology program?
+
+- intent: marissabarrera
+  examples: |
+    - Who is Marissa Barrera?
+    - What is Marissa Barrera known for?
+    - Where is Marissa Barrera from?
+    - What does Marissa Barrera do for a living?
+    - Is Marissa Barrera a public figure?
+    - How can I contact Marissa Barrera?
+    - Are there any notable achievements or awards associated with Marissa Barrera?
+    - Can you provide any background information on Marissa Barrera?
+    - Is Marissa Barrera involved in any current projects or initiatives?
+    - Has Marissa Barrera made any significant contributions to her field?
+    - Are there any upcoming events or appearances featuring Marissa Barrera?
+
+- intent: andrewchristler
+  examples: |
+    - Who is Andrew Christler?
+    - What is the identity of Andrew Christler?
+    - Can you provide information about Andrew Christler?
+    - Who is the person named Andrew Christler?
+    - Do you know anything about Andrew Christler?
+    - Could you tell me about Andrew Christler?
+    - What can you tell me about Andrew Christler?
+    - Is Andrew Christler a well-known figure?
+    - Have you heard of Andrew Christler before?
+    - Can you give me some details about Andrew Christler?
+    - What is known about Andrew Christler?
+
+- intent: troyclifforddargin
+  examples: |
+    - Who is Troy Clifford Dargin?
+    - What is the full name of Troy Clifford Dargin?
+    - Can you provide some information about Troy Clifford Dargin?
+    - Who is the person known as Troy Clifford Dargin?
+    - What is the background of Troy Clifford Dargin?
+    - Can you tell me more about Troy Clifford Dargin?
+    - Where is Troy Clifford Dargin from?
+    - What is the occupation of Troy Clifford Dargin?
+    - Is Troy Clifford Dargin a public figure?
+    - Are there any notable achievements or contributions made by Troy Clifford Dargin?
+    - Can you provide any personal details about Troy Clifford Dargin?
+
+- intent: michaelamedved
+  examples: |
+    - Who is Michaela Medved?
+    - What is the identity of Michaela Medved?
+    - Can you provide information about Michaela Medved?
+    - Who is the person named Michaela Medved?
+    - Do you know anything about Michaela Medved?
+    - Could you tell me about Michaela Medved?
+    - What can you tell me about Michaela Medved?
+    - Have you heard of Michaela Medved?
+    - Can you give me a brief description of Michaela Medved?
+    - Who is Michaela Medved and what is her background?
+    - Where can I find more information about Michaela Medved?
+
+- intent: elisabethmlawski
+  examples: |
+    - Who is Elisabeth Mlawski?
+    - What is the identity of Elisabeth Mlawski?
+    - Can you provide information about Elisabeth Mlawski?
+    - Who is the person named Elisabeth Mlawski?
+    - Do you know anything about Elisabeth Mlawski?
+    - Could you tell me about Elisabeth Mlawski?
+    - What can you tell me about Elisabeth Mlawski?
+    - Is Elisabeth Mlawski a well-known figure?
+    - Can you give me some details about Elisabeth Mlawski?
+    - Who exactly is Elisabeth Mlawski?
+    - Where can I find more information about Elisabeth Mlawski?
+
