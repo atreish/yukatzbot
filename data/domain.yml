@@ -2,11 +2,25 @@ version: "3.1"
 
 intents:
 - greet
+- hru
 - goodbye
 - affirm
 - deny
 - thank
 - bot_challenge
+- graduateprograms
+- katzschoollocation
+- aiprogramoverview
+- biotechprogramoverview
+- cybersecurityprogramoverview
+- davprogramoverview
+- dmmprogramoverview
+- mamathprogramoverview
+- phdmathprogramoverview
+- otprogramoverview
+- paprogramoverview
+- physicsprogramoverview
+- slpprogramoverview
 - admissionrequirementsapplicationprocess
 - programscurriculumresearchopportunities
 - costoftheprogramscholarshipsfinancialaidoptions
@@ -153,11 +167,25 @@ intents:
 
 actions:
 - utter_greet
+- utter_hru
 - utter_goodbye
 - utter_affirm
 - utter_deny
 - utter_youarewelcome 
 - utter_iamabot
+- utter_graduateprograms
+- utter_katzschoollocation
+- utter_aiprogramoverview
+- utter_biotechprogramoverview
+- utter_cybersecurityprogramoverview
+- utter_davprogramoverview
+- utter_dmmprogramoverview
+- utter_mamathprogramoverview
+- utter_phdmathprogramoverview
+- utter_otprogramoverview
+- utter_paprogramoverview
+- utter_physicsprogramoverview
+- utter_slpprogramoverview
 - utter_admissionrequirementsapplicationprocess
 - utter_programscurriculumresearchopportunities
 - utter_costoftheprogramscholarshipsfinancialaidoptions
@@ -305,6 +333,9 @@ actions:
 responses:
   utter_greet:
   - text: "Hello! Welcome to katz school. How may I assist you today?"
+
+  utter_hru:
+  - text: "Hello! I am doing good. How may I help you?"
   
   utter_goodbye:
   - text: "Goodbye! Thank you for your interest. Have a great day."
@@ -320,7 +351,77 @@ responses:
 
   utter_iamabot:
   - text: "Yes, I am an AI assistant created to be helpful, harmless, and honest."
-  
+
+  utter_graduateprograms:
+  - text: "Katz school offers several programs like M.S. in Artificial Intelligence,
+          M.S. in Biotechnology Management and Entrepreneurship,
+          M.S. in Cybersecurity,
+          Online Master's Degree in Cybersecurity,
+          M.S. in Data Analytics and Visualization,
+          M.S. in Digital Marketing and Media,
+          M.A. in Mathematics,
+          Ph.D. in Mathematics,
+          Occupational Therapy Doctorate,
+          M.A. in Physics,
+          M.S. in Physician Assistant Studies,
+          M.S. in Speech-Language Pathology."
+
+  utter_katzschoollocation:
+  - text: "Katz school is located in Yeshiva University - Wilf Campus. Address:500 W 185th St, New York, NY 10033."
+
+  utter_aiprogramoverview:
+  - text: "In this interdisciplinary master’s degree program, you’ll design and build cutting-edge artificial intelligence technologies for a variety of applications, including finance, biotech, cybersecurity, ad-tech and health care. Working with top researchers and accomplished industry experts, you’ll bridge AI and machine learning models, such as supervised and unsupervised learning, deep learning and neural networks, and reinforcement learning with engineering best practices including problem framing, requirements gathering, UI/UX and software development. In addition, you’ll gain hands-on experience with structured and unstructured data using the latest tools, such as Python, R, SQL/NoSQL, TensorFlow, Keras and pyTorch. And you’ll be doing all of this in the heart of New York City.
+          The New York metropolitan area has the highest number of AI-related jobs in the country. As a graduate of Yeshiva University’s master’s degree in artificial intelligence, you’ll be prepared for a variety of artificial-intelligence and machine-learning jobs in research and development groups, product design labs, innovative startups and Ph.D. programs. In its Future of Jobs Report 2020, the World Economic Forum ranked AI and machine learning specialists second among the top 20 jobs increasing in demand in all industries. The U.S. Bureau of Labor Statistics reported on the salaries of the following jobs in 2019: AI engineer ($92,000 to $140,000); data mining and analysis ($100,000 to $220,000); machine learning engineer ($146,000); data scientist ($86,000 to $157,000); and business intelligence developer ($84,000 to $104,000)."  
+
+  utter_biotechprogramoverview:
+  - text: "The M.S. in Biotechnology Management and Entrepreneurship is an interdisciplinary program designed specifically for the workforce needs of the biotechnology industry. This highly competitive program impacts society in the areas of food, fuel and health. In this program, you'll master the mission-critical scientific, technical and business knowledge needed to launch, manage, scale and commercialize biotechnology innovations and delivery systems. You’ll learn what it takes to shepherd a great idea through regulations, clinical trials, compliance and patents. And you'll merge your knowledge of science, technology and business, such as marketing, customer development, analytics and new business development, to effectively bring pharma and biotech products to market. 
+          "  
+
+  utter_cybersecurityprogramoverview:
+  - text: "With the Katz School’s master’s in cybersecurity, you’ll develop the technological and managerial expertise to plan, implement, upgrade, monitor and audit cybersecurity protocols and procedures. You’ll master state-of-the-art technologies and practices, and you’ll get hands-on experience with threat mitigation, detection and defense in the heart of New York City—a global hub for cybersecurity."  
+
+  utter_davprogramoverview:
+  - text: "Data is the information economy’s fuel; like solar energy, it is a renewable resource that can benefit everyone at once without being diminished. Companies want to harvest as much data about people as possible to target them for advertisements, track high-traffic areas in stores or show us more cat videos to keep us on their site longer. Data provides a record of what has already happened, but its main value comes from improved decision-making and predictive capabilities. Major companies choose products and prices based on what you, and others like you, bought in the past. Your data improves their decision-making, boosting corporate profits. By transforming quantitative data into qualitative insights, data analytics professionals shape organizational strategies and impact the bottom line. They also contribute to the greater social good, using data to address pressing challenges in health care, housing, poverty, education and transportation.
+          In the Katz School’s M.S. in Data Analytics and Visualization, you’ll learn to transform raw data into insightful output. You’ll master the underlying science of predictive and exploratory analyses as well as techniques for creating visualizations and data narratives. You’ll master in-demand tools like Python, SQL/NoSQL, Tableau, AWS and AutoML. And unlike other data analytics programs, you’ll experiment with basic AI and machine-learning techniques. Learn from world-class professionals and get real-world predictive and analytical skills in the heart of New York City. Generous scholarships and financial aid are available."  
+
+  utter_dmmprogramoverview:
+  - text: "The Katz School’s M.S. in Digital Marketing and Media is an industry-driven, project-based degree program with a distinct focus on the power of digital media and social drivers of behaviors. This unique master’s degree arms you with essential media, design, communication, behavioral, analytical, technical and research skills. You’ll learn evidence-driven strategies for identifying and segmenting markets, reaching and engaging potential consumers, and converting them into loyal customers. And you’ll master in-demand strategies for social media, SEM, SEO, mobile, email, content and video. Get your M.S. in Digital Marketing and Media from a world-class university. One-year or 15-month programs are available full-time, part-time or weekends, with classes in Manhattan.
+          In the last decade, digital marketing and media has shifted from a niche skill set to a baseline expectation. Companies large and small want professionals who take a digital-first approach to campaigns and brand management using tools such as SEM, SEO, geotargeting, email, content and video. They also expect that their digital spending is based on analytics that produce data-driven insights."  
+
+  utter_mamathprogramoverview:
+  - text: "In the M.A. in Mathematics, students gain a solid foundation in advanced mathematics and develop skills in mathematical modeling, numerical applications and data analysis in order to succeed in a variety of professions. A master's degree in mathematics opens many doors to jobs in finance, technology, biomedicine and data analysis, among others. The master’s program also provides an excellent foundation for our Ph.D. program.
+          Jobs in math occupations are expected to grow 27 percent through 2029, much faster than the average for all occupations, and will add about 56,100 jobs, according to the U.S. Bureau of Labor Statistics. This growth is based on the expectation that businesses and government agencies will continue emphasizing the use of big data. Math salaries were on average $90,410 in 2019. Generous scholarships and financial aid are available for a limited time. Come to New York City to study and network with the best."  
+
+  utter_phdmathprogramoverview:
+  - text: "The Ph.D. in Mathematical Sciences at Yeshiva University emphasizes the many facets of complex systems, with the latter taking abstract or concrete forms such as financial markets, biological systems, quantum materials, meta-materials, fluids, plasmas, networks and big data. The tools of analysis pursued and developed by department faculty include topological, geometrical and functional analysis; optimization theory; complexity theory; partial differential equations of elliptic, hyperbolic and mixed type; noncommutative geometry; operator algebras; risk theory; and ergodic theory.
+          The Ph.D. program offers three tracks: 
+          Track I: Three years of study for students who enter with 60 credits of graduate coursework  
+          Track II: Four years of study for students who enter with 30 credits of graduate coursework 
+          Track III: Five years of study for students who enter with no previous graduate coursework  
+          A Ph.D. in mathematics is the first step to a job in materials science, dynamical systems, complex systems, and more. Students graduating from our Ph.D. program are prepared to pursue mathematics at the highest levels, as research mathematicians, university professors or applied mathematicians in business, industry or government. YU has an exceptional tradition and legacy in mathematical physics and an impressive track record of training research mathematicians. Famous alumni include Hillel Furstenberg (Abel Prize in Mathematics 2020), Benjamin Weiss, Michael Aizenman and Charles Peskin. We also leverage our excellent locations in midtown and uptown Manhattan to provide our students with internships, to build connections, and to land competitive jobs within and outside of academia. 
+          According to the U.S. Bureau of Labor Statistics, median salaries as of 2019 for jobs with a Ph.D. were: actuary ($108,350); postsecondary education administrator ($95,410); mathematician and statistician ($92,030); operations research analyst ($84,810); and postsecondary mathematics and science teacher ($73,690). Generous scholarships and financial aid are available for a limited time. Come to New York City to study and network with the best. Apply now!  "  
+
+  utter_otprogramoverview:
+  - text: "Occupational therapists help people of all ages manage the daily activities, or occupations, they need and want to do; prevent or live better with illness, injury and disability; and promote personal health and well-being.
+          The Katz School’s entry-level Occupational Therapy Doctorate, the first fully accredited entry-level OT doctoral program in the New York metropolitan area, trains caring and competent scholar-practitioners to develop and deliver holistic services through the integration of theory, research and knowledge-based practice and clinical skills.
+          As one of these scholar-practitioners, you will be a lifelong learner, as well as a leader and an advocate for the profession in diverse local and global communities. In state-of-the-art laboratories, nationally and internationally renowned faculty will assist you in applying the knowledge that you've acquired toward building the critical skills that will enable you to promote health, well-being and resilience through occupational engagement.
+          Demand for qualified occupational therapists continues to increase. With YU’s hands-on, entry-level Occupational Therapy Doctorate, you’ll graduate in under three years with the expertise to help clients gain greater independence and confidence in performing the tasks of everyday living. Occupational therapy is ranked in the top 20 in U.S. News & World Report's Top Health Care Jobs. For more information about occupational therapy, visit the American Occupational Therapy Association website here."  
+
+  utter_paprogramoverview:
+  - text: "Physician Assistants (PAs) are medical professionals who diagnose disease, develop and implement treatment plans, perform surgical procedures, prescribe medications and often serve as a patient’s principal health care provider. PAs complete thousands of hours of medical training to become versatile and collaborative clinicians. They practice nationwide, improving patient access to high-quality health care in medical and surgical settings. "  
+
+  utter_physicsprogramoverview:
+  - text: "YU’s M.A. in Physics specializes in solving problems in classical and quantum information, mechanical, optical and electronic materials behavior, propagation of waves, biological matter, dynamics, statistical thermodynamics, and hardware and software development. These activities are of intrinsic interest from a fundamental point of view, and they are also geared toward applied physics and engineering.
+          Our master's in physics explores the fields of foundational and applied physics. It prepares students for careers in academia, industry, teaching, finance and entrepreneurship while also developing an artistic appreciation for observing nature from a physicist’s perspective. With robust knowledge of computer software and hardware development, our graduates secure rewarding jobs in the high-technology field, including developing their own high-tech startups. They also continue on to Ph.D. programs and apply their knowledge in a range of industries, such as engineering, business, finance and medicine. Come to New York City to study and network with the best. Generous scholarships and financial aid are currently available."  
+
+  utter_slpprogramoverview:
+  - text: "The Katz School's M.S. in Speech-Language Pathology, based in New York City, is one of the few SLP programs in the country specializing in the medical aspects of speech-language pathology. Our master's program takes a multidisciplinary approach to diagnosing and treating speech, language, swallowing and communication cases across the lifespan. With three options to pursue your studies—full-time on-campus, full-time online or part-time online—you can choose the program that fits your schedule.
+          While at YU, students participate in four clinical externships, learn how to conduct telehealth sessions and gain clinical experience under the guidance of faculty, supervisors and mentors. Within the coursework, students utilize technology, such as endoscopy, electrical stimulation and ultrasound, to assist with the diagnosis of voice, speech and swallowing disorders. They also obtain the necessary counseling skills to support families facing a challenging diagnosis. In addition, students have the opportunity to attend professional conferences, contribute to scholarly publications and integrate evidence-based practice into clinical practice.
+          At Yeshiva, we’re experts in the medical aspects of speech pathology, and each of us teaches to our own specialty. That’s truly unheard of. ~ Dr. Marissa Barrera, Program Director and Assistant Dean of Health Sciences
+          The program is ideal for ambitious and passionate individuals with a background in communication sciences. Upon graduation, students will be prepared to apply for state licensure, SLP doctoral programs and certification from the American Speech-Language Hearing Association (ASHA).
+          SLP graduates enter the workforce as health care practitioners who are trained and dedicated to the preservation and prolongation of life, including improving the quality of life, health and wellness for people of all ages.
+          Speech-language pathology salaries range from $66,000 to $100,000 based on experience, according to a 2019 ASHA annual salary report. There's no better time to pursue a career in SLP as jobs in the field are expected to grow 25 percent until 2029, much faster than the average for all occupations, according to the U.S. Bureau of Labor Statistics."  
+
   utter_admissionrequirementsapplicationprocess:
   - text: "Please submit the following required document in order to apply:
           Transcripts from all colleges/universities attended
